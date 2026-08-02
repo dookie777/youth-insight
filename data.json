@@ -1,5 +1,5 @@
 {
- "lastUpdate": "2026.08.01",
+ "lastUpdate": "2026.08.03",
  "items": [
   {
    "cat": "01_선수_평가_체계",
@@ -312,6 +312,58 @@
    "date": "2025.12.11",
    "url": "https://www.frontiersin.org/journals/sports-and-active-living/articles/10.3389/fspor.2025.1710194/full",
    "file": "https://drive.google.com/uc?export=download&id=1DEp25hcblPXo9c70d8gX3Py5MFkKq9SG"
+  },
+  {
+   "cat": "01_선수_평가_체계",
+   "sub": "",
+   "type": "paper",
+   "added": "2026.08.02",
+   "en": "Perceptual-cognitive skills in talent development environments: a survey of academy football coaches in the United Kingdom",
+   "ko": "인재 육성 환경의 지각-인지 기술: 영국 아카데미 축구 코치 대상 설문",
+   "summary": "영국 프로 유소년 아카데미 코치 63명(1군 51%·2군 11%·3군 38%, 평균 코칭 경력 15.7년) 설문. 전원 지각-인지기술(PCS) 중요성 동의하나 'PCS에 매우 익숙' 3%·정식 교육 이수 37%에 그쳐 확신(92%)과 실제 이해 간 간극 확인, 75%가 정기 평가하나 표준화된 평가 도구·용어 부재로 발굴·육성 실무 불일치 위험 제기",
+   "source": "Frontiers in Psychology",
+   "date": "2026.3.10",
+   "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1751602/full",
+   "file": "https://drive.google.com/file/d/1OCZJI_MvJOfHnoOrQYljZMhzQfI1bg3F/view?usp=drive_link"
+  },
+  {
+   "cat": "02_선수_발굴_체계",
+   "sub": "",
+   "type": "paper",
+   "added": "2026.08.02",
+   "en": "What does research tell us about scouting in football? A scoping review with evidence gap-map",
+   "ko": "축구 스카우팅 연구의 현황: 근거 격차 지도(evidence gap-map) 스코핑 리뷰",
+   "summary": "원저 15편 분석. 다수 스카우트가 구조화된 방법론 없이 직관에 의존, 선수 평가 순위의 평가자 간 일치도 낮음, 표준 평가 기준·도구 부재 및 스카우트 자격·교육 미흡 지적. 연구의 유럽 편중으로 글로벌 일반화 한계, AI·수리 모델 등 신기술 및 다학제 평가 체계 구축 권고",
+   "source": "International Journal of Sports Science & Coaching",
+   "date": "2025.8.8(온라인)",
+   "url": "https://journals.sagepub.com/doi/10.1177/17479541251365776",
+   "file": "https://drive.google.com/file/d/1BCpemFeHzGqTjXrTqx2ca2CmnbQ9ZEjc/view?usp=drive_link"
+  },
+  {
+   "cat": "07_선수_성장·발달",
+   "sub": "",
+   "type": "paper",
+   "added": "2026.08.02",
+   "en": "Biological Maturation and Physical Performance in Youth Football: Associations Across Professional and Non-Professional Environments",
+   "ko": "유소년 축구의 생물학적 성숙도와 신체 수행: 프로·비프로 환경 간 연관성 비교",
+   "summary": "9~14세 남자 302명(프로 아카데미 122·비프로 180) 횡단 분석. 프로 선수가 대부분 연령군에서 폭발력·민첩성·유연성 우위, 성숙도-수행 유의 연관은 주로 비프로 환경에서 관찰(프로 아카데미는 상대적으로 약함), 상대연령효과는 프로 U13~14에서만 발현, 환경×연령×성숙 3원 상호작용이 민첩성에서 유의(p<0.001)",
+   "source": "Journal of Functional Morphology and Kinesiology",
+   "date": "2026.6.29",
+   "url": "https://www.mdpi.com/2411-5142/11/3/257",
+   "file": "https://drive.google.com/file/d/1Ux4PuZXmZAk7II6Tr0hWznXEzeIi5ptO/view?usp=drive_link"
+  },
+  {
+   "cat": "07_선수_성장·발달",
+   "sub": "",
+   "type": "paper",
+   "added": "2026.08.02",
+   "en": "Growth and maturation in youth female football players and its association with body composition and physical performance: A scoping review",
+   "ko": "유소년 여자 축구 선수의 성장·성숙과 신체 조성·수행 능력 연관성: 스코핑 리뷰",
+   "summary": "연구 46편(종단 28.3%·횡단 71.7%) 분석. 최고신장속도(PHV) 연령 12.4~12.5세·초경 12.8~13세, 조기 성숙자가 체중·체지방 우위, 반동점프·방향전환은 PHV 이후 향상, 스프린트·무산소 지구력은 PHV 이전 최대 향상. 성숙도 반영 훈련 프로그래밍·부상 예방 권고, 여자 선수 성장 연구 자체가 희소함 지적",
+   "source": "International Journal of Sports Science & Coaching",
+   "date": "2025.10.21(온라인)",
+   "url": "https://journals.sagepub.com/doi/10.1177/17479541251380019",
+   "file": "https://drive.google.com/file/d/14tkYvY2PdR7LNJTwjEm-RhRnGhbHZUmN/view?usp=drive_link"
   }
  ]
 }
