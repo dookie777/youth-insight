@@ -1,5 +1,5 @@
 {
- "lastUpdate": "2026.08.03",
+ "lastUpdate": "2026.08.06",
  "items": [
   {
    "cat": "01_선수_평가_체계",
@@ -364,6 +364,71 @@
    "date": "2025.10.21(온라인)",
    "url": "https://journals.sagepub.com/doi/10.1177/17479541251380019",
    "file": "https://drive.google.com/file/d/14tkYvY2PdR7LNJTwjEm-RhRnGhbHZUmN/view?usp=drive_link"
+  },
+  {
+   "cat": "04_훈련_방법",
+   "sub": "",
+   "type": "paper",
+   "added": "2026.08.03",
+   "en": "Training characteristics of professional development activities in elite football players: a systematic review",
+   "ko": "엘리트 축구 선수의 프로 육성 활동 훈련 특성: 체계적 고찰",
+   "summary": "42편 분석(85.7% 남자·85.7% 유럽, WoS·PubMed·Scopus, 2025.8까지). 상위 수준 선수는 더 이른 나이에 축구 입문·아카데미 진입, 아동기 비조직 놀이→청소년기 코치 주도 집중 훈련으로 전환하는 궤적 공통. 엘리트 선수는 훈련 중 노력·도전 지각이 높고 의사결정 정확도·패턴 인지 우수, 아동기 다종목 참여 후 전문화. 엘리트 여자 선수는 혼성 활동으로 구조화 기회 부족 보완",
+   "source": "Frontiers in Psychology",
+   "date": "2026.5.15",
+   "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1826135/full",
+   "file": "https://drive.google.com/file/d/14ryiYVqpYr6w-bZGIpCmrKYLUbOU3qjA/view?usp=drive_link"
+  },
+  {
+   "cat": "01_선수_평가_체계",
+   "sub": "",
+   "type": "paper",
+   "added": "2026.08.03",
+   "en": "Perceptual-cognitive skills and talent development environments in soccer: A scoping review",
+   "ko": "축구의 지각-인지 기술과 인재 육성 환경: 스코핑 리뷰",
+   "summary": "2003–2024년 55편 분석(U9–U19~프로, 남녀·엘리트~그래스루트). 시각 탐색 행동이 전진·바디오리엔테이션·임팩트 패스 등 긍정 수행과 연관, 시선 고정 패턴이 기량·포지션·연령 구분, 엘리트 유소년이 미선발군 대비 의사결정 속도 우위. 다수 연구가 통합적 지각-인지 발달 대신 개별 시각 지표에 국한, 실험실-현장 육성 적용 간 간극 지적",
+   "source": "PLOS One",
+   "date": "2025.7.8",
+   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327721",
+   "file": "https://drive.google.com/file/d/1aV9GGcjb9JIToecHqUvhlLaJBCDrQjKX/view?usp=drive_link"
+  },
+  {
+   "cat": "07_선수_성장·발달",
+   "sub": "",
+   "type": "paper",
+   "added": "2026.08.03",
+   "en": "Adolescent player development within institutional constraints in academy football",
+   "ko": "아카데미 축구의 제도적 제약 속 청소년 선수 육성",
+   "summary": "EPL 아카데미 U12–16 선수 98명 12개월 종단 혼합연구(성숙도·성장속도·경기 수행 평가), 담당 코치 9명 인터뷰 병행. 승리 추구와 선수 육성 간 갈등, 잠재력·수행 판단의 어려움, 엘리트 경쟁 환경의 제약 3개 테마 도출. 성장·성숙 개인차와 선별적 아카데미 환경이 청소년 육성 난제를 심화, 성숙도 정기 모니터링 필요성 제기",
+   "source": "International Journal of Sports Science & Coaching",
+   "date": "2025.2.24(온라인)",
+   "url": "https://journals.sagepub.com/doi/10.1177/17479541241312280",
+   "file": "https://drive.google.com/file/d/1zeYDlQvQVoFKyd51KGKY742IxwM6X2Le/view?usp=drive_link"
+  },
+  {
+   "cat": "02_선수_발굴_체계",
+   "sub": "",
+   "type": "paper",
+   "added": "2026.08.04",
+   "en": "Talent Identification and AI-Driven Decision Tools in Sport: A Policy-Oriented Perspective on Algorithmic Bias, Data Privacy, and Digital Determinism in Player Evaluation",
+   "ko": "스포츠 인재 발굴과 AI 의사결정 도구: 알고리즘 편향·데이터 프라이버시·디지털 결정론에 대한 정책 관점",
+   "summary": "ML 기반 선수 평가의 3대 리스크(엘리트 남성 데이터 편향의 재생산, 선수-기관 간 데이터 권리 비대칭, 유소년 조기 알고리즘 낙인의 자기실현) 규명. 10세 GPS 추적, Pixellot·VEO 저비용 영상, aiScout 등 유소년 적용 사례 검토 및 4대 거버넌스 원칙(데이터 권리·투명성·공정성 검증·국제 감독) 제안, 골드 오픈액세스(CC BY)",
+   "source": "Big Data and Cognitive Computing(MDPI)",
+   "date": "2026.5.7",
+   "url": "https://www.mdpi.com/2504-2289/10/5/146",
+   "file": "https://drive.google.com/file/d/1WnWGE-ycSG40lRMsfz-Y0aig6ZtsOJCV/view?usp=drive_link"
+  },
+  {
+   "cat": "06_육성_정책·제도",
+   "sub": "",
+   "type": "news",
+   "added": "2026.08.04",
+   "en": "FutureFit - updates to grassroots youth football in England",
+   "ko": "잉글랜드 FA 'FutureFit' 풀뿌리 유소년 축구 전면 개편",
+   "summary": "U7 3v3 진입 형식 신설, 각 경기 형식 적용 연령 1년 상향(11v11 U13→U14), 소형 포맷 경험 연장. LJMU 400경기 이상 실증 연구·40여 개 유럽 국가 비교·2년 협의 기반, 2025/26 얼리어답터 리그 선행 적용 후 2026/27 시즌 전국 전면 시행",
+   "source": "The FA(잉글랜드축구협회)",
+   "date": "2025.2.21",
+   "url": "https://www.englandfootball.com/articles/2025/Feb/21/Future-Fit-grassroots-youth-football-england-update-20252102",
+   "file": "https://drive.google.com/file/d/1RpD-AlHaf9rU61M30jhcm82375kWDUiC/view?usp=drive_link"
   }
  ]
 }
