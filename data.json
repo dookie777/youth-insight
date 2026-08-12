@@ -1,5 +1,5 @@
 {
- "lastUpdate": "2026.08.10",
+ "lastUpdate": "2026.08.13",
  "items": [
   {
    "cat": "01_선수_평가_체계",
@@ -585,6 +585,58 @@
    "date": "2026.4.27",
    "url": "https://www.frontiersin.org/journals/sports-and-active-living/articles/10.3389/fspor.2026.1799878/full",
    "file": "https://drive.google.com/file/d/1EUW66b-VFE_5tH3q1aissFruVYUDde26/view?usp=drive_link"
+  },
+  {
+   "cat": "01_선수_평가_체계",
+   "sub": "",
+   "type": "paper",
+   "added": "2026.08.11",
+   "en": "Assessing the stability of tactical learning in youth footballers: the contribution of a metacognitive double-pass method",
+   "ko": "유소년 축구 전술 학습의 안정성 평가: 메타인지 더블패스(DP) 방법의 기여",
+   "summary": "프랑스 아카데미 U13·U15·U18 225명(각 75명) 대상 40개 표준화 애니메이션 전술 시나리오로 즉시 판단(SP)과 지연 재제시(DP) 일관성 평가. SP→DP 안정성 하락 U13 -12.87·U15 -11.01·U18 -9.59%p로 즉시 자기평가의 과대추정 실증, U18조차 고통합 기준(≥0.80) 미달. 전술 지식 평가를 1회 측정이 아닌 반복 안정성 지표로 전환하고 훈련 내 언어화·성찰적 디브리핑·메타인지 피드백 도입 권고(CC BY 오픈액세스)",
+   "source": "Frontiers in Cognition",
+   "date": "2026.3.5",
+   "url": "https://www.frontiersin.org/journals/cognition/articles/10.3389/fcogn.2026.1664983/full",
+   "file": "https://drive.google.com/file/d/1SCXObUBsFYD3No_sEzBZZ5k2jPUp1oF0/view?usp=drive_link"
+  },
+  {
+   "cat": "02_선수_발굴_체계",
+   "sub": "",
+   "type": "news",
+   "added": "2026.08.10",
+   "en": "Signing who they'll become, not who they are (더이룸 스포츠 정리 보고서)",
+   "ko": "툴루즈 FC 프로젝션 모델 기반 선수 발굴 체계",
+   "summary": "툴루즈, Zelus Analytics(現 Teamworks Player ID) 프로젝션 모델로 3~5년 후 도달 수준을 퍼센타일로 예측해 영입. 크레스웰 €450만→€2,800만·반 봄멜 €50만→€1,580만 실증, 리그·역할·팀 시스템 3단계 맥락 보정+CPM 통합 지표, 저연령·저출전 선수에서 예측 이득 최대",
+   "source": "Training Ground Guru",
+   "date": "2026.7.16",
+   "url": "https://trainingground.guru/signing-who-theyll-become-not-who-they-are/",
+   "file": "https://drive.google.com/file/d/1m1ag47LBOiNI-xJTQuL_6wDiPZWDmCAZ/view?usp=drive_link"
+  },
+  {
+   "cat": "03_아카데미_운영_사례",
+   "sub": "",
+   "type": "news",
+   "added": "2026.08.10",
+   "en": "Brentford awarded Category One Academy status (더이룸 스포츠 정리 보고서)",
+   "ko": "브렌트포드 아카데미 재건·카테고리1 승격 전략",
+   "summary": "2016 폐쇄·B팀 모델 전환 후 2022/23 카테고리4 재개→2024 EPPP 최초 두 단계 동시 승격→2026/27 카테고리1 획득. UEFA 유럽 대항전 아카데미 요건이 직접 동인, PGAAC 감사 통과, U21 PL2·U18 프리미어리그 진입, 생산성 랭킹 61위로 인증-육성 성과 분리 과제 병존",
+   "source": "Training Ground Guru",
+   "date": "2026.4.20",
+   "url": "https://trainingground.guru/brentford-awarded-category-one-academy-status/",
+   "file": "https://drive.google.com/file/d/1kSK8lpUdBK7lUQcJSjCZbggqite-k8N1/view?usp=drive_link"
+  },
+  {
+   "cat": "01_선수_평가_체계",
+   "sub": "",
+   "type": "paper",
+   "added": "2026.08.10",
+   "en": "Season-long changes in COD performance, jump, and flexibility in elite youth soccer players",
+   "ko": "엘리트 유소년 시즌 전체 방향전환·점프·유연성 변화 연구",
+   "summary": "세리에A 아카데미 U12~14 45명 한 시즌(2024.9~2025.5) 추적. 방향전환 T-테스트 -1.16초·제자리멀리뛰기 +12.8cm·좌전굴 +1.83cm 유의 개선, 유연성-COD 상관 부재로 능력 간 자동 전이 가정 반박, 영역별 표적 훈련·다영역 모니터링 권고(CC BY 오픈액세스)",
+   "source": "Frontiers in Sports and Active Living",
+   "date": "2026.2.20",
+   "url": "https://www.frontiersin.org/journals/sports-and-active-living/articles/10.3389/fspor.2026.1751542/full",
+   "file": "https://drive.google.com/file/d/1-gXDCWWBvbtLm4otqwpHKAEbWsGOYP9i/view?usp=drive_link"
   }
  ]
 }
