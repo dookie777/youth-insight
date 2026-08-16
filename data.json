@@ -1,5 +1,5 @@
 {
- "lastUpdate": "2026.08.13",
+ "lastUpdate": "2026.08.17",
  "items": [
   {
    "cat": "01_선수_평가_체계",
@@ -637,6 +637,45 @@
    "date": "2026.2.20",
    "url": "https://www.frontiersin.org/journals/sports-and-active-living/articles/10.3389/fspor.2026.1751542/full",
    "file": "https://drive.google.com/file/d/1-gXDCWWBvbtLm4otqwpHKAEbWsGOYP9i/view?usp=drive_link"
+  },
+  {
+   "cat": "03_아카데미_운영_사례",
+   "sub": "",
+   "type": "news",
+   "added": "2026.08.14",
+   "en": "Tait leaves Everton after 20 years following Academy review (더이룸 스포츠 정리 보고서)",
+   "ko": "에버튼 아카데미 전략 리뷰·조직 개편: 장기 근속 지도자 퇴임과 선수 개발 중심 직제 재편",
+   "summary": "2025년 여름 맨유 아카데미 디렉터 출신 닉 콕스 테크니컬 디렉터 영입 후 6개월 전략 리뷰를 거쳐 2026/27 조직 전면 개편. 20년 재직 U21 감독 테이트(1군 데뷔 32명 배출)·17년 재직 스포츠과학 총괄 맥큐언·U18 감독 서던 동시 퇴임, U21 감독직 폐지 후 신설 '아카데미 선수 개발 총괄'로 통합, 아카데미 디렉터(래스트릭)·프로 전환 시니어 코치(커티스, 맨유 출신)·리크루트먼트 총괄(딕슨) 등 기능 중심 직제 재설계. 직전 시즌 TGG 생산성 랭킹 4위 성과에도 구조 개편 단행",
+   "source": "Training Ground Guru",
+   "date": "2026.7.8",
+   "url": "https://trainingground.guru/tait-leaves-everton-after-20-years-following-academy-review/",
+   "file": "https://drive.google.com/file/d/1BulDBIXv6p6UJdSnFOox7o3uEqrBw5g4/view?usp=drive_link"
+  },
+  {
+   "cat": "03_아카데미_운영_사례",
+   "sub": "",
+   "type": "news",
+   "added": "2026.08.13",
+   "en": "Steve Weaver: Bridging pathways at RB Leipzig (더이룸 스포츠 정리 보고서)",
+   "ko": "RB 라이프치히 유스-1군 '패스웨이 브리징' 전략: 잉글랜드 육성 전문가 영입 사례",
+   "summary": "노리치 7년간 홈그로운 24명을 1군 데뷔시킨 스티브 위버를 U16~19 선수·코치 개발 총괄(시니어 디벨롭먼트 코치)로 영입. 그바르디올·소보슬라이 등 외부 영입 의존 탈피와 육성 단계→1군 전환 패스웨이 개선 목표. 18세까지 전일제 교육·코타벡 아카데미 50실 레지덴셜·FIFA 19조 기반 16세 영입 등 독일-잉글랜드 시스템 차이 조명",
+   "source": "Training Ground Guru",
+   "date": "2026.3.3",
+   "url": "https://trainingground.guru/steve-weaver-bridging-pathways-at-rb-leipzig/",
+   "file": "https://drive.google.com/file/d/1Kp00QOJSHv07N-Ca2I6tlx0Ytu_9qhnC/view?usp=drive_link"
+  },
+  {
+   "cat": "03_아카데미_운영_사례",
+   "sub": "",
+   "type": "report",
+   "added": "2026.08.13",
+   "en": "Transition from Academy to First Team Football",
+   "ko": "아카데미-1군 전환 종합 연구 보고서(ECA×Football Benchmark)",
+   "summary": "유럽클럽협회(ECA)·Football Benchmark 공동 134쪽 보고서. 2018/19~2022/23 5시즌 데이터 분석 — 잉글랜드 PL 381명·EFL 353명 데뷔 최다, 아탈란타 연평균 데뷔 8명·전환 7명 최상위, 우크라이나·크로아티아·세르비아 등 동유럽 전환 강세. 벵거 인터뷰, 구단 케이스 스터디, 멘털·소셜·퍼포먼스·의료 전환 지원 프레임워크 수록. 원문 PDF 무료 공개",
+   "source": "ECA(유럽클럽협회)·Football Benchmark",
+   "date": "2024.7.25",
+   "url": "https://footballbenchmark.com/w/eca-report-released-transition-from-academy-to-first-team-football",
+   "file": "https://drive.google.com/file/d/1WgpKhuoUTx_wPrGRgOcCYLeMwuphEXge/view?usp=drive_link"
   }
  ]
 }
