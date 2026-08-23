@@ -1,5 +1,5 @@
 {
- "lastUpdate": "2026.08.20",
+ "lastUpdate": "2026.08.24",
  "items": [
   {
    "cat": "01_선수_평가_체계",
@@ -676,6 +676,71 @@
    "date": "2024.7.25",
    "url": "https://footballbenchmark.com/w/eca-report-released-transition-from-academy-to-first-team-football",
    "file": "https://drive.google.com/file/d/1WgpKhuoUTx_wPrGRgOcCYLeMwuphEXge/view?usp=drive_link"
+  },
+  {
+   "cat": "01_선수_평가_체계",
+   "sub": "",
+   "type": "paper",
+   "added": "2026.08.17",
+   "en": "Handgrip strength in elite youth football: potential for performance prediction and the moderating effects of age and maturation",
+   "ko": "엘리트 유소년 축구의 악력: 수행 예측 잠재력과 연령·성숙도의 조절 효과",
+   "summary": "독일 1·2부 프로 아카데미 2곳 11~19세 221명 대상. 악력이 수직·수평 점프(r=0.69~0.75)·스프린트(r=-0.62~-0.73)와 강한 상관, 악력+연령 조합이 스프린트 분산 최대 67%·점프 61% 설명. 저비용·간편 측정 지표로 자원 제한 환경의 평가 배터리 보조 활용 제안(오픈액세스)",
+   "source": "Frontiers in Sports and Active Living",
+   "date": "2025.7.8",
+   "url": "https://www.frontiersin.org/journals/sports-and-active-living/articles/10.3389/fspor.2025.1625015/full",
+   "file": "https://drive.google.com/file/d/1QdcP56hZu-Ou7aI4AeK3r0pOTp7uKHLo/view?usp=drive_link"
+  },
+  {
+   "cat": "04_훈련_방법",
+   "sub": "",
+   "type": "paper",
+   "added": "2026.08.17",
+   "en": "The effect of plyometric training on physical performance in youth soccer players: A randomized controlled trial with maturation status as a covariate",
+   "ko": "유소년 축구 플라이오메트릭 훈련 효과: 성숙도를 공변량으로 한 무작위 대조 시험",
+   "summary": "체코 10~18세 37명 12주 주 2회(회당 약 20분) 개입 RCT. 20m 스프린트(p≤0.002)·제자리멀리뛰기(p=0.001)·상대 하지 강성(p≤0.003) 유의 개선, 성숙 단계(PHV 전후)와 무관하게 효과가 확인되어 성장 단계 전반에 적용 가능한 저용량 프로토콜 제시(CC BY)",
+   "source": "PLOS One",
+   "date": "2026.5.13",
+   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0349011",
+   "file": "https://drive.google.com/file/d/1rFwpyCYCiDii2cWQosvpxUdC_Mbe3p0x/view?usp=drive_link"
+  },
+  {
+   "cat": "07_선수_성장·발달",
+   "sub": "",
+   "type": "paper",
+   "added": "2026.08.17",
+   "en": "Artificial Intelligence in Sub-Elite Youth Football Players: Predicting Recovery Through Machine Learning Integration of Physical Technical Tactical and Maturational Data",
+   "ko": "서브엘리트 유소년 축구의 AI 회복 예측: 피지컬·기술·전술·성숙 데이터 머신러닝 통합",
+   "summary": "포르투갈 U11·U13 40명 1개 마이크로사이클 158개 변수(GPS 외부 부하·RPE 내부 부하·신체·성숙도·전술 인지)로 5개 ML 알고리즘 비교. 의사결정나무 정확도 70% 최고, 신체·성숙 요인이 회복(TQR)의 최대 예측 인자(설명력 약 40%), 유소년 부하·회복 관리 의사결정 보조 도구 가능성 제시(오픈액세스)",
+   "source": "Healthcare (MDPI)",
+   "date": "2025.12.16",
+   "url": "https://www.mdpi.com/2227-9032/13/24/3301",
+   "file": "https://drive.google.com/file/d/1XHv0OKWzkP0mPBQzLKe8giPVmtiRFLOa/view?usp=drive_link"
+  },
+  {
+   "cat": "06_육성_정책·제도",
+   "sub": "",
+   "type": "news",
+   "added": "2026.08.19",
+   "en": "FIGC launches new technical project for youth football in Italy (더이룸 스포츠 정리 보고서)",
+   "ko": "이탈리아축구연맹(FIGC) 유소년 축구 기술 프로젝트 출범: 5~12세 '이탈리아 모델'과 육성 거버넌스 통합",
+   "summary": "2026.3.18 출범. 비시디 유소년 기술 총괄 아래 기술 부문·유소년학교 부문·클럽 이탈리아 3개 자율 조직을 단일 방향으로 정렬, 프란델리 자문·페로타/잠브로타(월드컵 우승 멤버)가 5~12세 지도 가이드라인 개정 주도. 개인 기술 회복('공을 더 많이') 철학, 광역 13명·지방 115명 기술 코디네이터와 CFT·AST 연계 전국 실행망, 기초활동 책임자 과정 확대·UEFA C 무료 온라인 보수교육, U14 프로젝트로 U15 대표팀 연계. 그라비나 회장 '이탈리아 재능의 공방' 규정",
+   "source": "FIGC(이탈리아축구연맹)",
+   "date": "2026.3.18",
+   "url": "https://www.figc.it/en/figc/figc-launches-new-technical-project-for-youth-football-in-italy-lf7iv7c0",
+   "file": "https://drive.google.com/file/d/1JdPt8VVy3kuxJ1CiDRHS-Otg2sC4G49r/view?usp=drive_link"
+  },
+  {
+   "cat": "07_선수_성장·발달",
+   "sub": "",
+   "type": "paper",
+   "added": "2026.08.19",
+   "en": "Maturity-specific trajectories of physical fitness in talented youth athletes: a longitudinal study of Japanese local talent identification and development programme",
+   "ko": "일본 지역 인재 발굴·육성(L-TID) 프로그램의 성숙도별 체력 발달 궤적: 6년 종단 연구",
+   "summary": "후쿠오카 L-TID(정부 지원 다종목 매칭형) 참가자 96명(초기 코호트 383명, 남 43·여 53) 6년 추적. 남자는 스프린트·폭발력 향상이 최고신장속도(PHV) 시점과 동기화, 여자는 PHV 이후 셔틀런 수행 유의 하락, 반응시간은 성숙과 무관하게 개선 후 8~9학년 정체. 평균 성숙군의 수행 순위 안정성 r=0.09~0.22로 매우 낮아 조기 선발 위험 실증, 성숙 변동 이전 신경인지 발달 통합 권고(CC BY 오픈액세스)",
+   "source": "Frontiers in Sports and Active Living",
+   "date": "2026.5.26",
+   "url": "https://www.frontiersin.org/journals/sports-and-active-living/articles/10.3389/fspor.2026.1821744/full",
+   "file": "https://drive.google.com/file/d/1oaRF4ocMKvxcxOkj-svXYB23e7oLrDd1/view?usp=drive_link"
   }
  ]
 }
