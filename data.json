@@ -1,5 +1,5 @@
 {
- "lastUpdate": "2026.08.27",
+ "lastUpdate": "2026.08.31",
  "items": [
   {
    "cat": "01_선수_평가_체계",
@@ -741,6 +741,123 @@
    "date": "2026.5.26",
    "url": "https://www.frontiersin.org/journals/sports-and-active-living/articles/10.3389/fspor.2026.1821744/full",
    "file": "https://drive.google.com/file/d/1oaRF4ocMKvxcxOkj-svXYB23e7oLrDd1/view?usp=drive_link"
+  },
+  {
+   "cat": "03_아카데미_운영_사례",
+   "sub": "",
+   "type": "news",
+   "added": "2026.08.21",
+   "en": "Chelsea rebrand 19/21s as Cobham Next Gen - and what it means (더이룸 스포츠 정리 보고서)",
+   "ko": "첼시 아카데미 'Cobham Next Gen' 리브랜딩: U21·U19 통합 브랜드 전환",
+   "summary": "첼시가 2026/27 시즌부터 U21·U19 팀을 훈련장 지명 기반 'Cobham Next Gen'(CNG) 단일 브랜드로 통합. PL·FA·UEFA 공식 연령 등록은 유지, PL2·EFL 트로피 참가, 헤드코치 해리 허드슨. U21 평균 연령의 U18 수준 하향과 2025/26 PL2 우승(최연소급 스쿼드)이 배경, 맨시티 2011/12 EDS 선례를 따른 발달 단계 기반 명명",
+   "source": "Training Ground Guru·Chelsea FC",
+   "date": "2026.8.19",
+   "url": "https://trainingground.guru/chelsea-rebrand-19-21s-as-cobham-next-gen-and-what-it-means/",
+   "file": "https://drive.google.com/file/d/1V0y9Q1wTUR1WrNmH3pfK_v9nzbH-BoOM/view?usp=drive_link"
+  },
+  {
+   "cat": "01_선수_평가_체계",
+   "sub": "",
+   "type": "paper",
+   "added": "2026.08.21",
+   "en": "Insights into the personality of 193 German elite youth football players and potential implications for the development of motor performance and injury risk",
+   "ko": "독일 엘리트 유소년 193명 성격 프로파일과 운동 수행·부상 위험의 연관",
+   "summary": "독일 프로구단 산하 엘리트 아카데미 2곳 11~18세 193명 대상 JTCI 성격검사·30m 스프린트·수직점프·부상 이력 분석. 인내·자기주도성 상위, 자극추구·위험회피 하위의 공통 프로파일 확인. 성격과 단기 운동 수행·부상 간 연관은 미미(연령이 스프린트 분산 약 59% 설명), 성격 평가는 선발 지표가 아닌 장기 발달·코칭 개별화 도구로 활용 권고(CC BY 오픈액세스)",
+   "source": "Frontiers in Sports and Active Living",
+   "date": "2026.2.16",
+   "url": "https://www.frontiersin.org/journals/sports-and-active-living/articles/10.3389/fspor.2026.1713872/full",
+   "file": "https://drive.google.com/file/d/1A6le3HMl9SzXwThZdy8IUx6hPO-V267e/view?usp=drive_link"
+  },
+  {
+   "cat": "04_훈련_방법",
+   "sub": "",
+   "type": "paper",
+   "added": "2026.08.21",
+   "en": "Recycling emotions in football: effects of an emotional training program based on psychophysical metaphors with young footballers",
+   "ko": "'심리신체 은유' 기반 유소년 정서 훈련 프로그램의 효과",
+   "summary": "스페인 라라구나대 연구진이 유소년 선수 70명(평균 16.1세, 남 47%·여 53%) 대상 4개월 정서 훈련 프로그램(팀당 6세션, 개념 도입 10분→정서를 신체로 구현하는 볼·전술 훈련 30~40분→성찰 토론 10분) 적용. 자신감 큰 폭 향상, 타인 보고 정서 역량(인식·조절·창의) 및 기술·전술·정서적 경기 역량 개선, 자기효능감은 유의 변화 없음. 통제집단 없는 사전실험 설계 한계(CC BY 오픈액세스)",
+   "source": "Frontiers in Sports and Active Living",
+   "date": "2026.6.2",
+   "url": "https://www.frontiersin.org/journals/sports-and-active-living/articles/10.3389/fspor.2026.1829114/full",
+   "file": "https://drive.google.com/file/d/1SCiWVXgtDefkP8LXrS8XRg5iH1vdqzcb/view?usp=drive_link"
+  },
+  {
+   "cat": "06_육성_정책·제도",
+   "sub": "",
+   "type": "news",
+   "added": "2026.08.24",
+   "en": "Von drei auf fünf Millionen: DFB stockt Nachwuchsfördertopf 3. Liga auf (더이룸 스포츠 정리 보고서)",
+   "ko": "DFB 3부 리가 유소년 육성 기금 300만→500만 유로 확대",
+   "summary": "2026/27 시즌부터 연 배분 총액 500만 유로로 증액(+67%), 3부 리가 1군 팀 한정. 퍼포먼스센터·구단 내 육성·유소년 대표 배출·출전 시간 4대 기준 배분, 자체 육성 5년+독일 U21 자격 990분 이상 출전 보너스 €50,000(센터 미보유 구단 €30,000), U21 소집 €15,000·U18~20 소집 €5,000, 잔여 재원 출전 분 비례. 직전 시즌 U23 출전 시간 비중 30% 역대 최고, 리그 발 유스 대표 20명",
+   "source": "DFB(독일축구연맹)",
+   "date": "2026.3.10",
+   "url": "https://www.dfb.de/news/von-3-auf-5-millionen-dfb-stockt-nachwuchsfoerdertopf-3-liga-auf",
+   "file": "https://drive.google.com/file/d/1Rxuyqe1iVlRqXTaZOHv2Pvh0OHXR_ATX/view?usp=drive_link"
+  },
+  {
+   "cat": "02_선수_발굴_체계",
+   "sub": "",
+   "type": "paper",
+   "added": "2026.08.24",
+   "en": "Environmental factors associated with talent identification of women's youth national team soccer players in the United States",
+   "ko": "미국 여자 유소년 대표(WYNT) 선수 발굴에 작용하는 환경 요인",
+   "summary": "WYNT 스카우트 23명(평균 경력 11.6년) 심층 인터뷰·성찰적 주제 분석. 전국 공통 플레이 스타일 부재, 광대한 국토의 이동 부담·주관적 평가 의존, 지리·사회경제적 접근 격차(pay-to-play 연 $3,000~30,000), 연맹의 제한적 육성 관여와 대학 중심 경로 등 4대 주제 도출(CC BY 오픈액세스)",
+   "source": "PLOS One",
+   "date": "2025.10.9",
+   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0333065",
+   "file": "https://drive.google.com/file/d/1MhdBLHb-g3Irh3P23pKTdr-gYG56NZmj/view?usp=drive_link"
+  },
+  {
+   "cat": "02_선수_발굴_체계",
+   "sub": "",
+   "type": "paper",
+   "added": "2026.08.24",
+   "en": "How do college coaches in the United States identify youth female and male soccer players?",
+   "ko": "미국 대학 코치의 유소년 남녀 축구 선수 식별 방식",
+   "summary": "NCAA 1·2부 코치 178명(여자 프로그램 71·남자 107) 설문(7개 속성 범주·119문항). 기술 숙련도·코칭 수용성·의사결정·활동량을 핵심 속성으로 평가(의사결정 4.6~4.8 최고), 라이브 경기 관찰 선호 88.7~93.1%, 성별 간 우선순위 차이 미미(CC BY 오픈액세스)",
+   "source": "PLOS One",
+   "date": "2025.9.12",
+   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0331134",
+   "file": "https://drive.google.com/file/d/1GyJH4B-LCJndsbO4OOICF8iPmvwXtrgK/view?usp=drive_link"
+  },
+  {
+   "cat": "06_육성_정책·제도",
+   "sub": "",
+   "type": "news",
+   "added": "2026.08.26",
+   "en": "AFC Elite Youth Scheme adds Chinese Football Association to three-star membership (더이룸 스포츠 정리 보고서)",
+   "ko": "AFC 엘리트 유스 스킴 확장: 중국 3성 승급과 동아시아 아카데미 인증 현황",
+   "summary": "CFA 2024.10 2성→2026.6 최고 등급 3성 승급, 산둥 루넝 타이산·상하이 선화·저장 FC가 중국 클럽 아카데미 최초 3성 인증. 2026 상반기 KFA·전북 현대 아카데미(5.4), JFA·FC 이마바리(J리그 클럽 아카데미 최초, 6.5), HKFA·산하 2개 아카데미(7.1) 연쇄 인증·갱신. 2026.3 기준 28개 협회 인증(3성 8·2성 7·1성 13, 심사 중 11), 초청제 협력 플랫폼 '유스 아카데미 네트워크' 출범(2026.3.16, 협회당 최대 2개), 스킴 규정 개정 2027.5 예정",
+   "source": "AFC(아시아축구연맹)",
+   "date": "2026.7.9",
+   "url": "https://www.the-afc.com/en/about_afc/technical/youth_development.html/news/afc-elite-youth-scheme-adds-chinese-football-association-to-three-star-membership",
+   "file": "https://drive.google.com/file/d/1BSkD1thozG-qwkmbGZUKcF6Cr4-rAS9S/view?usp=drive_link"
+  },
+  {
+   "cat": "05_선수_교육(지도)",
+   "sub": "",
+   "type": "news",
+   "added": "2026.08.26",
+   "en": "Coaching Girls Module wins gold at UEFA Grassroots Awards (더이룸 스포츠 정리 보고서)",
+   "ko": "KNVB 코칭 걸스 모듈: 여아 지도 특화 코치 교육의 UEFA 그래스루츠 어워드 골드 수상",
+   "summary": "KNVB×나이키 2024.9 출범 여아 지도 특화 무상 코치 교육. 13~19세 여자 선수 이탈 사유 조사(코칭 지원 부족)에 기반해 설계, 여아 팀 약 3,000개의 89%를 남성 코치가 지도하는 구조 대응. 14개 테마 영상·실용 지침·핸드북·전국 워크숍·스타 앰배서더 결합, 핸드북 2,360부·워크숍 1,250명·만족도 8.6/10, 2026.3.31 니옹 UEFA 그래스루츠 어워드 교육 부문 골드(지원금 €10,000)",
+   "source": "UEFA·KNVB(네덜란드축구협회)",
+   "date": "2026.4.8",
+   "url": "https://www.uefa.com/news-media/news/02a4-204ab89bae51-c686ac1fcbf2-1000--uefa-grassroots-awards-2025-26-best-education-initiative/",
+   "file": "https://drive.google.com/file/d/1IXDVRGLLwi7KSbX4MgTxluwIKWA262ix/view?usp=drive_link"
+  },
+  {
+   "cat": "06_육성_정책·제도",
+   "sub": "",
+   "type": "news",
+   "added": "2026.08.28",
+   "en": "Official launch of the Bundesliga Talent Series: New U21 competition kicks off with 26 clubs in its inaugural season (더이룸 스포츠 정리 보고서)",
+   "ko": "분데스리가 탤런트 시리즈 출범: DFL 신설 U21 보완 대회 분석",
+   "summary": "DFL이 2026.3 총회 만장일치로 신설한 U21 보완 대회의 2026/27 창설 시즌 출범(2026.6.23 발표). 26개 구단(1부 11·2부 15) 선택제 참가, 스위스 시스템·반기 2회 시리즈(2026.9~12/2027.2~4)와 2027 봄 파이널, 구단별 반기 3~6경기·경기당 승점 평균 순위 산정. U17~U21 중심, 오버에이지 경기당 최대 4명(부상 복귀 활용), 훈련센터·중립지 무관중 개최의 저비용 구조. 배경: 구단 85%가 연 450분 미만 출전 U22 선수 18명 이상 보유",
+   "source": "DFL·Bundesliga.com",
+   "date": "2026.6.23",
+   "url": "https://www.bundesliga.com/en/bundesliga/news/bundesliga-talent-series-new-u21-competition-kicks-off-with-26-clubs-37931",
+   "file": "https://drive.google.com/file/d/1Cti2aa4Hv4jS8D5Q-LcreNGZGH_A5Boh/view?usp=drive_link"
   }
  ]
 }
