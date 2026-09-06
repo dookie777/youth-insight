@@ -1,5 +1,5 @@
 {
- "lastUpdate": "2026.09.03",
+ "lastUpdate": "2026.09.07",
  "items": [
   {
    "cat": "01_선수_평가_체계",
@@ -884,6 +884,71 @@
    "date": "2026.4.8",
    "url": "https://trainingground.guru/crewe-to-downgrade-fabled-academy-to-category-three/",
    "file": "https://drive.google.com/file/d/1dLEidvxJtGXukAC7P9HpDwNq6hQH52ro/view?usp=drive_link"
+  },
+  {
+   "cat": "02_선수_발굴_체계",
+   "sub": "",
+   "type": "news",
+   "added": "2026.09.02",
+   "en": "Application Now Open: U.S. Soccer Talent Reporters Program",
+   "ko": "미국축구연맹 '탤런트 리포터' 프로그램: 라이선스 지도자 기반 전국 분산형 유소년 발굴 네트워크",
+   "summary": "B급 이상 라이선스 지도자를 관찰 스카우트로 위촉해 U-13~U-20 고잠재 선수를 전국 단위 발굴. 현장 경기 관찰을 P3 탤런트 ID 디지털 플랫폼에 공통 자질 지표(Key Qualities)로 보고, 연령별 대표팀 모니터링·스카우팅 우선순위에 반영. 세이프 사커 인증·신원 조회 의무, 연중 교육·오피스 아워 지원. 2025-26 파일럿에서 커버리지 확대 효과 검증 후 확대, 지원 접수 2026.8.6~8.20",
+   "source": "U.S. Soccer(미국축구연맹)",
+   "date": "2026.8.6",
+   "url": "https://www.ussoccer.com/stories/2026/08/federation/us-soccer-talent-reporters-program-advancing-the-us-way-through-broader-talent-identification",
+   "file": "https://drive.google.com/file/d/1Od3_DFTADGDTQmAH8PLIcf5B-cimnOxq/view?usp=drive_link"
+  },
+  {
+   "cat": "06_육성_정책·제도",
+   "sub": "",
+   "type": "report",
+   "added": "2026.09.02",
+   "en": "Scottish FA Review of Youth Development in Men's Football",
+   "ko": "스코틀랜드축구협회 유소년 육성 리뷰: 아동기 중심 재편과 아카데미 체계 개편 권고",
+   "summary": "이사회 승인 133쪽 국가 리뷰. 12~16세 편중 투자의 성과 부진 진단(U19·U21 유로 39회 중 1회 본선), 아동기(0~12세) 볼 마스터리·주 6~7일 연습량 중심 재편 제시. 프로-풀뿌리 이중 등록제, 연맹 퍼포먼스 스쿨 단계적 폐지·지역 프로젝트 전환, Club Academy Scotland 개편, 후기 성숙·도서 지역 대상 국가 상주형 프로그램 검토, 상대연령효과 대응 규정(늦은 분기 출생 비율·평균 연령 쿼터·6개월 순환 컷오프), 무료 개방형 시설·풋살 확대 등 40여 개 권고 수록",
+   "source": "Scottish FA(스코틀랜드축구협회)",
+   "date": "2025.10.29",
+   "url": "https://www.scottishfa.co.uk/news/scottish-fa-review-of-youth-development-in-mens-football/",
+   "file": "https://drive.google.com/file/d/11bCwzmVf7SYAusU7IVqzu-Hw7RSPpxpB/view?usp=drive_link"
+  },
+  {
+   "cat": "06_육성_정책·제도",
+   "sub": "",
+   "type": "news",
+   "added": "2026.09.04",
+   "en": "FFK partners with FIFA to launch Talent Academy Kosovo (더이룸 스포츠 정리 보고서)",
+   "ko": "FIFA 탤런트 아카데미 코소보 출범: TDS 기반 국가 유소년 아카데미의 남녀 통합 육성 모델",
+   "summary": "코소보축구연맹(FFK)·FIFA가 프리슈티나에 'FIFA 탤런트 아카데미 코소보' 공식 개원(2026.9.3). 발칸 최초·유럽 3번째·세계 15번째(211개 회원협회 기준), 남녀 유소년 동시 육성은 유럽 최초. 2024 TDS 참여 후 2026 초 운영 개시, 2013년생 대상 전국 순회 선발(2026.2.7 페리자이 개시), 영상 트래킹·퍼포먼스 기술 도입 및 UEFA Pro 과정 코소보 개설 예정",
+   "source": "Inside World Football·KosovaPress·FFK",
+   "date": "2026.9.3",
+   "url": "https://www.insideworldfootball.com/2026/09/03/ffk-partners-with-fifa-for-talent-academy-kosovo",
+   "file": "https://drive.google.com/file/d/1u2bnC2M8dj0dtHW0JkX6woZ6ea2NQUAw/view?usp=drive_link"
+  },
+  {
+   "cat": "02_선수_발굴_체계",
+   "sub": "",
+   "type": "news",
+   "added": "2026.09.04",
+   "en": "Inside the Player Pathway: How U.S. Soccer Finds Top Youth Talent Across the Country (더이룸 스포츠 정리 보고서)",
+   "ko": "미국축구연맹 탤런트 ID 파이프라인: 전국 8개 권역·스카우트 200명 체제의 발굴 네트워크와 실적 데이터",
+   "summary": "USSF 국가 스카우팅 시스템 공개. 8개 권역·파트타임 독립 스카우트 200여 명·탤런트 리포터 약 500명, 여자 대학·유럽 이중국적 담당 별도 편성. 2025.8~2026.7 탤런트 ID 센터 188회(42개 지역·GK 12회), 어사인먼트 6,515건·주당 약 2,220명 관찰, 고유 선수 약 8,000명 추적·1,276명 유스 대표 소집(40% 최초). 6대 공통 자질 지표 운영, A대표 출전자의 90% 이상이 유스 대표 경유",
+   "source": "U.S. Soccer(미국축구연맹)",
+   "date": "2026.8.14",
+   "url": "https://www.ussoccer.com/stories/2026/08/federation/how-us-soccer-finds-top-youth-talent-identification-scouting",
+   "file": "https://drive.google.com/file/d/1VHK4aLS3pzbcqgNm5W5Zx0_pQyutCXh9/view?usp=drive_link"
+  },
+  {
+   "cat": "04_훈련_방법",
+   "sub": "",
+   "type": "paper",
+   "added": "2026.09.04",
+   "en": "Effects of different training on lower limb explosive power in youth soccer players: a systematic review and network meta-analysis",
+   "ko": "유소년 축구 하지 폭발력 향상 훈련법 비교: 체계적 고찰·네트워크 메타분석",
+   "summary": "RCT 29편·12~19세 869명 대상 5개 훈련법(복합훈련 CT·최적파워부하 OPL·저항훈련 RT·HIIT·점프/플라이오메트릭 JT) 네트워크 메타분석. 수직점프는 CT 최우수(MD 4.86, SUCRA 82.7), 10m·30m 스프린트는 OPL 최우수(MD -1.47/SMD -2.06), 14~15세 저연령대 효과 우세. 저항+플라이오메트릭 결합 및 OPL 병행 처방 권고(CC BY 오픈액세스)",
+   "source": "Frontiers in Physiology",
+   "date": "2026.3.19",
+   "url": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2026.1769079/full",
+   "file": "https://drive.google.com/file/d/1Z3mV-7DkyBPnN8xH_FrJf9YXv423nI3i/view?usp=drive_link"
   }
  ]
 }
