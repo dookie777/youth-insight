@@ -1,5 +1,5 @@
 {
- "lastUpdate": "2026.09.24",
+ "lastUpdate": "2026.09.28",
  "items": [
   {
    "cat": "01_선수_평가_체계",
@@ -1105,6 +1105,136 @@
    "date": "2026.1.26",
    "url": "https://www.frontiersin.org/journals/sports-and-active-living/articles/10.3389/fspor.2026.1733902/full",
    "file": "https://drive.google.com/file/d/1g_2Ae7Ze9rwgp-23f3QkpGomlsg6zapw/view?usp=drive_link"
+  },
+  {
+   "cat": "06_육성_정책·제도",
+   "sub": "",
+   "type": "news",
+   "added": "2026.09.18",
+   "en": "Scottish FA announce new plans to assist youth player development (더이룸 스포츠 정리 보고서)",
+   "ko": "스코틀랜드축구협회 U21 의무 출전 개혁안: 컵대회 쿼터·리그 60분 목표·100만 파운드 인센티브",
+   "summary": "'Made in Scotland?' 서밋(세인트앤드루스, 42개 전 구단 참석) 후속 3대 제안 공개. 스코티시컵·프리미어스포츠컵 전 경기 U21 스코틀랜드 자격 선수 2명 의무 선발 출전(최소 1명 종료까지 유지, 2027/28 시즌 목표), SPFL 리그 경기당 평균 60분(가용 시간의 약 6%) 배정 목표, 총 100만 파운드 기금으로 60분 이상 출전 U21 1인당 프리미어십 £250·챔피언십 £200·리그원 £150·리그투 £100 지급, 목표 미달 구단 상금 10% 삭감 후 이행 구단 재분배. 프리미어십 U21 출전 18,706분(2013년 80,345분 대비 급감)·유소년 비중 4.1%(유럽 평균 8%)·연 4,000만 파운드 기회 손실(Twenty First Group) 근거, 10월 SFA 총회·11월 SPFL 총회 표결 예정",
+   "source": "Youth Football Scotland·The Scotsman·STV News",
+   "date": "2026.9.7",
+   "url": "https://www.youthfootballscotland.co.uk/scottish-fa-announce-new-plans-to-assist-youth-player-development",
+   "file": "https://drive.google.com/file/d/1dI9xZv8g-HR-WweZk-VvCSGmdTDD78ma/view?usp=drive_link"
+  },
+  {
+   "cat": "01_선수_평가_체계",
+   "sub": "",
+   "type": "paper",
+   "added": "2026.09.18",
+   "en": "Adaptive Athlete Management in Youth Football: A Developmentally Informed Framework for Applied Practice",
+   "ko": "유소년 축구의 적응형 선수 관리: 발달 단계 기반 실무 적용 프레임워크",
+   "summary": "그리스 이라클리온 대학병원·OFI 크레타 퍼포먼스부서 연구진의 내러티브 리뷰(Sports 14(8):324). 기술·전술·지각인지, 피지컬 수행, 생물학적 성숙(PHV, Mirwald·Khamis-Roche 추정), 신체계측, 심리, 회복·부하 관리를 통합한 아카데미 선수 관리 프레임워크 제시. 단일 시점 측정 의존 대신 종단 모니터링, 저비용 현장 도구(sRPE·웰니스 설문·수면 평가), 구단 내 바이오밴딩, 다학제 소통·선수별 개입 설계를 실행 전략으로 권고. 성숙 단계의 일시적 피지컬 우위와 장기 축구 잠재력의 구분, 성장 급등기 훈련 부하 조정 강조. 예측 모델이 아닌 지속 지원형 의사결정 프레임으로 위치화(CC BY 오픈액세스)",
+   "source": "Sports (MDPI)",
+   "date": "2026.8.1",
+   "url": "https://doi.org/10.3390/sports14080324",
+   "file": "https://drive.google.com/file/d/1cHUMyzfCS3QfnVs1K0woDOCiA27zb7e4/view?usp=drive_link"
+  },
+  {
+   "cat": "03_아카데미_운영_사례",
+   "sub": "",
+   "type": "report",
+   "added": "2026.09.21",
+   "en": "Top development clubs worldwide (CIES Weekly Post 551, 더이룸 스포츠 정리 보고서)",
+   "ko": "세계 유소년 육성 구단 순위: U21 자국 리그 출전 시간 비중(2026 시즌)",
+   "summary": "세계 50개 리그 구단 대상 2026 시즌 U21 선수 자국 리그 출전 시간 비중 분석(시즌 첫 연구). 노르셸란 48.1% 세계 1위, 스트라스부르 37.9%(U21 20명 투입, 평균 연령 22.07세)·파르티잔 37.0% 순. 비유럽 최고 멜버른 시티 32.9%, 빅5는 PSG 23.0%·라이프치히 20.6%·바르셀로나 20.3%·본머스 19.4%(EPL 최고)로 격차 확인",
+   "source": "CIES Football Observatory·Inside World Football",
+   "date": "2026.9.3(보도)",
+   "url": "https://football-observatory.com/WeeklyPost551",
+   "file": "https://drive.google.com/file/d/1pirxxgWLarzOSsg3AMUYBUHSaga7BrzV/view?usp=drive_link"
+  },
+  {
+   "cat": "06_육성_정책·제도",
+   "sub": "",
+   "type": "news",
+   "added": "2026.09.21",
+   "en": "Ajax and Indonesian football association sign football partnership (더이룸 스포츠 정리 보고서)",
+   "ko": "아약스-인도네시아축구협회(PSSI) 전국 단위 유소년 육성 파트너십 체결",
+   "summary": "아약스 코칭 철학 기반 전국 단위 유소년 선수 육성 프로그램·지도자 교육 협약(2026.9.12 발표). 단일 아카데미 신설이 아닌 전국 코치 교육 중심 구조로 아약스 전문 인력이 인도네시아 전역에서 지도자 양성 지원. 아약스는 멕시코·오스트리아·이탈리아·스페인·그리스·우즈베키스탄·일본 7개국 네트워크에 이어 인도네시아로 확장",
+   "source": "AFC Ajax·Inside World Football",
+   "date": "2026.9.12",
+   "url": "https://english.ajax.nl/articles/ajax-and-indonesian-football-association-sign-football-partnership",
+   "file": "https://drive.google.com/file/d/1AUjmCwzjGg-3CcFOf-xUoKqM7zwXQkxC/view?usp=drive_link"
+  },
+  {
+   "cat": "01_선수_평가_체계",
+   "sub": "",
+   "type": "paper",
+   "added": "2026.09.21",
+   "en": "Do Biological Maturity and Motor Performance Influence Perceived Player Quality? Evidence from U-15 Soccer Players",
+   "ko": "생물학적 성숙도·운동 수행이 지도자의 U-15 선수 평가에 미치는 영향",
+   "summary": "크로아티아 스플리트대 U-15 선수 240명 대상 연구. 생물학적 연령(Mirwald)이 코치 평가 선수 질을 유의하게 예측(OR 2.47), 역연령은 부적 효과(OR 0.44). 볼 수반 스프린트·슬라럼이 평가 예측 요인, 민첩성 테스트는 스피드 대비 성숙도 편향이 낮아 평가 도구로서의 활용 가치 제시",
+   "source": "Sports (MDPI)",
+   "date": "2026.8.7",
+   "url": "https://doi.org/10.3390/sports14080342",
+   "file": "https://drive.google.com/file/d/1Lze8fxUXGR5Mx736UAS0I9GXGjqGzzMA/view?usp=drive_link"
+  },
+  {
+   "cat": "07_선수_성장·발달",
+   "sub": "",
+   "type": "paper",
+   "added": "2026.09.21",
+   "en": "Physical Performance Profiles of Highly Trained U14–U19 Youth Soccer Players: Age-Category Differences and Associations with Maturity Offset",
+   "ko": "U14-U19 엘리트 유소년 축구 선수의 연령별 피지컬 프로파일과 성숙도 연관성",
+   "summary": "헝가리 스포츠과학대 아카데미 선수 70명(U14~U19) 대상 신체계측·체성분·FMS·30m 스프린트·일리노이 민첩성(볼 유무)·YoYo IR1 종합 평가. 스프린트·점프·지구력은 연령 그룹 간 유의한 차이, 체지방률·FMS·볼 수반 방향전환은 차이 없음. 연령별 기준치를 아카데미 선수 평가의 예비 벤치마크로 제시",
+   "source": "Sports (MDPI)",
+   "date": "2026.9.14",
+   "url": "https://doi.org/10.3390/sports14090402",
+   "file": "https://drive.google.com/file/d/1IAO8i1VHrYsYObzKRb96k_L7f2dKZRn9/view?usp=drive_link"
+  },
+  {
+   "cat": "03_아카데미_운영_사례",
+   "sub": "",
+   "type": "news",
+   "added": "2026.09.23",
+   "en": "How Cardiff City topped 14 Category One Academies in TGG Rankings (더이룸 스포츠 정리 보고서)",
+   "ko": "카테고리2 카디프 시티 아카데미의 TGG 생산성 랭킹 16위 진입 요인",
+   "summary": "TGG 2025/26 아카데미 생산성 랭킹 89개 구단 중 16위(카테고리2 전국 1위)로 카테고리1 29곳 중 14곳 추월. 리그원 우승 시즌 1군 출전 시간의 34%를 아카데미 출신이 소화(4년 전 11%), 출전 15,280분·유스 데뷔 21회(리그 14회). 강등 리셋 전략, 란럼니 전용 시설 분리, 10년 이상 근속 '그랜드페어런츠' 스태프 모델, 아카데미 매니저의 CEO 직보 구조가 핵심 요인",
+   "source": "Training Ground Guru",
+   "date": "2026.9.9",
+   "url": "https://trainingground.guru/how-cat-two-cardiff-outranked-14-category-one-academies/",
+   "file": "https://drive.google.com/file/d/1gNY-OCB8l_cez0uugdSYQksdwpCsMa3Z/view?usp=drive_link"
+  },
+  {
+   "cat": "02_선수_발굴_체계",
+   "sub": "",
+   "type": "paper",
+   "added": "2026.09.23",
+   "en": "Artificial intelligence in football talent identification: a systematic review",
+   "ko": "축구 인재 발굴 분야 인공지능 적용 체계적 고찰",
+   "summary": "중국·포르투갈 연구진이 4개 DB에서 동료심사 연구 20편 분석. AI 적용을 성장 잠재력 식별, 경기력·역할 식별, 선수 가치·영입 평가 3개 영역으로 유형화. 전통적 머신러닝 모델이 최다 활용, 딥러닝·하이브리드 모델은 소수. 데이터 품질, 외적 타당화 부족, 모델 해석 가능성 한계를 공통 과제로 지적(CC BY 오픈액세스)",
+   "source": "Frontiers in Sports and Active Living",
+   "date": "2026.8.20",
+   "url": "https://www.frontiersin.org/journals/sports-and-active-living/articles/10.3389/fspor.2026.1770231/full",
+   "file": "https://drive.google.com/file/d/1wmPQm4JyelU3Yo2aWOSZerP3uqJTJQKz/view?usp=drive_link"
+  },
+  {
+   "cat": "02_선수_발굴_체계",
+   "sub": "",
+   "type": "paper",
+   "added": "2026.09.25",
+   "en": "The Effect of Bio-Banding On Talent Identification in Youth Soccer: A Systematic Review",
+   "ko": "유소년 축구 인재 발굴에서 바이오밴딩의 효과: 체계적 고찰",
+   "summary": "화중사범대·우한체육대 연구진이 5개 DB(PubMed·WoS·SPORTDiscus·Scopus·CNKI, 2025.11까지)에서 13편·유소년 861명 분석. 바이오밴딩 경기에서 듀얼·세트피스 빈도 증가, 후기 성숙 선수의 수비·볼 경합 관여 확대, 전문가 평정 심리·사회 행동(침착성·의사결정) 개선 확인. 집단 수준 피지컬 지표는 일관된 차이 없음. 참가자 99.8% 남성·유럽 편중(12/13편)·준실험 설계 한계로 '성숙 편향의 결정적 해법' 주장은 시기상조, 관찰 데이터 보강·단기 공정 경쟁 환경 조성 도구로 위치화(오픈액세스)",
+   "source": "Journal of Sports Science and Medicine",
+   "date": "2026.6.1",
+   "url": "https://doi.org/10.52082/jssm.2026.446",
+   "file": "https://drive.google.com/file/d/1Nt19wZW_bTQynFkKssbtmrQjuKfRQRa0/view?usp=drive_link"
+  },
+  {
+   "cat": "07_선수_성장·발달",
+   "sub": "",
+   "type": "paper",
+   "added": "2026.09.25",
+   "en": "A matter of time or timing: longitudinal analysis of sensitive periods for linear running speed performance and development in elite youth soccer",
+   "ko": "엘리트 유소년 축구 최대 질주 속도 발달 민감기 종단 분석(슬라비아 프라하)",
+   "summary": "슬라비아 프라하 아카데미 10.7~15.9세 117명·461회 관측 5시즌(2020~2025) GAMM 분석. 예측 성인 신장 비율(%PAH) 85.2~93.2% 구간에서 향상 가속(최정점 87.6~88.6%·89.5~90.7%), 94.4%에서 향상 속도 정점, 관측 구간 전체 최대 속도 약 24.9% 향상. 조기·평균 성숙 선수는 후기 성숙 선수보다 유의하게 어린 연령에서 가속 발현, 후기 성숙 선수는 지속적 가속 구간 부재. 역연령이 아닌 성숙도(%PAH) 기반 장기 육성·인재 발굴·수행 모니터링 설계 지지(CC BY 오픈액세스)",
+   "source": "Biology of Sport",
+   "date": "2026.4.20(온라인)",
+   "url": "https://doi.org/10.5114/biolsport.2026.161105",
+   "file": "https://drive.google.com/file/d/1hmcu5atiyFHo6rfNaZfplkyJOxnBGUEq/view?usp=drive_link"
   }
  ]
 }
