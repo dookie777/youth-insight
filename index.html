@@ -2,6 +2,9 @@
 <html lang="ko">
 <head>
 <meta charset="UTF-8" />
+<script id="theme-init">
+(function(){let t='dark';try{const saved=localStorage.getItem('youth-insight-theme');if(saved==='light'||saved==='dark')t=saved;}catch(e){}document.documentElement.dataset.theme=t;})();
+</script>
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 <title>Youth Football Insight Cloud</title>
 <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Noto+Sans+KR:wght@300;400;500;700;900&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
@@ -335,6 +338,57 @@
     .row-tags { justify-self: start; }
   }
 </style>
+<style id="design-layer">
+/* Presentation-only layer. Original data, loader, and render script unchanged. */
+:root{--body:'Noto Sans KR',-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;--hd:68px}
+body{font-size:15px;-webkit-font-smoothing:antialiased}
+button,input{font:inherit}button,a,input{touch-action:manipulation}
+button:focus-visible,a:focus-visible,input:focus-visible{outline:3px solid var(--orange);outline-offset:4px}
+.header{padding-inline:28px;gap:20px}.brand-logo{height:27px}.tool-name{font-family:var(--body);font-size:11px;letter-spacing:2px;font-weight:700}.live-dot{font-size:11px;gap:10px}.live-dot::before{animation:none;width:6px;height:6px}
+.layout{grid-template-columns:270px minmax(0,1fr)}
+.sidebar{padding:30px 16px}.side-title{font-family:var(--mono);font-size:10px;letter-spacing:2px;padding:0 12px 20px}
+.tree-root,.tree-cat-head{min-height:48px;padding:11px 12px;font-size:13px;gap:7px}.tree-cat{margin-top:5px}.tree-num{font-size:10px}.cnt{font-size:10px;min-width:25px;text-align:center;padding:1px 6px}.tree-head-new{font-size:8px;letter-spacing:0}.tree-caret{font-size:7px}.tree-leaf{font-size:12px;line-height:1.7;padding-block:9px}.tree-sub-head{font-size:12px}.tree-more{font-size:12px}.tree-items{margin-left:20px}
+.hero-zone{padding:32px 40px 0}.scroll-pane{padding:0 40px}.zone-inner,.pane-inner{max-width:1440px}.hero{padding-bottom:22px}.hero-sub{font-size:13px;line-height:1.9}.hero-rule{margin-top:22px;height:1px}.section{padding:24px 0}.sec-label{align-items:center;gap:12px;margin-bottom:18px;flex-wrap:wrap}.sec-label .ko{font-size:19px;letter-spacing:-.6px}.sec-label .en{font-family:var(--mono);font-size:10px;letter-spacing:1.4px;order:2}.sec-label small{margin-left:auto;font-size:12px;order:3}
+.recent-grid{grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}.recent-card{padding:22px;gap:13px;min-width:0}.recent-meta{font-size:10px}.recent-ko{font-size:17px;line-height:1.65;letter-spacing:-.5px}.recent-summary{font-size:13px;line-height:1.9;-webkit-line-clamp:3}.recent-src{font-size:11px;line-height:1.8;padding-top:14px}.badge{font-size:10px;padding:3px 8px;letter-spacing:0}.recent-tags{gap:5px}.row-tags{gap:5px;max-width:340px}.controls{gap:14px;margin-bottom:20px}.search-field{height:52px;font-size:14px;padding:12px 18px}.chip{font-size:12px;min-height:36px;padding:7px 16px}.meta-row{font-size:12px;margin-bottom:12px}.row-head{padding:21px 22px;gap:10px 20px}.row-ko{font-size:15px;line-height:1.7;font-weight:600;letter-spacing:-.25px}.row-date{font-size:10px;margin-top:6px}.row-detail{padding:0 22px 24px}.row-en{font-size:12px;line-height:1.8;margin-bottom:14px}.row-summary{font-size:14px;line-height:2;max-width:76ch}.row-bottom{padding-top:14px}.row-src{font-size:12px;line-height:1.8}.btn{min-height:40px;font-size:12px}.cat-band{margin:0 0 18px;padding:13px 18px}.cat-band-label{font-size:16px}.footer{padding:26px 0 12px}.footer-line{font-size:10px;letter-spacing:.7px;text-align:center;line-height:1.9}.empty{padding:60px 20px}.menu-btn{width:40px;height:40px}
+@media(min-width:1800px){.layout{grid-template-columns:290px minmax(0,1fr)}}
+@media(min-width:921px) and (max-width:1180px){.layout{grid-template-columns:245px minmax(0,1fr)}.hero-zone{padding-inline:28px}.scroll-pane{padding-inline:28px}.recent-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.row-head{grid-template-columns:1fr}.row-tags{justify-self:start;max-width:none}}
+@media(max-width:920px){.layout{grid-template-columns:1fr}.header{padding-inline:18px;gap:12px}.hero-zone{padding:28px 24px 0}.scroll-pane{padding-inline:24px}.sidebar{width:min(330px,88vw);padding:24px 16px}.recent-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.tool-name{font-size:10px;letter-spacing:1px}.row-tags{max-width:none}.row-head{padding:20px}.row-detail{padding:0 20px 22px}}
+@media(max-width:600px){:root{--hd:62px}.header{padding-inline:14px;gap:12px}.brand-logo{height:23px}.tool-name,.hd-div{display:none}.hd-right{min-width:0}.live-dot{font-size:9px;gap:6px}.live-dot b{font-size:10px}.hero-zone{padding:26px 18px 0}.scroll-pane{padding-inline:18px}.hero{padding-bottom:12px}.hero-sub{font-size:12px;max-width:32ch;line-height:2}.section{padding:22px 0}.sec-label{gap:8px}.sec-label .ko{font-size:18px}.sec-label .en{font-size:9px}.sec-label small{width:100%;margin:0;font-size:11px}.recent-grid{display:flex;overflow-x:auto;gap:12px;padding:2px 2px 14px;scroll-snap-type:x mandatory}.recent-card{flex:0 0 88%;scroll-snap-align:start;padding:20px;min-height:268px}.recent-ko{font-size:17px}.recent-summary{-webkit-line-clamp:3}.search-field{font-size:13px;height:50px}.chip-row{gap:7px}.chip{font-size:12px;padding:7px 13px}.row-head{padding:18px 16px;gap:12px}.row-ko{font-size:15px}.row-detail{padding:0 16px 20px}.row-summary{font-size:14px}.row-bottom{gap:12px}.row-src{flex-basis:100%}.cat-band{gap:8px;flex-wrap:wrap;padding:12px}.cat-band-label{font-size:14px}.cat-band-clear{font-size:11px;padding:6px 10px}.archive{padding-bottom:30px}.footer-line{font-size:9px}.badge{font-size:10px}}
+@media(prefers-reduced-motion:reduce){*,*::before,*::after{scroll-behavior:auto!important;animation:none!important;transition:none!important}}
+
+.recent-grid{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;gap:16px;padding:2px 2px 16px}.recent-card{flex:0 0 calc((100% - 32px)/3.12);scroll-snap-align:start}.recent-grid::-webkit-scrollbar{height:5px}.recent-grid::-webkit-scrollbar-thumb{background:#a4b7ad}.recent-grid::-webkit-scrollbar-track{background:#e5eae4}#recentInfo::after{content:' · 좌우로 탐색'}
+@media(min-width:601px) and (max-width:1180px){.recent-card{flex-basis:calc((100% - 16px)/2.1)}}
+:root{--orange:#174a64;--orange-dim:#e5eef1;--orange-line:#99bac4;--bg:#f5f6f3;--bg-panel:#102b36;--bg-card:#fff;--bg-hover:#eef3f3;--bg-input:#fff;--text:#172b35;--text-2:#425963;--text-3:#657780;--border:#dce3e3;--border-2:#c5d1d4;--r-sm:5px;--r-md:8px;--r-lg:12px}
+body{background:var(--bg);background-image:none}.header{background:#102b36;border-color:#28424c;color:#e8eff0}.header .tool-name{color:#b1c6cc}.header .live-dot{color:#9eb6be}.header .live-dot b{color:#eff5f4}.header .live-dot::before{background:#b9d49e}.header .hd-div{background:#36505b}.header .menu-btn{color:#fff;border-color:#48616a}
+.sidebar{--text:#fff;--text-2:#d2dfe3;--text-3:#9cb3bc;--border:#304a55;--border-2:#42606c;--orange:#d1e5b5;--orange-dim:#29434d;--bg-hover:#1c3944;border-right:0}.side-title{color:#8cabb6}.tree-root.active{background:#cfe0b7;color:#18322a;font-weight:700}.tree-root.active .cnt{color:#29453a;border-color:#adbf96}.tree-cat-head:hover{background:#1f3b46}.tree-root{margin-bottom:20px}.tree-cat.active>.tree-cat-head{box-shadow:inset 3px 0 #cfe0b7;border-radius:4px}.sidebar::-webkit-scrollbar-thumb{background:#42606c}
+.hero{position:relative;padding-right:180px}.eyebrow{font:10px var(--mono);letter-spacing:2px;color:#5f797f;display:flex;align-items:center;gap:10px;margin-bottom:15px}.eyebrow::before{content:'';width:24px;height:2px;background:#668947}.hero-title{font-family:var(--body);font-size:clamp(32px,3.5vw,52px);font-weight:900;letter-spacing:-2px;line-height:1.13}.hero-title em{color:#326777}.hero-title .title-top{display:block;font-size:.38em;letter-spacing:3.5px;font-weight:500;margin-bottom:10px}.hero-sub{margin-top:18px}.hero-rule{background:#d8e1df}.pitch-mark{position:absolute;right:2px;top:14px;width:132px;height:158px;border:1px solid #b9ccbf;border-radius:2px;background:linear-gradient(90deg,#e9eee5 50%,#e3ebdf 50%);overflow:hidden}.pitch-mark::before{content:'';position:absolute;inset:13px;border:1px solid #92ac94}.pitch-mark::after{content:'';position:absolute;left:13px;right:13px;top:50%;height:1px;background:#92ac94}.pitch-circle{position:absolute;width:43px;height:43px;border:1px solid #92ac94;left:44px;top:57px;border-radius:50%}.pitch-goal{position:absolute;left:40px;right:40px;height:25px;border:1px solid #92ac94;top:13px}.pitch-goal.bottom{top:auto;bottom:13px}.pitch-point{position:absolute;width:6px;height:6px;background:#587d5a;border-radius:50%;top:76px;left:62px}
+.recent-card{border:1px solid #dce4e0;box-shadow:0 4px 12px #18322a04;border-radius:10px}.recent-card::before{height:3px;background:#9eb989}.recent-card:hover{background:#fff;border-color:#9bb6b4;box-shadow:0 8px 24px #18322a0c}.recent-meta b{color:#3a625f}.recent-src{border-top:1px solid #e3e9e6}.badge{background:#f3f5f4;color:#52666b;border-color:#e0e7e4;border-radius:4px}.badge-new{background:#edf3e6;color:#526d36;border-color:#cddbbc}.badge-paper{background:#eef3fa;color:#3f6395;border-color:#d3e0ef}.badge-report{background:#edf5ee;color:#3d7454;border-color:#cde1d1}.badge-news{background:#faf2e8;color:#926335;border-color:#e7d7c0}.sec-label .en{color:#789086}.chip{background:transparent;border-color:#d5dedb;color:#5b6f73;border-radius:6px}.chip.active{background:#193e4c;color:#fff;border-color:#193e4c}.chip:hover{border-color:#557c84;color:#193e4c}.chip.active:hover{color:#fff}.search-field{box-shadow:0 2px 5px #18322a03;border-color:#cddad5;border-radius:8px}.search-field:focus{box-shadow:0 0 0 3px #174a6410}.rowlist{border:1px solid #dbe3df;border-radius:10px;background:white;overflow:hidden}.row:last-child{border-bottom:0}.row.open{background:#f2f6f3}.row.open .row-head{padding-bottom:15px}.row.open .row-ko{color:#21596b}.row-caret{font-size:9px;color:#69858b}.btn{background:white;border-color:#c7d5d0;color:#294e5a}.btn-primary{background:#193e4c;border-color:#193e4c;color:white}.btn-primary:hover{background:#285668;border-color:#285668}.cat-band{background:#e7eee5;border:0}.cat-band::before{background:#7d9e64}.cat-band-clear{background:white;color:#375745;border-color:#c5d4bd}.footer{border-top-color:#dce3df}.footer-line{color:#778781}
+@media(min-width:1600px){.recent-grid{grid-template-columns:repeat(4,minmax(0,1fr))}}
+@media(max-width:1180px){.hero{padding-right:125px}.pitch-mark{width:98px;height:132px;top:20px}.pitch-circle{width:35px;height:35px;left:31px;top:48px}.pitch-point{left:45px;top:63px}.pitch-goal{left:30px;right:30px;height:19px}.hero-title{font-size:37px}}
+@media(max-width:600px){.recent-card{flex-basis:88%}.hero{padding-right:0}.pitch-mark{display:none}.hero-title{font-size:38px;letter-spacing:-1.6px}.hero-title .title-top{font-size:13px;letter-spacing:2.7px}.eyebrow{font-size:9px;margin-bottom:17px}.hero-sub{margin-top:14px}.sidebar{box-shadow:12px 0 40px #102b3630}.rowlist{border-radius:8px}}
+</style>
+<style id="theme-styles">
+/* Integrated light/dark presentation. Data pipeline is unchanged. */
+html{color-scheme:light}html[data-theme="dark"]{color-scheme:dark}
+.theme-toggle{display:inline-flex;align-items:center;justify-content:center;gap:8px;min-height:36px;padding:7px 12px;border:1px solid #506771;background:#ffffff08;color:#eaf1f2;border-radius:7px;cursor:pointer;font-family:var(--body);font-size:11px;font-weight:600;white-space:nowrap}
+.theme-toggle:hover{background:#ffffff16;border-color:#8aa0a7}.theme-toggle svg{width:15px;height:15px;stroke:currentColor;fill:none;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round}.theme-toggle .sun{display:none}html[data-theme="dark"] .theme-toggle .sun{display:block}html[data-theme="dark"] .theme-toggle .moon{display:none}
+html[data-theme="dark"]{--orange:#c7deb1;--orange-dim:#c7deb112;--orange-line:#617b59;--bg:#101d24;--bg-panel:#13242c;--bg-card:#1a3039;--bg-hover:#243c46;--bg-input:#172a33;--text:#f1f2f0;--text-2:#c4c9c9;--text-3:#a0abad;--border:#ffffff18;--border-2:#ffffff30}
+html[data-theme="dark"] body{background:#101d24;color:var(--text)}
+html[data-theme="dark"] .header{background:#101d24f5;border-color:#ffffff18}
+html[data-theme="dark"] .header .tool-name{color:#c2c9cb}html[data-theme="dark"] .header .live-dot{color:#9da8ad}html[data-theme="dark"] .header .live-dot::before{background:#c7deb1}html[data-theme="dark"] .header .hd-div{background:#ffffff20}
+html[data-theme="dark"] .sidebar{--text:#f1f2f0;--text-2:#c4c9c9;--text-3:#a0abad;--border:#ffffff18;--border-2:#ffffff30;--orange:#c7deb1;--orange-dim:#c7deb112;--bg-hover:#243c46;background:#13242c;border-right:1px solid #ffffff12}
+html[data-theme="dark"] .side-title{color:#9ca8aa}html[data-theme="dark"] .tree-root.active{background:#c7deb110;color:#c7deb1;border:1px solid #c7deb125}
+html[data-theme="dark"] .tree-root.active .cnt{color:#c7deb1;border-color:#c7deb140}html[data-theme="dark"] .tree-cat-head:hover{background:#263f49}html[data-theme="dark"] .tree-cat.active>.tree-cat-head{box-shadow:inset 3px 0 #c7deb1;background:#c7deb110}
+html[data-theme="dark"] .hero-title em{color:#c7deb1}html[data-theme="dark"] .eyebrow{color:#9bb9ac}html[data-theme="dark"] .eyebrow::before{background:#c7deb1}html[data-theme="dark"] .hero-rule{background:#ffffff18}
+html[data-theme="dark"] .pitch-mark{border-color:#657e68;background:linear-gradient(90deg,#20392f 50%,#274035 50%)}html[data-theme="dark"] .pitch-mark::before,html[data-theme="dark"] .pitch-circle,html[data-theme="dark"] .pitch-goal{border-color:#9bb68c}html[data-theme="dark"] .pitch-mark::after{background:#9bb68c}html[data-theme="dark"] .pitch-point{background:#d6eac0}
+html[data-theme="dark"] .recent-card{background:linear-gradient(135deg,#1d3540,#172a33);border-color:#ffffff18;box-shadow:0 4px 20px #00000012}html[data-theme="dark"] .recent-card::before{background:#c7deb160}html[data-theme="dark"] .recent-card:hover{background:#263f49;border-color:#c7deb160;box-shadow:0 8px 24px #00000025}html[data-theme="dark"] .recent-meta b{color:#c7deb1}html[data-theme="dark"] .recent-summary{color:#bec8cc}html[data-theme="dark"] .recent-src{border-color:#ffffff15;color:#a8b4b9}html[data-theme="dark"] .recent-grid::-webkit-scrollbar-thumb{background:#698574}html[data-theme="dark"] .recent-grid::-webkit-scrollbar-track{background:#27292a}
+html[data-theme="dark"] .badge{background:#ffffff03;color:#bfc9cc;border-color:#ffffff25}html[data-theme="dark"] .badge-new{background:#c7deb110;color:#c7deb1;border-color:#c7deb145}html[data-theme="dark"] .badge-paper{background:#80aeea09;color:#a6c5ef;border-color:#80aeea35}html[data-theme="dark"] .badge-report{background:#84bea209;color:#a2cbb4;border-color:#84bea235}html[data-theme="dark"] .badge-news{background:#e7b48809;color:#d9b799;border-color:#e7b48835}
+html[data-theme="dark"] .sec-label .en{color:#9fbea8}html[data-theme="dark"] .search-field{background:#1a3039;border-color:#ffffff28;color:#f1f2f0;box-shadow:none}html[data-theme="dark"] .search-field:focus{border-color:#c7deb1;box-shadow:0 0 0 3px #c7deb110}html[data-theme="dark"] .chip{background:transparent;border-color:#ffffff25;color:#b9c2c5}html[data-theme="dark"] .chip:hover{border-color:#c7deb1;color:#c7deb1}html[data-theme="dark"] .chip.active{background:#c7deb1;border-color:#c7deb1;color:#17191b}
+html[data-theme="dark"] .rowlist{background:#152932;border-color:#ffffff1e}html[data-theme="dark"] .row.open{background:#243c46;box-shadow:inset 3px 0 #c7deb1}html[data-theme="dark"] .row.open .row-ko{color:#d8e8c8}html[data-theme="dark"] .row-en{color:#a7b3b7}html[data-theme="dark"] .row-summary{color:#d0d5d6}html[data-theme="dark"] .row-caret{color:#adb9bc}
+html[data-theme="dark"] .btn{background:#243c46;border-color:#ffffff30;color:#e6e9e8}html[data-theme="dark"] .btn-primary{background:#c7deb1;border-color:#c7deb1;color:#17191b}html[data-theme="dark"] .btn-primary:hover{background:#d9e9c9}
+html[data-theme="dark"] .cat-band{background:#243c46;border:1px solid #ffffff17}html[data-theme="dark"] .cat-band::before{background:#c7deb1}html[data-theme="dark"] .cat-band-clear{background:#172a33;border-color:#ffffff30;color:#d3d9da}html[data-theme="dark"] .footer{border-color:#ffffff18}html[data-theme="dark"] .footer-line{color:#97a5a5}
+@media(max-width:600px){.header{gap:10px}.hd-right{gap:9px}.theme-toggle{min-height:34px;width:34px;padding:8px;flex-shrink:0}.theme-label{display:none}.live-dot{font-size:0;gap:6px}.live-dot b{font-size:10px}.pitch-mark{display:block;position:absolute;right:0;top:39px;width:59px;height:79px}.pitch-mark::before{inset:7px}.pitch-mark::after{left:7px;right:7px}.pitch-circle{width:21px;height:21px;left:18px;top:28px}.pitch-goal{left:18px;right:18px;top:7px;height:13px}.pitch-goal.bottom{bottom:7px}.pitch-point{left:27px;top:37px;width:4px;height:4px}.hero-title{font-size:32px;max-width:calc(100% - 72px)}.hero-title .title-top{font-size:11px;letter-spacing:2px}.eyebrow{font-size:8px;letter-spacing:1.1px}.hero-sub{max-width:32ch}.hero{padding-right:0}}
+</style>
 </head>
 <body>
 
@@ -345,13 +399,14 @@
   <div class="tool-name">YOUTH FOOTBALL INSIGHT CLOUD</div>
   <div class="hd-right">
     <div class="live-dot">LAST UPDATE <b id="lastUpdate"></b></div>
+<button type="button" class="theme-toggle" id="themeToggle" aria-label="다크 모드로 전환" aria-pressed="false" title="다크 모드로 전환"><svg class="moon" viewBox="0 0 24 24" aria-hidden="true"><path d="M20.8 13A9 9 0 0 1 11 3.2 9 9 0 1 0 20.8 13Z"/></svg><svg class="sun" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2v2m0 16v2M2 12h2m16 0h2M5 5l1.5 1.5m11 11L19 19M5 19l1.5-1.5m11-11L19 5"/></svg><span class="theme-label">다크 모드</span></button>
   </div>
 </header>
 
 <div class="layout">
   <!-- ===== 좌측 디렉토리 트리 ===== -->
   <aside class="sidebar" id="sidebar">
-    <div class="side-title">DIRECTORY</div>
+    <div class="side-title">EXPLORE THE LIBRARY</div>
     <div id="tree"></div>
 
   </aside>
@@ -362,7 +417,7 @@
     <div class="hero-zone">
       <div class="zone-inner">
         <div class="hero">
-          <div class="hero-title">YOUTH FOOTBALL <em>INSIGHT</em> CLOUD</div>
+          <div class="eyebrow">THE EROOM SPORTS / KNOWLEDGE LIBRARY</div><div class="hero-title"><span class="title-top">YOUTH FOOTBALL</span>Insight <em>Cloud.</em></div><div class="pitch-mark" aria-hidden="true"><i class="pitch-circle"></i><i class="pitch-goal"></i><i class="pitch-goal bottom"></i><i class="pitch-point"></i></div>
           <div class="hero-sub" id="heroSub"></div>
           <div class="hero-rule"></div>
         </div>
@@ -397,7 +452,7 @@
         </div>
 
         <div class="controls">
-          <input class="search-field" id="searchInput" type="text"
+          <input class="search-field" id="searchInput" type="text" aria-label="자료 검색"
                  placeholder="제목, 키워드, 출처 검색 (예: 바이오밴딩, SSG, 머신러닝, CIES...)" />
           <div class="chip-row" id="typeChips">
             <button class="chip active" data-type="all">전체 유형</button>
@@ -1570,6 +1625,9 @@ async function loadRemoteData() {
 
 rerenderAll();
 loadRemoteData();
+</script>
+<script id="theme-controls">
+(function(){const button=document.getElementById('themeToggle');function apply(theme){const dark=theme==='dark';document.documentElement.dataset.theme=dark?'dark':'light';const label=dark?'라이트 모드로 전환':'다크 모드로 전환';button.setAttribute('aria-label',label);button.setAttribute('title',label);button.setAttribute('aria-pressed',String(dark));button.querySelector('.theme-label').textContent=dark?'라이트 모드':'다크 모드';}apply(document.documentElement.dataset.theme);button.addEventListener('click',function(){const theme=document.documentElement.dataset.theme==='dark'?'light':'dark';apply(theme);try{localStorage.setItem('youth-insight-theme',theme);}catch(e){}});window.addEventListener('storage',function(e){if(e.key==='youth-insight-theme')apply(e.newValue==='dark'?'dark':'light');});})();
 </script>
 </body>
 </html>
