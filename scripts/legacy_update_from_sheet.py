@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
-# 자료목록_마스터(구글 시트) → data.json 변환 스크립트
+# [보관용, 2026.09.30 운영 중단] 자료목록_마스터(구글 시트) → data.json 변환 스크립트
+# 2026.09.30부터 data.json이 원천이며 신규 자료는 scripts/add_items.py로 추가한다.
+# 이 스크립트를 실행하면 시트 동결 이후 저장소에 추가된 자료가 전부 삭제되므로 실행 금지.
 import csv
 import io
 import json
@@ -15,6 +17,7 @@ REQUIRED_HEADERS = ["카테고리", "유형", "원제목", "번역제목", "핵�
 
 
 def main():
+    sys.exit("중단: 시트 기반 갱신은 2026.09.30 운영 중단. PIPELINE.md 참조")
     raw = urllib.request.urlopen(CSV_URL, timeout=30).read().decode("utf-8")
     rows = list(csv.DictReader(io.StringIO(raw)))
 
