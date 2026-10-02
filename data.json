@@ -1,5 +1,5 @@
 {
- "lastUpdate": "2026.09.28",
+ "lastUpdate": "2026.10.02",
  "items": [
   {
    "cat": "01_선수_평가_체계",
@@ -1235,6 +1235,58 @@
    "date": "2026.4.20(온라인)",
    "url": "https://doi.org/10.5114/biolsport.2026.161105",
    "file": "https://drive.google.com/file/d/1hmcu5atiyFHo6rfNaZfplkyJOxnBGUEq/view?usp=drive_link"
+  },
+  {
+   "cat": "07_선수_성장·발달",
+   "sub": "",
+   "type": "paper",
+   "added": "2026.10.02",
+   "en": "Development of Physical Fitness in Young Athletes: A Longitudinal Meta-analysis",
+   "ko": "유소년 선수 체력 발달 궤적 종단 메타분석",
+   "summary": "28개 종단연구 41개 표본, 9개 종목 남자 유소년 대상 베이지안 성장곡선 모델로 수직점프·스프린트·지구력 발달 궤적 추정 수행, 수직점프 13.2세·지구력 13.8세 발달 정점이 최대 신장 성장속도 시기와 중첩되고 스프린트는 12~17세 선형 향상 확인, 연령 기준 체력 모니터링 벤치마크 제공",
+   "source": "Sports Medicine-Open",
+   "date": "2026.9.29",
+   "url": "https://doi.org/10.1186/s40798-026-01109-7",
+   "file": "docs/07/20260929_smo_physical-fitness-longitudinal-meta.pdf"
+  },
+  {
+   "cat": "01_선수_평가_체계",
+   "sub": "",
+   "type": "paper",
+   "added": "2026.10.02",
+   "en": "Growth and Maturation Assessment in Youth Sport: Balancing Benefits and Risks",
+   "ko": "유소년 성장·성숙도 평가의 편익과 위험 균형",
+   "summary": "카롤린스카 연구소·바스대 연구진이 성장·성숙도 평가의 편익(부상 관리·공정 선발)과 위험(신체 이미지·섭식장애 유발 가능성)을 동시 검토, 이해관계자 교육·개인정보 보호·자발적 참여·훈련된 전문가 수행·통합 모니터링 체계 적용 등 5개 실행 원칙 제시",
+   "source": "Scandinavian Journal of Medicine & Science in Sports",
+   "date": "2026.8.17",
+   "url": "https://doi.org/10.1111/sms.70361",
+   "file": "docs/01/20260817_sjmss_growth-maturation-assessment.pdf"
+  },
+  {
+   "cat": "03_아카데미_운영_사례",
+   "sub": "",
+   "type": "news",
+   "added": "2026.10.02",
+   "en": "FC Bayern launches football academy in Dubai",
+   "ko": "FC 바이에른, 두바이 아카데미 설립 — 분데스리가 최초 중동 진출",
+   "summary": "2026.9.30 Amity University Dubai 캠퍼스에 U-5~U-16 남녀 대상 FC Bayern Academy UAE 설립 발표, 라이선시 GoldPrime FZCO 운영과 구단 임명 상주 코치 1명 훈련 총괄 구조 구축, 우수 선수 FC Bayern Pathway·Global Academy 접근 경로 마련",
+   "source": "FC Bayern München 공식 발표",
+   "date": "2026.9.30",
+   "url": "https://fcbayern.com/en/news/2026/09/fc-bayern-launches-football-academy-in-dubai",
+   "file": "docs/03/20260930_eroom-brief_fc-bayern-academy-uae.pdf"
+  },
+  {
+   "cat": "01_선수_평가_체계",
+   "sub": "",
+   "type": "paper",
+   "added": "2026.10.02",
+   "en": "Yo-Yo IR1-derived aerobic endurance machine-learning prediction in youth male soccer players using demographics information and resting heart rate variability parameters",
+   "ko": "인구통계·심박변이도 기반 유소년 축구선수 유산소 지구력 머신러닝 예측",
+   "summary": "폴란드 8~18세 유소년 축구선수 237명 대상 인구통계와 안정 시 심박변이도로 Yo-Yo IR1 성적 예측 수행, 최적 랜덤포레스트 모델 RMSE 2.82~2.89 ml/kg/min(336~344m) 기록과 연령·경력·성숙도 오프셋의 주요 예측 변수 확인, 현장 테스트 대체 미달·보조 모니터링 도구 가능성 제시",
+   "source": "Frontiers in Physiology",
+   "date": "2026.9.11",
+   "url": "https://doi.org/10.3389/fphys.2026.1904809",
+   "file": "docs/01/20260911_frontiers_yoyo-ir1-ml-prediction.pdf"
   }
  ]
 }
