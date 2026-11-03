@@ -1508,6 +1508,32 @@
    "date": "2026.9.9",
    "url": "https://doi.org/10.3390/jfmk11030363",
    "file": "docs/01/20260909_jfmk_chilean-youth-physical-profile.pdf"
+  },
+  {
+   "cat": "04_훈련_방법",
+   "sub": "",
+   "type": "paper",
+   "added": "2026.11.03",
+   "en": "Within-player associations between GPS-derived external training load and heart rate-based internal training load in elite youth male soccer training",
+   "ko": "U17 엘리트 유소년 GPS 외적 부하와 심박 기반 내적 부하의 개인 내 관계",
+   "summary": "U17 남자 선수 11명·9주·266회 훈련 관찰, 심박 부하가 총 이동거리(r=0.921)·PlayerLoad(r=0.924)와 거의 완전한 상관, 분당 심박 부하는 분당 이동거리·폭발적 동작이 예측, 누적 부하와 강도 기반 부하를 분리해 해석해야 한다는 결론",
+   "source": "PLOS One",
+   "date": "2026.9.11",
+   "url": "https://doi.org/10.1371/journal.pone.0357176",
+   "file": "docs/04/20260911_plos-one_gps-hr-training-load-u17.pdf"
+  },
+  {
+   "cat": "07_선수_성장·발달",
+   "sub": "",
+   "type": "paper",
+   "added": "2026.11.03",
+   "en": "Infrared Thermography Reveals Recurrent Thermal Asymmetry Patterns Rather than Stable Thermal Phenotypes in Elite Under-18 Soccer Players: A Prospective Longitudinal Observational Study",
+   "ko": "U18 엘리트 선수 경기 후 적외선 열화상 비대칭의 반복 패턴",
+   "summary": "U18 남자 선수 18명·공식경기 16회(유효 측정 96건) 경기 48시간 후 열화상 평가, 79.2%에서 유의한 피부온 비대칭 확인·대퇴이두근 부위 40.6%로 최다, 고정된 열 표현형보다 부하 의존적 회복 반응으로 해석되며 개인별 회복 패턴 모니터링에 활용 가능",
+   "source": "Sports (MDPI)",
+   "date": "2026.9.4",
+   "url": "https://doi.org/10.3390/sports14090392",
+   "file": "docs/07/20260904_sports-mdpi_thermography-u18-asymmetry.pdf"
   }
  ]
 }
