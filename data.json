@@ -1534,6 +1534,97 @@
    "date": "2026.9.4",
    "url": "https://doi.org/10.3390/sports14090392",
    "file": "docs/07/20260904_sports-mdpi_thermography-u18-asymmetry.pdf"
+  },
+  {
+   "cat": "03_아카데미_운영_사례",
+   "sub": "",
+   "type": "paper",
+   "added": "2026.11.03",
+   "en": "Multidimensional approach to perceptions in football academies about educational, relational, inclusive, safety and social aspects among players, parents and coaches",
+   "ko": "축구 아카데미의 교육·안전·사회적 가치에 대한 선수·학부모·지도자 인식 비교",
+   "summary": "선수·학부모(20명)·지도자(6명)를 대상으로 교육적 가치·관계·포용·안전·클럽의 사회적 기능 5개 차원을 역할별 설문으로 비교, 교육 가치·관계·포용 차원은 집단 간 차이가 없었으나 안전은 지도자가, 사회적 기능은 학부모가 더 높게 인식, 선수 응답의 편차가 가장 커 이해관계자별 관점을 반영한 아카데미 평가 필요",
+   "source": "Frontiers in Psychology",
+   "date": "2026.10.6",
+   "url": "https://doi.org/10.3389/fpsyg.2026.1906964",
+   "file": "docs/03/20261006_frontiers-psychology_football-academy-stakeholder-perceptions.pdf"
+  },
+  {
+   "cat": "07_선수_성장·발달",
+   "sub": "",
+   "type": "paper",
+   "added": "2026.11.03",
+   "en": "Organizational stressors and athlete burnout in elite soccer players: the mediating role of basic psychological need frustration and the moderating role of coach autonomy support",
+   "ko": "엘리트 축구 학생선수의 조직 스트레스와 소진: 기본심리욕구 좌절과 지도자 자율성 지지의 역할",
+   "summary": "중국 체육대학 축구 전공 엘리트 학생선수 513명 설문, 조직 스트레스가 소진과 기본심리욕구 좌절 모두와 정(+)의 관계이며 욕구 좌절이 간접 경로를 설명, 지도자의 자율성 지지가 높을수록 간접 관계가 약해지는 완충 효과 확인",
+   "source": "Frontiers in Psychology",
+   "date": "2026.9.14",
+   "url": "https://doi.org/10.3389/fpsyg.2026.1933382",
+   "file": "docs/07/20260914_frontiers-psychology_organizational-stressors-burnout-elite-soccer.pdf"
+  },
+  {
+   "cat": "07_선수_성장·발달",
+   "sub": "",
+   "type": "paper",
+   "added": "2026.11.03",
+   "en": "Bio-banding in football: a scoping review with evidence gap map",
+   "ko": "축구 바이오밴딩 스코핑 리뷰 및 근거 격차 지도",
+   "summary": "11~15세 유소년 축구 바이오밴딩 연구 47건 중 20건을 분석, 기술·심리 결과 연구가 가장 많고 부상 결과를 다룬 연구는 없으며 남자·유럽 중심으로 편중, 성숙도 차이를 줄이며 선수 발굴·육성에 유망한 전략으로 평가하나 생리 지표·여자 선수·비유럽 연구 공백 존재",
+   "source": "Frontiers in Psychology",
+   "date": "2026.9.16",
+   "url": "https://doi.org/10.3389/fpsyg.2026.1960364",
+   "file": "docs/07/20260916_frontiers-psychology_bio-banding-football-scoping-review.pdf"
+  },
+  {
+   "cat": "02_선수_발굴_체계",
+   "sub": "",
+   "type": "paper",
+   "added": "2026.11.03",
+   "en": "Dispersed origins and concentrated professional entry in Colombian men's international football, 1962-2026",
+   "ko": "콜롬비아 남자 국가대표의 출신지 분산과 프로 진입 집중 (1962~2026)",
+   "summary": "월드컵·코파 아메리카 최종 대회 27개에 선발된 콜롬비아 대표 306명 분석, 출신지 확인 선수 중 44.7%만 출생 지역에서 프로 데뷔, 상위 3개 지역이 출생지의 58.4%·데뷔지의 70.1%를 차지해 출신은 분산되나 프로 진입은 집중, 유소년 클럽·아카데미·이주 요인 종단 연구 필요",
+   "source": "Frontiers in Sports and Active Living",
+   "date": "2026.9.16",
+   "url": "https://doi.org/10.3389/fspor.2026.1946961",
+   "file": "docs/02/20260916_frontiers-sports_colombia-international-players-origins-professional-entry.pdf"
+  },
+  {
+   "cat": "01_선수_평가_체계",
+   "sub": "",
+   "type": "paper",
+   "added": "2026.11.03",
+   "en": "Seasonal changes in physical fitness and body composition and their associations with external match load in elite youth football players",
+   "ko": "엘리트 유소년 선수의 시즌별 체력·신체조성 변화와 경기 외적 부하의 관계",
+   "summary": "U18(14명)·U21(15명) 선수 29명을 두 경기 시기에 걸쳐 평가, 근육량 증가·체지방 감소와 CMJ·30m 스프린트·킥 속도 향상 확인, VO2max는 변화 없음, 체력·신체조성과 GPS 경기 부하의 상관은 U18에서 더 많이 관찰되나 탐색적 결과",
+   "source": "Journal of Human Sport and Exercise",
+   "date": "2026.9.30",
+   "url": "https://doi.org/10.55860/zrfqrb31",
+   "file": "docs/01/20260930_jhse_seasonal-fitness-body-composition-match-load-youth.pdf"
+  },
+  {
+   "cat": "01_선수_평가_체계",
+   "sub": "",
+   "type": "paper",
+   "added": "2026.11.03",
+   "en": "Position-specific differences in match performance of elite U-17 soccer players using GPS-derived external load data: focus on forwards and defenders",
+   "ko": "엘리트 U-17 선수의 GPS 경기 부하 기반 포지션별 경기 수행 차이",
+   "summary": "경기도 대표 엘리트 U-17 선수 37명의 공식경기 GPS 데이터 비교, 총이동거리·평균속도 등 기본 지표는 포지션 차이 없음, 공격수가 수비수보다 고강도 달리기 거리·최고속도·고강도 가속 및 방향전환 수치가 유의하게 높아 포지션 특성을 반영한 훈련 설계 필요",
+   "source": "Physical Activity and Nutrition",
+   "date": "2026.9.30",
+   "url": "https://doi.org/10.20463/pan.2026.0039",
+   "file": "docs/01/20260930_pan_u17-gps-position-differences.pdf"
+  },
+  {
+   "cat": "07_선수_성장·발달",
+   "sub": "",
+   "type": "paper",
+   "added": "2026.11.03",
+   "en": "Associations between maturation assessment methods and growth-related injury occurrence in a German Bundesliga youth football academy",
+   "ko": "분데스리가 유소년 아카데미의 성숙도 평가법과 성장 관련 부상 발생의 관계",
+   "summary": "U9~U16 남자 선수 205명(평가 619회)을 1년간 4회 추적해 9개 성숙도 평가법 비교, 초음파 방식(BAUSport)으로 정의한 PHV 시기에서만 성장 관련 부상 확률이 높고(PHV 전·후 OR 0.33·0.17), 단일 아카데미 예비 결과로 대규모 종단 검증 필요",
+   "source": "Scientific Reports",
+   "date": "2026.9.3",
+   "url": "https://doi.org/10.1038/s41598-026-69051-y",
+   "file": "docs/07/20260903_scientific-reports_maturation-methods-growth-injury-bundesliga-academy.pdf"
   }
  ]
 }
