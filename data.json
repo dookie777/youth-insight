@@ -1,5 +1,5 @@
 {
- "lastUpdate": "2026.10.02",
+ "lastUpdate": "2026.10.14",
  "items": [
   {
    "cat": "01_선수_평가_체계",
@@ -1287,6 +1287,58 @@
    "date": "2026.9.11",
    "url": "https://doi.org/10.3389/fphys.2026.1904809",
    "file": "docs/01/20260911_frontiers_yoyo-ir1-ml-prediction.pdf"
+  },
+  {
+   "cat": "01_선수_평가_체계",
+   "sub": "",
+   "type": "paper",
+   "added": "2026.10.14",
+   "en": "Thinking While Playing: Football-Specific Dual-Task Performance and Coach-Rated Talent in Youth Football",
+   "ko": "축구 특화 이중과제(SoSCAT) 수행과 코치 평가 재능 판별력 분석",
+   "summary": "스페인 세미프로 3개 클럽 U14~U18 남자 선수 181명 대상 축구 특화 이중과제 검사 SoSCAT의 재능 판별력 검증, 코치 평가 상위 재능군이 완료 시간과 의사결정 오류에서 유의하게 우수하며 AUC 0.822의 양호한 판별력 확인, 기술 수행과 지각-인지 요구를 통합한 다차원 선수 평가 보완 도구 가능성 제시",
+   "source": "MDPI Sports",
+   "date": "2026.9.10",
+   "url": "https://doi.org/10.3390/sports14090399",
+   "file": "docs/01/20260910_mdpi-sports_dual-task-coach-rated-talent.pdf"
+  },
+  {
+   "cat": "07_선수_성장·발달",
+   "sub": "",
+   "type": "paper",
+   "added": "2026.10.14",
+   "en": "Youth Soccer Participation and Brain Health Outcomes in Adolescent Athletes",
+   "ko": "유소년 축구 참여와 청소년 선수 뇌 건강: REPIMPACT 3개국 종단 연구",
+   "summary": "독일·벨기에·노르웨이 14~16세 남자 선수 129명을 한 시즌 추적한 전향적 다기관 코호트 연구, 시즌당 평균 939회 헤딩에도 인지·행동·뇌 구조·기능적 연결성에서 축구 집단과 비접촉 종목 대조군 간 유의차 부재 확인, 단일 시즌 수준 참여의 뇌 건강 영향 근거 부재와 다년 추적 연구 필요성 제기",
+   "source": "JAMA Network Open",
+   "date": "2026.6.22",
+   "url": "https://doi.org/10.1001/jamanetworkopen.2026.19569",
+   "file": "docs/07/20260622_jama-netw-open_youth-soccer-brain-health.pdf"
+  },
+  {
+   "cat": "05_선수_교육(지도)",
+   "sub": "",
+   "type": "paper",
+   "added": "2026.10.14",
+   "en": "Coach–Athlete Perceptual Alignment in Youth Soccer: A Descriptive Multi-Case Study of Leadership Perceptions and Match-Observed Behaviors",
+   "ko": "유소년 축구 코치-선수 리더십 인식 일치도 다중 사례 연구",
+   "summary": "루마니아 엘리트 아카데미 코치 4명과 14~18세 선수 64명 대상 리더십 인식 일치도와 경기 중 행동 관찰 비교, 경기 후 영감·개별화·지지 차원 점수 하락과 인식 불일치 지수 1.93~4.35의 팀별 편차 확인, 코치 자기 인식과 선수 인식 간 격차의 체계적 진단·관리 필요성 시사",
+   "source": "MDPI Behavioral Sciences",
+   "date": "2026.9.7",
+   "url": "https://doi.org/10.3390/bs16091586",
+   "file": "docs/05/20260907_mdpi-behavsci_coach-athlete-perceptual-alignment.pdf"
+  },
+  {
+   "cat": "07_선수_성장·발달",
+   "sub": "",
+   "type": "paper",
+   "added": "2026.10.14",
+   "en": "Enjoyment, Executive Functions, and Motor Efficiency in Youth Soccer Players: A 15-Week Observational Study",
+   "ko": "훈련 즐거움과 실행기능·운동효율성 변화: 유소년 축구 15주 관찰 연구",
+   "summary": "이탈리아 4개 클럽 9~11세 선수 56명을 30회 훈련 세션·15주간 관찰한 탐색적 연구, 운동효율성 19.4% 개선과 억제 과제 반응시간 8.1% 단축 등 인지·운동 지표 향상 확인, 훈련 즐거움과 수행 지표 간 유의한 연관성은 부재하며 측정 척도의 천장 효과가 제한 요인으로 지적",
+   "source": "MDPI Children",
+   "date": "2026.9.7",
+   "url": "https://doi.org/10.3390/children13091204",
+   "file": "docs/07/20260907_mdpi-children_enjoyment-executive-functions.pdf"
   }
  ]
 }
