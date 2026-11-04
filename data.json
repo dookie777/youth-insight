@@ -1,5 +1,5 @@
 {
- "lastUpdate": "2026.11.03",
+ "lastUpdate": "2026.11.04",
  "items": [
   {
    "cat": "01_선수_평가_체계",
@@ -1638,6 +1638,110 @@
    "date": "2026.10.15",
    "url": "https://www.safa.net/general-news/safa-launches-national-academy-licensing-and-talent-pathway-initiative/",
    "file": "docs/06/20261015_eroom-brief_safa-academy-licensing-talent-pathway.pdf"
+  },
+  {
+   "cat": "07_선수_성장·발달",
+   "sub": "",
+   "type": "paper",
+   "added": "2026.11.04",
+   "en": "Associations of ankle strength and range of motion with reactive strength performance in elite youth soccer players",
+   "ko": "엘리트 유소년 축구 선수의 발목 근력·가동범위와 반응근력지수의 관련성",
+   "summary": "U15~U19 남자 유소년 선수 79명 대상 발목 등척성 근력·가동범위·RSI 평가, 우세발 발목 배측굴곡·저측굴곡 가동범위가 RSI 변이의 18.0%·15.5% 설명, 발목 근력·가동범위가 폭발적 수행의 선별·훈련 지표로 활용 가능함을 시사",
+   "source": "BMC Sports Science, Medicine and Rehabilitation",
+   "date": "2026.9.8",
+   "url": "https://doi.org/10.1186/s13102-026-02060-6",
+   "file": "docs/07/20260908_bmc-ssmr_ankle-strength-rom-reactive-strength-youth.pdf"
+  },
+  {
+   "cat": "07_선수_성장·발달",
+   "sub": "",
+   "type": "paper",
+   "added": "2026.11.04",
+   "en": "Characterization of eccentric hamstring strength and inter-limb asymmetry profiles in national-level youth male soccer players",
+   "ko": "국가대표급 유소년 남자 선수의 햄스트링 편심 근력·좌우 비대칭 특성",
+   "summary": "국가대표급 남자 U12 35명·U18 28명의 노르딕 햄스트링 편심 최대근력 비교, U18이 절대 근력(383.1 vs 230.7 N)은 높고 좌우 비대칭은 낮음(3.3% vs 4.5%), 연령별 모니터링 기준 설정 필요성 시사",
+   "source": "BMC Sports Science, Medicine and Rehabilitation",
+   "date": "2026.9.12",
+   "url": "https://doi.org/10.1186/s13102-026-01980-7",
+   "file": "docs/07/20260912_bmc-ssmr_eccentric-hamstring-asymmetry-youth.pdf"
+  },
+  {
+   "cat": "04_훈련_방법",
+   "sub": "",
+   "type": "paper",
+   "added": "2026.11.04",
+   "en": "Small-sided games as an integrated training strategy: effects on aerobic endurance and passing performance in adolescent soccer players - a randomized controlled trial",
+   "ko": "소규모 게임 훈련이 청소년 축구 선수의 유산소 지구력·패스 수행에 미치는 효과(무작위 대조시험)",
+   "summary": "평균 17세 남자 유소년 선수 18명을 SSG군·대조군 각 9명으로 배정해 8주간 주 3회 훈련, SSG군에서 Yo-Yo IR1 거리와 LSPT 패스 수행이 유의하게 향상되고 대조군은 변화 미미, 표본이 작아 해석에 주의 필요",
+   "source": "BMC Sports Science, Medicine and Rehabilitation",
+   "date": "2026.9.14",
+   "url": "https://doi.org/10.1186/s13102-026-02000-4",
+   "file": "docs/04/20260914_bmc-ssmr_small-sided-games-aerobic-passing-adolescent.pdf"
+  },
+  {
+   "cat": "04_훈련_방법",
+   "sub": "",
+   "type": "paper",
+   "added": "2026.11.04",
+   "en": "Comparative changes in cardiovascular measures following speed, agility, and quickness training and small-sided games in youth football players: a randomized trial",
+   "ko": "유소년 축구 선수의 SAQ 훈련과 소규모 게임 후 심혈관 지표 변화 비교(무작위 시험)",
+   "summary": "남자 유소년 선수 36명을 SAQ군·SSG군 각 18명으로 배정해 8주 훈련 후 비교, 두 군 모두 안정시 심박·혈압 감소, SSG군은 안정시 심박·혈압 감소폭이, SAQ군은 셔틀런 후 심박 감소폭이 더 큼, 어느 한쪽이 우월하지 않은 서로 다른 반응 양상",
+   "source": "BMC Sports Science, Medicine and Rehabilitation",
+   "date": "2026.9.10",
+   "url": "https://doi.org/10.1186/s13102-026-02048-2",
+   "file": "docs/04/20260910_bmc-ssmr_saq-vs-ssg-cardiovascular-youth.pdf"
+  },
+  {
+   "cat": "04_훈련_방법",
+   "sub": "",
+   "type": "paper",
+   "added": "2026.11.04",
+   "en": "Effects of different training modalities on lower-limb explosive power, acceleration, 20-m sprint performance, and change-of-direction ability in youth soccer players: a systematic review and network meta-analysis",
+   "ko": "유소년 축구 선수의 훈련 방식별 하지 폭발력·가속·스프린트·방향전환 효과 — 체계적 문헌고찰·네트워크 메타분석",
+   "summary": "무작위 대조시험 89편을 포함한 네트워크 메타분석, 일반 축구 훈련 대비 플라이오메트릭에 스프린트·방향전환 훈련을 결합한 방식이 폭발력(SMD 0.79)·가속(1.19)에서 유리한 추정치를 보임",
+   "source": "BMC Sports Science, Medicine and Rehabilitation",
+   "date": "2026.9.5",
+   "url": "https://doi.org/10.1186/s13102-026-02041-9",
+   "file": "docs/04/20260905_bmc-ssmr_training-modalities-network-meta-analysis-youth.pdf"
+  },
+  {
+   "cat": "04_훈련_방법",
+   "sub": "",
+   "type": "paper",
+   "added": "2026.11.04",
+   "en": "Effects of plyometric training on match running performance in elite U20 male soccer players at moderate altitude",
+   "ko": "중등도 고지대에서 엘리트 U20 남자 선수의 플라이오메트릭 훈련이 경기 달리기 수행에 미치는 효과",
+   "summary": "엘리트 아카데미 선수 18명 대상 16주(일반 훈련 8주 후 플라이오메트릭 추가 8주) 준실험, 추가 훈련 단계에서 이동거리·고강도 달리기 등 경기 달리기 지표가 유의하게 증가, 비무작위 순차 설계로 해석에 주의 필요",
+   "source": "BMC Sports Science, Medicine and Rehabilitation",
+   "date": "2026.9.24",
+   "url": "https://doi.org/10.1186/s13102-026-01772-z",
+   "file": "docs/04/20260924_bmc-ssmr_plyometric-match-running-u20-altitude.pdf"
+  },
+  {
+   "cat": "04_훈련_방법",
+   "sub": "",
+   "type": "paper",
+   "added": "2026.11.04",
+   "en": "Myofascial chain sequencing and performance adaptations in youth football players: an exploratory knowledge graph-supported analysis",
+   "ko": "유소년 축구 선수의 근막 사슬 순서 훈련과 수행 적응 — 지식 그래프 기반 탐색 분석",
+   "summary": "U15~U16 남자 선수 40명 대상 12주 중재, 후방 사슬 우선·나선 사슬 우선 두 순서 모두 CMJ와 Y-밸런스 향상(CMJ 사전~추적 평균 +7.57 cm)되었으나 순서 간 시간×집단 상호작용은 유의하지 않음",
+   "source": "BMC Sports Science, Medicine and Rehabilitation",
+   "date": "2026.9.8",
+   "url": "https://doi.org/10.1186/s13102-026-02066-0",
+   "file": "docs/04/20260908_bmc-ssmr_myofascial-chain-sequencing-youth.pdf"
+  },
+  {
+   "cat": "07_선수_성장·발달",
+   "sub": "",
+   "type": "paper",
+   "added": "2026.11.04",
+   "en": "Effects of Strength Training on Cognitive Function, Brain-Derived Neurotrophic Factor and Insulin-Like Growth Factor 1 in Highly-Trained Young Female Soccer Players",
+   "ko": "고도 훈련 청소년 여자 축구 선수의 근력 훈련이 인지 기능·BDNF·IGF-1에 미치는 효과",
+   "summary": "평균 14.9세 여자 선수 22명을 근력 훈련군·대조군 각 11명으로 배정해 12주 실시, 근력 훈련군에서 벤치프레스·레그프레스 근력, LSPT 수행, Stroop 인지 기능이 향상되고 BDNF·IGF-1은 유의한 변화 없음",
+   "source": "Sports Medicine - Open",
+   "date": "2026.9.18",
+   "url": "https://doi.org/10.1186/s40798-026-01103-z",
+   "file": "docs/07/20260918_sports-med-open_strength-training-cognition-young-female.pdf"
   }
  ]
 }
