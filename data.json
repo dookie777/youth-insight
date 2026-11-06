@@ -1,5 +1,5 @@
 {
- "lastUpdate": "2026.11.04",
+ "lastUpdate": "2026.11.06",
  "items": [
   {
    "cat": "01_선수_평가_체계",
@@ -1742,6 +1742,19 @@
    "date": "2026.9.18",
    "url": "https://doi.org/10.1186/s40798-026-01103-z",
    "file": "docs/07/20260918_sports-med-open_strength-training-cognition-young-female.pdf"
+  },
+  {
+   "cat": "04_훈련_방법",
+   "sub": "",
+   "type": "paper",
+   "added": "2026.11.06",
+   "en": "Preventing lower limb injuries in women's football: Influence of the Stop X prevention programme on jump performance and isokinetics in professional and young elite-level female football - a prospective observational cohort study",
+   "ko": "여자 축구 하지 부상 예방 프로그램 Stop X가 프로·청소년 엘리트 선수의 점프 수행과 등속성 근력에 미치는 영향",
+   "summary": "프로 55명·U20 34명·U17 58명 등 여자 선수 147명을 2022~2024시즌 추적해 Stop X를 워밍업에 주 5~6회 적용, 시즌 중 CMJ·SLDJ 수행이 향상되고 청소년 엘리트(U17/U20)에서 반응근력지수·점프 높이 향상이 가장 뚜렷함. 기능적 H/Q 비율은 시즌 중 유의하게 감소해 햄스트링 운동 보강 필요",
+   "source": "BMC Sports Science, Medicine and Rehabilitation",
+   "date": "2026.9.9",
+   "url": "https://doi.org/10.1186/s13102-026-02064-2",
+   "file": "docs/04/20260909_bmc-ssmr_stop-x-female-football-jump-isokinetics.pdf"
   }
  ]
 }
