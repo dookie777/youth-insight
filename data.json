@@ -1,5 +1,5 @@
 {
- "lastUpdate": "2026.11.06",
+ "lastUpdate": "2026.11.09",
  "items": [
   {
    "cat": "01_선수_평가_체계",
@@ -1755,6 +1755,19 @@
    "date": "2026.9.9",
    "url": "https://doi.org/10.1186/s13102-026-02064-2",
    "file": "docs/04/20260909_bmc-ssmr_stop-x-female-football-jump-isokinetics.pdf"
+  },
+  {
+   "cat": "07_선수_성장·발달",
+   "sub": "",
+   "type": "paper",
+   "added": "2026.11.09",
+   "en": "Acute differences in field-based physical performance between Ramadan-type fasting and non-fasting conditions in 10–11-year-old youth soccer players",
+   "ko": "10~11세 유소년 축구 선수의 라마단식 단식·비단식 조건 간 필드 기반 수행능력 차이",
+   "summary": "10~11세 남자 유소년 축구 선수 15명이 점프·30m 스프린트·일리노이 민첩성·Yo-Yo 간헐 회복 검사(아동용)를 단식(약 14시간)·식후 조건에서 반복 측정, 점프·스프린트·민첩성은 차이가 없었으나 Yo-Yo 거리는 단식 조건에서 유의하게 감소. 안정 시 심박수·피로·운동자각도는 단식 조건에서 높고 수면시간·체중은 낮아, 단식 아동 지도 시 피로·수면·회복 점검 필요",
+   "source": "Frontiers in Sports and Active Living",
+   "date": "2026.10.1",
+   "url": "https://doi.org/10.3389/fspor.2026.1943164",
+   "file": "docs/07/20261001_frontiers-ssal_ramadan-fasting-10-11-youth-soccer.pdf"
   }
  ]
 }
