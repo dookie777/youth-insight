@@ -1,5 +1,5 @@
 {
- "lastUpdate": "2026.11.11",
+ "lastUpdate": "2026.11.13",
  "items": [
   {
    "cat": "01_선수_평가_체계",
@@ -1989,6 +1989,71 @@
    "date": "2026.9.1",
    "url": "https://doi.org/10.52082/jssm.2026.606",
    "file": "docs/04/20260901_jssm_bfr-training-occlusion-pressure-u16.pdf"
+  },
+  {
+   "cat": "01_선수_평가_체계",
+   "sub": "",
+   "type": "paper",
+   "added": "2026.11.13",
+   "en": "Vertical jump performance is more closely associated with change-of-direction performance than 30-m average sprint speed in elite U-20 soccer players",
+   "ko": "엘리트 U-20 선수의 수직점프와 방향전환·30m 스프린트 능력 간 연관성",
+   "summary": "브라질 프로구단 U-20 남자 선수 44명의 SJ·CMJ·30m 평균 스프린트 속도·좌우 방향전환을 분석, 수직점프는 방향전환 시간과 중간 수준 역상관(r = −0.43~−0.56)을 보였으나 30m 스프린트 속도와의 연관은 유의하지 않음. 좌우 방향전환 간 상관 r = 0.69로 양측 평가가 필요하며 점프 검사는 방향전환 검사를 대체가 아닌 보완 수단으로 제시",
+   "source": "PLOS One",
+   "date": "2026.11.12",
+   "url": "https://doi.org/10.1371/journal.pone.0355501",
+   "file": "docs/01/20261112_plos-one_vertical-jump-cod-sprint-u20.pdf"
+  },
+  {
+   "cat": "04_훈련_방법",
+   "sub": "",
+   "type": "paper",
+   "added": "2026.11.13",
+   "en": "Discrepancies in Sprint and High-Speed Running Loads between Training and Match Play in U17 and U19 Soccer Players",
+   "ko": "U17·U19 아카데미 선수의 훈련 대비 경기 스프린트·고속주행 부하 격차",
+   "summary": "아카데미 U19(22명)·U17(21명)의 훈련·경기 외부 부하를 10Hz GPS로 비교, U17은 유효 훈련시간 비율이 71.0%로 U19(68.5%)보다 높았으나 고속주행·스프린트 거리의 훈련/경기 비율은 U19(1.5·2.0)가 U17(1.0·1.0)보다 유의하게 높음. U17은 경기 수준의 스프린트 강도를 훈련에서 재현하지 못해 구조화된 고강도 훈련과 개인별 부하 관리 필요",
+   "source": "Journal of Human Kinetics",
+   "date": "2026.11.12",
+   "url": "https://doi.org/10.5114/jhk/218806",
+   "file": "docs/04/20261112_jhk_training-match-sprint-hsr-load-u17-u19.pdf"
+  },
+  {
+   "cat": "02_선수_발굴_체계",
+   "sub": "",
+   "type": "paper",
+   "added": "2026.11.13",
+   "en": "Birth Quarter, Playing Position, and Market Value in Elite International Football: Evidence from the FIFA World Cup 2026",
+   "ko": "2026 FIFA 월드컵 출전 선수의 출생 분기·포지션·시장가치 연관성",
+   "summary": "2026 월드컵 48개국 선수 1,248명의 출생 분기를 분석한 결과 연초 출생자가 과대 대표됐으나 보정 모형에서 출생 분기와 포지션·시장가치(827명) 간 유의한 연관은 없음. 시장가치 잔차 분산의 35.2%가 대표팀 간 차이로 설명되며 상대연령효과는 선발 단계의 대표성 불균형과 선발 이후 성과를 구분해 해석할 필요",
+   "source": "Data (MDPI)",
+   "date": "2026.10.28",
+   "url": "https://doi.org/10.3390/data11110285",
+   "file": "docs/02/20261028_data-mdpi_birth-quarter-position-market-value-world-cup-2026.pdf"
+  },
+  {
+   "cat": "07_선수_성장·발달",
+   "sub": "",
+   "type": "paper",
+   "added": "2026.11.13",
+   "en": "Mental Health and Psychological Constructs Related to Performance in Professional, Semi-Professional, and Competitive Adolescent Women’s Soccer Players: A Scoping Review",
+   "ko": "프로·세미프로·청소년 경쟁 여자 축구 선수의 정신건강·심리 요인 범위 검토",
+   "summary": "2020~2025년 연구 13편을 JBI·PRISMA-ScR 기준으로 검토, 주요 연구 요인은 스트레스·경쟁 불안·회복탄력성·동기·웰빙이며 위험 요인은 경쟁 압박·누적 피로, 보호 요인은 회복탄력성·사회적 지지·팀 응집력·자신감. BRUMS·SAS-2·CSAI-2R·GAD-7·SMHAT-1 등이 주로 사용됐고 다시즌 종단 연구와 남미·아시아 연구 부족을 한계로 제시",
+   "source": "Sports (MDPI)",
+   "date": "2026.9.3",
+   "url": "https://doi.org/10.3390/sports14090390",
+   "file": "docs/07/20260903_sports-mdpi_mental-health-womens-adolescent-soccer-scoping-review.pdf"
+  },
+  {
+   "cat": "04_훈련_방법",
+   "sub": "",
+   "type": "paper",
+   "added": "2026.11.13",
+   "en": "Comparative effects of first-touch shooting and shooting after dribble training on shooting accuracy in youth soccer players",
+   "ko": "원터치 슈팅과 드리블 후 슈팅 훈련의 U-13 선수 슈팅 정확도 효과 비교",
+   "summary": "단일 아카데미 U-13 선수 18명(10~13세)을 원터치 슈팅군과 드리블 후 슈팅군(각 9명)에 배정해 주 3회 12회기 훈련, Bobby Charlton 슈팅 테스트에서 두 군 모두 유의하게 향상(d = −0.891, −1.273). 기저값 보정 후 군간 차이는 유의하지 않았으며 소표본·무훈련 대조군 부재로 두 방법의 동등성 결론은 유보",
+   "source": "Sportis. Scientific Journal of School Sport, Physical Education and Psychomotricity",
+   "date": "2026.11.1",
+   "url": "https://doi.org/10.55040/kjekmw24",
+   "file": "docs/04/20261101_sportis_first-touch-vs-dribble-shooting-u13.pdf"
   }
  ]
 }
