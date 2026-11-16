@@ -1,5 +1,5 @@
 {
- "lastUpdate": "2026.11.13",
+ "lastUpdate": "2026.11.16",
  "items": [
   {
    "cat": "01_선수_평가_체계",
@@ -2054,6 +2054,71 @@
    "date": "2026.11.1",
    "url": "https://doi.org/10.55040/kjekmw24",
    "file": "docs/04/20261101_sportis_first-touch-vs-dribble-shooting-u13.pdf"
+  },
+  {
+   "cat": "01_선수_평가_체계",
+   "sub": "",
+   "type": "paper",
+   "added": "2026.11.16",
+   "en": "Neuromuscular Performance Thresholds to Support Player Development in a Professional Soccer Academy",
+   "ko": "프로구단 아카데미 선수 육성을 위한 신경근 수행 기준값",
+   "summary": "단일 프로구단 U-17·U-19·U-21 아카데미 선수와 1군 등 94명을 2시즌 추적해 포스플레이트로 고관절 내·외전, 노르딕 햄스트링, CMJ 등을 측정, 고관절 최대 근력(OR = 2.53)·CMJ 단축성 최대 근력(OR = 2.42)·RSI-modified(OR = 2.00)·DSI(OR = 2.13)가 아카데미와 1군을 가장 잘 구분. ROC 분석으로 고관절 외전 442 N, CMJ 단축성·신장성 1856·1804 N, RSI-modified 0.58, DSI 0.57의 기준값을 제시했으나 외부 검증 전 탐색적 기준으로 한정",
+   "source": "Sports (MDPI)",
+   "date": "2026.11.13",
+   "url": "https://doi.org/10.3390/sports14110522",
+   "file": "docs/01/20261113_sports-mdpi_neuromuscular-thresholds-academy-first-team.pdf"
+  },
+  {
+   "cat": "02_선수_발굴_체계",
+   "sub": "",
+   "type": "paper",
+   "added": "2026.11.16",
+   "en": "Defying the odds: the relative age effect’s absence among the best teenage football players in the world",
+   "ko": "세계 최정상 10대 선수 집단에서 나타나지 않은 상대연령효과",
+   "summary": "CIES 풋볼 옵서버토리가 선정한 세계 최고 10대 선수 200명의 출생 분기를 2023·2025 FIFA U-20 월드컵 출전 선수와 비교, U-20 월드컵 두 대회에서는 중간 효과크기의 상대연령효과가 나타났으나 CIES 200명에서는 나타나지 않음. CIES 집단의 출생 분기 분포는 2025(χ2 = 36.23)·2023(χ2 = 19.60) 대회와 모두 유의하게 달라 상대연령 이점이 20세 이전 성인 정상급 도달에는 기여하지 않았다는 해석",
+   "source": "Frontiers in Sports and Active Living",
+   "date": "2026.11.9",
+   "url": "https://doi.org/10.3389/fspor.2026.1926690",
+   "file": "docs/02/20261109_fspor_relative-age-effect-absence-best-teenage-players.pdf"
+  },
+  {
+   "cat": "01_선수_평가_체계",
+   "sub": "",
+   "type": "paper",
+   "added": "2026.11.16",
+   "en": "Is change of direction deficit task-specific in youth soccer players? A preliminary analysis",
+   "ko": "U17 선수의 방향전환 결손(COD deficit) 검사별 특이성",
+   "summary": "지역 수준 U17 남자 선수 18명에게 20m 직선 스프린트와 수정 505·프로 애질리티·90° 방향전환 검사를 실시, 방향전환 결손은 검사 간 유의하게 달라 프로 애질리티에서 가장 크고 90° 검사에서 가장 작음. 검사 간 결손 상관은 낮거나 중간 수준이고 직선 스프린트와의 연관은 약해 단일 검사가 아닌 과제별 해석 필요",
+   "source": "Frontiers in Physiology",
+   "date": "2026.11.13",
+   "url": "https://doi.org/10.3389/fphys.2026.1958444",
+   "file": "docs/01/20261113_fphys_cod-deficit-task-specific-u17.pdf"
+  },
+  {
+   "cat": "07_선수_성장·발달",
+   "sub": "",
+   "type": "paper",
+   "added": "2026.11.16",
+   "en": "Compassion and self-compassion in young male soccer players: a comparison between high-performance and amateur clubs",
+   "ko": "독일 엘리트 아카데미와 아마추어 클럽 유소년 선수의 연민·자기연민 비교",
+   "summary": "독일 2부 구단 육성센터(LZ) 선수 120명과 아마추어 클럽 선수 68명 등 188명(평균 14.2세)을 설문 비교, 가설과 달리 LZ 선수의 연민·자기연민이 낮지 않았으며 연민 하위요인 중 고통 감내는 LZ 선수가 유의하게 높음. 연민 총점은 훈련량·공식 경기 수·LZ 소속 기간이 아닌 클럽 경력 연수와 연관",
+   "source": "German Journal of Exercise and Sport Research",
+   "date": "2026.11.3",
+   "url": "https://doi.org/10.1007/s12662-026-01168-8",
+   "file": "docs/07/20261103_gjesr_compassion-self-compassion-academy-amateur.pdf"
+  },
+  {
+   "cat": "07_선수_성장·발달",
+   "sub": "",
+   "type": "paper",
+   "added": "2026.11.16",
+   "en": "Sprint speed and explosive power in under-13 academy football players: A 5-month longitudinal analysis",
+   "ko": "U-13 아카데미 선수의 시즌 중 5개월간 스프린트·순발력 변화",
+   "summary": "불가리아 아카데미 U-13 선수 23명을 2025년 1월과 5월에 측정, 별도 스프린트·저항훈련 없이 5m(1.23→1.27초)·10m(2.06→2.11초) 가속은 저하되고 20m는 변화 없음. SqJ(26.9→27.9cm)·CMJ(27.6→28.5cm)는 향상되어 기술·전술 중심 시즌 프로그램은 하지 파워는 유지하나 속도 발달은 자극하지 못한다는 결론이며 성숙도는 미평가",
+   "source": "Biomedical Human Kinetics",
+   "date": "2026.10.27",
+   "url": "https://doi.org/10.2478/bhk-2026-0030",
+   "file": "docs/07/20261027_bhk_sprint-explosive-power-u13-academy-longitudinal.pdf"
   }
  ]
 }
