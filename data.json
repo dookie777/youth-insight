@@ -1,5 +1,5 @@
 {
- "lastUpdate": "2026.11.16",
+ "lastUpdate": "2026.11.18",
  "items": [
   {
    "cat": "01_선수_평가_체계",
@@ -2119,6 +2119,45 @@
    "date": "2026.10.27",
    "url": "https://doi.org/10.2478/bhk-2026-0030",
    "file": "docs/07/20261027_bhk_sprint-explosive-power-u13-academy-longitudinal.pdf"
+  },
+  {
+   "cat": "07_선수_성장·발달",
+   "sub": "",
+   "type": "paper",
+   "added": "2026.11.18",
+   "en": "DXA-Derived Body Composition Across the Mexican National Football Pathway by Sex, Age Category, and Playing Position",
+   "ko": "멕시코 연령별 대표팀 경로의 성별·연령 범주·포지션별 DXA 신체조성",
+   "summary": "멕시코 남녀 연령별·성인 대표팀(여자 U15~성인 133명, 남자 U14~성인 139명)의 2026년 DXA 기록 272건을 분석, 성인 대표팀은 최연소 범주보다 제지방량이 여자 8.83kg·남자 13.23kg 많고 체지방률은 6.32·2.59%p 낮음. 남자는 체지방량이 범주 간 유사(10.4~11.7kg)해 체지방률 차이가 제지방량 증가에서 비롯됨. 여자는 포지션별 차이가 없고 남자는 공격수가 골키퍼보다 제지방량이 많고 지방이 적었으며, 연구진은 발달 궤적이 아닌 팀 내 비교용 예비 기준으로 한정",
+   "source": "Sports (MDPI)",
+   "date": "2026.11.9",
+   "url": "https://doi.org/10.3390/sports14110504",
+   "file": "docs/07/20261109_sports-mdpi_dxa-body-composition-mexican-national-pathway.pdf"
+  },
+  {
+   "cat": "02_선수_발굴_체계",
+   "sub": "",
+   "type": "paper",
+   "added": "2026.11.18",
+   "en": "Cross-national and historical variation in relative age effects in professional football",
+   "ko": "프로 축구 상대연령효과의 국가별·시기별 차이",
+   "summary": "44개국 리그의 남자 프로 선수 49,578명을 1985~2009년 5개 출생 코호트로 나눠 분석, 출생 분기 격차는 국가에 따라 0에 가까운 수준부터 40%p 초과까지 큰 차이. 2005~2009년생은 1985~1989년생보다 출생 분기 불균형이 약 9%p 커져 상대연령효과가 시기에 따라 확대됐으며, 국가 축구 수준·1인당 GDP·인구는 국가 간 차이와 시기별 증가를 설명하지 못함",
+   "source": "PLOS One",
+   "date": "2026.10.1",
+   "url": "https://doi.org/10.1371/journal.pone.0354928",
+   "file": "docs/02/20261001_plos-one_cross-national-historical-relative-age-effects.pdf"
+  },
+  {
+   "cat": "01_선수_평가_체계",
+   "sub": "",
+   "type": "paper",
+   "added": "2026.11.18",
+   "en": "Normative Concentric Knee Torque Values and Performance Categories in Male Soccer Players Aged 15–17 Years",
+   "ko": "15~17세 남자 아카데미 선수의 무릎 등속성 근력 기준값과 수행 등급",
+   "summary": "15~17세 남자 아카데미 선수 502명(300°/s 검사는 260명)의 대퇴사두근·햄스트링 구심성 토크를 HUMAC Norm 등속성 장비로 측정해 T점수 기반 5단계 수행 등급 기준을 제시. 연령대별로 60~74%가 평균 등급이었고 60°/s 평균 토크는 15세에서 16세 사이에 증가한 뒤 17세에 정체되어 신경근 발달이 성숙 단계에 근접한다는 해석",
+   "source": "Journal of Human Kinetics",
+   "date": "2026.11.12",
+   "url": "https://doi.org/10.5114/jhk/226335",
+   "file": "docs/01/20261112_jhk_normative-knee-torque-soccer-15-17.pdf"
   }
  ]
 }
