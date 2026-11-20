@@ -1,5 +1,5 @@
 {
- "lastUpdate": "2026.11.18",
+ "lastUpdate": "2026.11.20",
  "items": [
   {
    "cat": "01_선수_평가_체계",
@@ -2158,6 +2158,45 @@
    "date": "2026.11.12",
    "url": "https://doi.org/10.5114/jhk/226335",
    "file": "docs/01/20261112_jhk_normative-knee-torque-soccer-15-17.pdf"
+  },
+  {
+   "cat": "02_선수_발굴_체계",
+   "sub": "",
+   "type": "report",
+   "added": "2026.11.20",
+   "en": "Talent Development Environments in the CAF African Schools Football Championship",
+   "ko": "CAF U15 아프리카 학교축구선수권의 인재육성환경 조사",
+   "summary": "CAF 리서치 허브가 2025/2026 U15 아프리카 학교축구선수권 권역 대회 참가 선수 857명(응답률 81%, 여자 48%)과 지도자·행정 인력 81명을 설문, 33개 회원협회 자료를 담은 예비 보고서. 지도자는 인재 발굴 시 기술(64%)·행동(63%) 속성을 가장 중시했고 선수 89%는 실수를 통한 학습이 허용된다고 응답했으나, 지도자와 건강·웰빙을 자주 이야기한다는 응답은 24%에 그쳐 전인적 지원 부족을 지적. 지도자·기술 인력 86%가 대회가 선수 속성에 긍정적 영향을 준다고 평가",
+   "source": "CAF(아프리카축구연맹)",
+   "date": "2026.4.8",
+   "url": "https://www.cafonline.com/caf-african-school-football-championship/news/caf-african-schools-football-championship-drives-data-led-youth-development-through-talent-development-environment-research/",
+   "file": "docs/02/20260408_caf_talent-development-environments-african-schools.pdf"
+  },
+  {
+   "cat": "04_훈련_방법",
+   "sub": "",
+   "type": "paper",
+   "added": "2026.11.20",
+   "en": "Effects of Combined Sprint and Plyometric Training vs Plyometric Training only on Physical Fitness and Sport-Specific Performance in Male Pubertal Soccer Players",
+   "ko": "사춘기 남자 축구 선수의 스프린트·플라이오메트릭 복합 훈련과 플라이오메트릭 단독 훈련 효과 비교",
+   "summary": "튀니지 13.9~14.2세 사춘기 남자 축구 선수 46명을 복합 훈련(SPT)·플라이오메트릭 단독(PT)·대조군으로 나눠 8주간 주 2회(30분) 정규 훈련에 통합 적용. 대부분 지표에서 집단×시간 상호작용이 유의(ηp² 0.33~0.81)했으며 SPT가 PT보다 동적 균형·파워·10m 스프린트·스로인 수행에서 더 큰 향상을 보임. 30m 스프린트는 유의한 상호작용이 없어 효과가 지표별로 제한적이라는 결론",
+   "source": "Sports Medicine - Open",
+   "date": "2026.11.17",
+   "url": "https://doi.org/10.1186/s40798-026-01155-1",
+   "file": "docs/04/20261117_sports-medicine-open_combined-sprint-plyometric-pubertal-soccer.pdf"
+  },
+  {
+   "cat": "01_선수_평가_체계",
+   "sub": "",
+   "type": "paper",
+   "added": "2026.11.20",
+   "en": "Differential neuromuscular fatigue responses in multi- and single-joint force following a simulated soccer protocol in youth players: evidence for divergent assessment sensitivity",
+   "ko": "유소년 선수의 축구 모의 프로토콜 후 신경근 피로 검사별 민감도 차이",
+   "summary": "튀르키예 젊은 남자 축구 선수 18명(평균 19.0세)을 무작위 교차 설계로 T-SAFT90 축구 모의 프로토콜 전후·24·48시간에 CMJ·IMTP·등척성 햄스트링(IH90-90) 검사로 평가. IH90-90 순최대근력이 모든 시점에서 감소(g -0.81~-0.39)해 가장 민감했고, IMTP 최대근력은 직후·24시간에, CMJ 높이는 24시간에만 감소. 검사마다 포착하는 피로 측면이 달라 모니터링 시점·목적에 맞춘 검사 선택을 권고",
+   "source": "BMC Sports Science, Medicine and Rehabilitation",
+   "date": "2026.9.26",
+   "url": "https://doi.org/10.1186/s13102-026-02105-w",
+   "file": "docs/01/20260926_bmc-ssmr_neuromuscular-fatigue-assessment-youth-soccer.pdf"
   }
  ]
 }
