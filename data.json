@@ -1,5 +1,5 @@
 {
- "lastUpdate": "2026.11.20",
+ "lastUpdate": "2026.11.23",
  "items": [
   {
    "cat": "01_선수_평가_체계",
@@ -2197,6 +2197,58 @@
    "date": "2026.9.26",
    "url": "https://doi.org/10.1186/s13102-026-02105-w",
    "file": "docs/01/20260926_bmc-ssmr_neuromuscular-fatigue-assessment-youth-soccer.pdf"
+  },
+  {
+   "cat": "01_선수_평가_체계",
+   "sub": "",
+   "type": "paper",
+   "added": "2026.11.23",
+   "en": "Handgrip Strength and Isokinetic Knee Extensor and Flexor Torque in Adolescent Soccer Players",
+   "ko": "청소년 축구 선수의 악력과 등속성 무릎 신전·굴곡 토크의 관계",
+   "summary": "15~18세 청소년 축구 선수 111명(남 81·여 30)을 프리시즌에 양측 악력과 60°/s 대퇴사두근·햄스트링 최대 토크로 측정. 전체 상관(r 0.86·0.74)은 성별 보정 후 0.68·0.42로 낮아졌고 연령·성별·신장·체중 투입 후 악력의 추가 설명력은 대퇴사두근 5.0%, 햄스트링 0.7%에 그침. 악력은 일반 근력 프로파일링의 보조 지표로 쓸 수 있으나 관절 특이적 무릎 검사를 대체할 수 없다는 결론",
+   "source": "Muscles (MDPI)",
+   "date": "2026.11.19",
+   "url": "https://doi.org/10.3390/muscles5040083",
+   "file": "docs/01/20261119_muscles-mdpi_handgrip-isokinetic-knee-torque-adolescent-soccer.pdf"
+  },
+  {
+   "cat": "05_선수_교육(지도)",
+   "sub": "",
+   "type": "paper",
+   "added": "2026.11.23",
+   "en": "Coach-led questioning and tactical decision-making in youth soccer, basketball, and volleyball: proposed cognitive pathways and contextual boundaries",
+   "ko": "유소년 축구·농구·배구의 지도자 질문 코칭과 전술적 의사결정: 인지 경로와 적용 경계",
+   "summary": "게임 기반 훈련에서 지도자 질문이 전술적 의사결정에 미치는 영향을 인지 부하 관점에서 검토한 미니 리뷰. 게임 기반 접근 메타분석(28개 연구, 1,600명)은 의사결정 11.41%p 우위를 보고했으나 질문 효과를 분리하지 못했고, 유소년 축구 지도자 19명 관찰에서 세션당 질문 71회 중 문제 해결을 직접 요구한 확산형 질문은 7%에 불과. 질문 내용과 시점을 독립적으로 조작하고 인지 처리·지연 전이를 측정하는 후속 실험을 제안",
+   "source": "Frontiers in Psychology",
+   "date": "2026.11.20",
+   "url": "https://doi.org/10.3389/fpsyg.2026.2045113",
+   "file": "docs/05/20261120_fpsyg_coach-led-questioning-tactical-decision-making.pdf"
+  },
+  {
+   "cat": "04_훈련_방법",
+   "sub": "",
+   "type": "paper",
+   "added": "2026.11.23",
+   "en": "Tactical decision-making following filanesia-based ecological dynamics in youth football through a multisite cluster-randomized trial",
+   "ko": "필라네시아 기반 생태역학 훈련이 유소년 축구 전술적 의사결정에 미치는 효과: 다기관 군집 무작위 시험",
+   "summary": "인도네시아 람풍·북수마트라 유소년 12개 팀 144명을 필라네시아 기반 생태역학(Filanesia-ED)·일반 생태역학·전통 코칭 3개 군으로 나눠 8주 16회 훈련 후 사후·4주 보존 시점 평가. 사후 Filanesia-ED는 전통 코칭 대비 12.59점, 일반 생태역학 대비 6.32점 높았고 보존 시점 차이도 11.33점·6.75점 유지. 고압박 상황 정확한 결정 확률이 전통 코칭 대비 1.74배(9,806개 경기 결정 사건 분석)로 자국 축구 철학을 반영한 훈련 설계의 효과를 제시",
+   "source": "Journal of Coaching and Sports Science",
+   "date": "2026.11.17",
+   "url": "https://doi.org/10.58524/jcss.v5i4.1469",
+   "file": "docs/04/20261117_jcss_filanesia-ecological-dynamics-tactical-decision-youth.pdf"
+  },
+  {
+   "cat": "07_선수_성장·발달",
+   "sub": "",
+   "type": "paper",
+   "added": "2026.11.23",
+   "en": "Age-related differences in anthropometric characteristics and performance of youth soccer players: A comparison between U14 and U16 athletes",
+   "ko": "유소년 축구 선수의 연령별 신체 특성·경기력 차이: U14와 U16 비교",
+   "summary": "그리스 테살리아대 연구진이 지역 리그 소속 축구 아카데미 U14(13~14세) 12명과 U16(15~16세) 12명을 경기 전 시기에 신체계측·체성분·유연성·민첩성·SJ·CMJ·Yo-Yo IR1·10m·30m 스프린트·반복 스프린트 능력으로 비교. 신장·체중·체지방률·제지방량·근육량·수직 점프·10m 스프린트·반복 스프린트에서 유의한 차이가 나타났고 그 외 지표는 차이 없음. 장기간 훈련 공백 이후에도 U16이 스프린트·점프 능력에서 우위를 보였다는 결론",
+   "source": "Journal of Physical Education and Sport",
+   "date": "2026.10.31",
+   "url": "https://doi.org/10.7752/jpes.2026.10180",
+   "file": "docs/07/20261031_jpes_anthropometry-performance-u14-u16-soccer.pdf"
   }
  ]
 }
