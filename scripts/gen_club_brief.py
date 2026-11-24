@@ -27,6 +27,7 @@ def build(d):
                 ".cv .lab,.cv .meta{opacity:1}")
         css += (".cv .yel{display:none}.cv .bar{background:#fff}" if d['club2'].lower() in ('#fff', '#ffffff')
                 else ".cv .yel{background:var(--club2)}.cv .bar{background:var(--club2)}")
+    css += f":root{{--title:{d['title_color']};--bar:{d['bar_color']}}}"
     P = []
     P.append(f'''<div class="pg cv">
  <div class="red"></div><div class="yel"></div>
