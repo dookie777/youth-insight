@@ -17,8 +17,10 @@ def build(d):
                 ".cv .lab{color:var(--club);opacity:1}.cv .ttl{color:var(--club)}.cv .bar{background:var(--club)}"
                 ".cv .meta{color:var(--club);opacity:1}.cv .co{left:auto;right:20mm}")
     elif cv == 'club':  # 구단 색 바탕 + 흰 면
-        css += (".cv{background:var(--club);color:#fff}.cv .red{background:#fff}.cv .yel{display:none}"
-                ".cv .bar{background:#fff}.cv .lab,.cv .meta{opacity:1}")
+        css += (".cv{background:var(--club);color:#fff}.cv .red{background:#fff}"
+                ".cv .lab,.cv .meta{opacity:1}")
+        css += (".cv .yel{display:none}.cv .bar{background:#fff}" if d['club2'].lower() in ('#fff', '#ffffff')
+                else ".cv .yel{background:var(--club2)}.cv .bar{background:var(--club2)}")
     P = []
     P.append(f'''<div class="pg cv">
  <div class="red"></div><div class="yel"></div>
