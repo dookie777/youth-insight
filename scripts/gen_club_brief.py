@@ -11,6 +11,15 @@ def ul(items): return '<ul>' + ''.join(f'<li><b>{a}</b> {b}</li>' for a, b in it
 def build(d):
     css = re.sub(r':root\{[^}]*\}', f":root{{--club:{d['club']};--club2:{d['club2']};--ink:{d['ink']}}}", CSS)
     n = 5
+    cv = d.get('cover', 'dark')
+    if cv == 'light':   # 흰 바탕 + 구단 색 면 (로고는 구단 색 면 위)
+        css += (".cv{background:#fff;color:var(--ink)}.cv .red{background:var(--club)}.cv .yel{background:var(--ink)}"
+                ".cv .lab{color:var(--ink);opacity:.7}.cv .ttl{color:var(--ink)}.cv .bar{background:var(--club)}"
+                ".cv .meta{color:var(--ink);opacity:1}.cv .co{left:auto;right:20mm}")
+    elif cv == 'club':  # 구단 색 바탕 + 흰 면
+        css += (".cv{background:var(--club);color:#fff}.cv .red{background:#fff}.cv .yel{background:var(--club3)}"
+                ".cv .bar{background:#fff}")
+        css = css.replace("--ink:", f"--club3:{d['club3']};--ink:", 1)
     P = []
     P.append(f'''<div class="pg cv">
  <div class="red"></div><div class="yel"></div>
