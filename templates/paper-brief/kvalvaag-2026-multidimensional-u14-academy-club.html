@@ -1,0 +1,120 @@
+<!doctype html><html lang="ko"><head><meta charset="utf-8">
+<title>U14 아카데미·클럽 선수의 다차원 수행 특성 비교</title>
+<style>
+:root{--club:#1A1A1A;--club2:#FFFFFF;--ink:#1A1A1A}
+
+@page{size:297mm 210mm;margin:0}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:"Noto Sans CJK KR","Noto Sans KR",sans-serif;color:#1c2430;word-break:keep-all;-webkit-print-color-adjust:exact}
+.pg{width:297mm;height:210mm;padding:11mm 14mm 9mm;position:relative;page-break-after:always;overflow:hidden}
+.pg:last-child{page-break-after:auto}
+.top{display:flex;justify-content:space-between;font-size:8.6pt;color:#5b6675;border-bottom:1.6pt solid var(--ink);padding-bottom:2.2mm}
+.top b{color:var(--ink)}
+h1{font-size:19pt;font-weight:700;margin:5mm 0 3.5mm;color:#111a26}
+h1 small{font-size:10.5pt;font-weight:500;color:#5b6675;margin-left:3mm}
+.head{background:#f1f3f5;border:0.6pt solid #d9dee4;padding:3.2mm 4.5mm 1.6mm}.head li{font-size:10pt;line-height:1.5;margin-bottom:1.6mm;padding-left:4.2mm;white-space:nowrap;letter-spacing:-0.1pt}.head li:before{top:2.3mm;width:1.7mm;height:1.7mm;background:var(--ink)}
+.cols{display:flex;gap:8mm;margin-top:5mm}
+.col{flex:1;min-width:0}
+h2{font-size:12pt;color:var(--ink);border-bottom:0.9pt solid var(--ink);padding-bottom:1.6mm;margin-bottom:3mm}
+h2 small{font-size:8.4pt;font-weight:400;color:#6a7482;margin-left:2mm}
+ul{list-style:none}
+li{position:relative;padding-left:5mm;font-size:10.6pt;line-height:1.6;margin-bottom:3.4mm}
+li:before{content:"";position:absolute;left:0.6mm;top:2.5mm;width:2.2mm;height:2.2mm;border-radius:50%;background:var(--club)}
+li b{color:var(--ink)}
+.num{display:grid;grid-template-columns:1fr 1fr;gap:3.2mm}
+.card{border:0.7pt solid #cfd6de;padding:5mm 5mm;background:#fff}
+.card .k{font-size:20pt;font-weight:700;color:var(--club);line-height:1.15}
+.card .v{font-size:10pt;line-height:1.55;margin-top:2.2mm;color:#333d4a}
+.grid6{display:grid;grid-template-columns:repeat(3,1fr);gap:4mm;margin-top:5mm}
+.pc{border:0.7pt solid #cfd6de;border-top:2.4pt solid var(--ink);padding:5mm 5mm 4mm;min-height:52mm;display:flex;flex-direction:column}
+.pc h3{font-size:12pt;color:#111a26;margin-bottom:3mm}
+.pc h3 span{color:var(--club);margin-right:1.6mm}
+.pc p{font-size:9.7pt;line-height:1.6;margin-bottom:2.4mm;color:#2a3442}
+.pc .s{font-size:7.8pt;color:#7a8492;margin-top:auto;padding-top:2mm}
+.flow>div{border:0.7pt solid var(--ink);padding:2.8mm 4mm;margin-bottom:5.2mm;position:relative}
+.flow>div:not(:last-child):after{content:"";position:absolute;left:50%;bottom:-4.6mm;margin-left:-2.4mm;border:2.4mm solid transparent;border-top-color:#b9c2cd;border-bottom:0}
+.flow .t{font-size:10.6pt;font-weight:700;color:var(--ink)}
+.flow .d{font-size:9.6pt;line-height:1.5;margin-top:1mm;color:#2a3442}
+.flow>div.a{background:var(--ink)}.flow>div.a .t,.flow>div.a .d{color:#fff}
+table{border-collapse:collapse;width:100%}
+td{font-size:9.6pt;line-height:1.55;padding:2.3mm 2.4mm;border-bottom:0.5pt solid #d9dee4;vertical-align:top}
+td:first-child{white-space:nowrap;font-weight:700;color:var(--ink);width:21mm}
+td.m{color:#7a8492;font-size:8pt;white-space:nowrap;text-align:right;width:1%}
+.imp{background:#fcf3f2;border:0.6pt solid #f0d2cf;padding:3mm 4mm;margin-top:4mm}
+.imp h4{font-size:10pt;color:var(--club);margin-bottom:1.6mm}
+.imp li{font-size:9.6pt;margin-bottom:2mm}
+.lim{background:#f1f3f5;border:0.6pt solid #d9dee4;padding:3mm 4mm;margin-top:3mm}
+.lim h4{font-size:10pt;color:var(--ink);margin-bottom:1.6mm}
+.lim li{font-size:9.6pt;margin-bottom:2mm}.lim li:before{background:var(--ink)}
+.grid6{margin-top:6mm}.src{position:absolute;left:14mm;right:14mm;bottom:6.5mm;font-size:7.3pt;line-height:1.45;color:#7a8492;border-top:0.5pt solid #d9dee4;padding-top:1.6mm}
+.no{position:absolute;right:14mm;bottom:2.4mm;font-size:7.3pt;color:#9aa3ae}
+.cv{background:var(--ink);color:#fff;padding:0}
+.cv .red{position:absolute;inset:0;background:var(--club);clip-path:polygon(66% 0,100% 0,100% 100%,50% 100%)}
+.cv .yel{position:absolute;inset:0;background:var(--club2);clip-path:polygon(64.6% 0,66% 0,50% 100%,48.6% 100%)}
+.cv .up{position:absolute;left:24mm;top:30mm}
+.cv .lab{font-size:11pt;color:#fff;opacity:.75}
+.cv .ttl{font-size:34pt;font-weight:700;line-height:1.32;margin-top:13mm;color:#fff}
+.cv .bar{width:48mm;height:1.3mm;background:var(--club2);margin:9mm 0 8mm}
+.cv .meta{font-size:11pt;line-height:1.85;color:#fff;opacity:.92}
+.cv .co{position:absolute;left:24mm;bottom:17mm;height:12mm}
+.cv .crest{position:absolute;top:14mm;right:16mm;height:30mm}
+
+:root{--title:#1A1A1A;--bar:#1A1A1A}
+.cv{background:#fff!important}.cv .red{background:var(--club)!important;clip-path:polygon(83% 0,100% 0,100% 100%,67% 100%)!important}.cv .yel{display:none!important}.cv .lab,.cv .meta{color:#1A1A1A!important;opacity:1!important}.cv .ttl{color:var(--title)!important;font-family:"Noto Sans CJK KR Black","Noto Sans CJK KR",sans-serif!important;font-weight:900!important}.cv .bar{background:var(--bar)!important}.cv .co{left:auto!important;right:20mm!important;bottom:17mm!important;height:12mm}.cv .crest{position:absolute;top:auto!important;right:auto!important;left:24mm!important;bottom:17mm!important;height:24mm!important}
+.imp{background:#f4f4f4!important;border-color:#dcdcdc!important}.cv .ttl{font-size:28pt!important;line-height:1.38!important}.cv .meta{font-size:10.5pt!important;max-width:168mm}body,h1,.pc h3,.card .v,.pc p,.flow .d,td,.head li{color:#1A1A1A!important}.card .k,.pc h3 span,.imp h4{color:#1A1A1A!important}.top,h1 small,h2 small,.pc .s,td.m,.src,.no{color:#3A3A3A!important}</style></head><body>
+
+<div class="pg cv">
+ <div class="red"></div><div class="yel"></div>
+ <div class="up">
+  <div class="lab">논문 정리 &nbsp;|&nbsp; 01 선수 평가 체계</div>
+  <div class="ttl">유소년 아카데미·클럽 선수의<br>다차원 수행 특성 비교</div>
+  <div class="bar"></div>
+  <div class="meta">원제 : Multidimensional performance characteristics of youth academy and club soccer players<br>저자 : Ulrikke Norill Kvalvaag, Hege R. Eriksen, Hilde Gundersen, Thomas Johansen, Anne Marte Pensgaard, Morten Kristoffersen<br>게재 : PLOS One 21(5), 2026.5.15<br>원문 : doi.org/10.1371/journal.pone.0348716 (CC BY 오픈액세스)<br>정리일 : 2026.11.24</div>
+ </div>
+ <img class="co" src="data:image/png;base64,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" alt="">
+</div>
+
+<div class="pg">
+ <div class="top"><span><b>더이룸 스포츠</b> &nbsp;|&nbsp; 논문 정리</span><span>2026. 11. 24</span></div>
+ <h1>U14 아카데미·클럽 선수의 다차원 수행 특성 비교<small>PLOS One 21(5)</small></h1>
+ <div class="head"><ul><li>이 연구는 노르웨이 U14 선수 56명을 경기 출전 아카데미 선수, 경기 미출전 아카데미 선수, 지역 클럽 선수로 나눠 신체·성숙·심리·인지 특성을 함께 비교한 연구</li><li>신체 능력과 골격 연령은 선발 연구에서 많이 다뤄졌지만, 정신 기술·동기·실행 기능을 같은 선수 집단에서 함께 측정한 연구는 부족하다는 문제의식에서 출발</li><li>40m 스프린트와 Yo-Yo IR1, 정신 기술·동기 설문, 컴퓨터 기반 실행 기능 검사, 왼손 엑스레이 골격 연령을 이틀에 걸쳐 같은 조건에서 측정해 집단 간 차이를 분석</li></ul></div>
+ <div class="cols">
+  <div class="col"><h2>연구 질문과 방법<small>원문 방법 장 기준</small></h2><ul><li><b>목적</b> 선발 상태가 다른 세 집단의 신체·성숙·심리·인지 특성 비교</li><li><b>대상</b> 노르웨이 남자 U14 56명 (경기 출전 20명, 미출전 14명, 클럽 22명)</li><li><b>신체·성숙</b> 40m 스프린트, Yo-Yo IR1, 신장·체중,<br>왼손 엑스레이 골격 연령(BoneXpert)</li><li><b>심리</b> 정신 기술 설문(MST-f, 6개 영역),<br>동기 설문(BRSQ-20, 자기결정성 이론 기반)</li><li><b>인지</b> CANTAB 실행 기능 검사<br>(반응 시간, 작업 기억, 억제, 인지 유연성, 위험 의사결정)</li></ul></div>
+  <div class="col"><h2>숫자로 보는 연구<small>원문 기준</small></h2><div class="num"><div class="card"><div class="k">56명</div><div class="v">참여 선수<br>(평균 약 14세)</div></div><div class="card"><div class="k">3개 집단</div><div class="v">경기 출전 아카데미,<br>미출전 아카데미, 클럽</div></div><div class="card"><div class="k">5개월</div><div class="v">검사 시점까지의<br>아카데미 참여 기간</div></div><div class="card"><div class="k">4개 영역</div><div class="v">신체·성숙·심리·인지를<br>한 번에 측정</div></div></div></div>
+ </div>
+ <div class="src">출처: Norill Kvalvaag 외(2026), PLOS One 21(5), e0348716 - 초록, 서론, 방법(Methods)</div><div class="no">2 / 5</div>
+</div>
+
+<div class="pg">
+ <div class="top"><span><b>더이룸 스포츠</b> &nbsp;|&nbsp; 논문 정리</span><span>Norill Kvalvaag 외 (2026)</span></div>
+ <h1>집단 간 주요 차이<small>원문 표 2~5 기준</small></h1>
+ <div class="head"><ul><li>경기 출전 아카데미 선수는 미출전 아카데미 선수와 클럽 선수보다 키가 크고 체중과 골격 연령이 높았으며, 출생 분기 분포는 세 집단 사이에 차이가 없는 결과</li><li>경기 출전 선수는 클럽 선수보다 10~40m 스프린트와 Yo-Yo IR1이 모두 우수했고, 30·40m 스프린트에서는 같은 아카데미의 미출전 선수보다도 빨랐다는 분석</li><li>클럽 선수는 정신 기술 6개 영역에서 경기 출전 선수보다 불리한 점수를 보였고 외적 조절과 무동기도 높았으나, 실행 기능은 위험 의사결정 외에 차이가 없는 결과</li></ul></div>
+ <div class="grid6"><div class="pc"><h3><span>1</span>성숙도</h3><p>경기 출전 선수가 신장·체중·<br>골격 연령 모두 높음</p><p>출생 분기는 집단 간 차이 없음,<br>상대 연령과 성숙도는 별개</p><div class="s">표 1</div></div><div class="pc"><h3><span>2</span>스피드와 지구력</h3><p>경기 출전 선수가 클럽 선수보다<br>10~40m 전 구간에서 빠름</p><p>Yo-Yo IR1 평균 1,332m로<br>클럽 선수 972m보다 우수</p><div class="s">표 2</div></div><div class="pc"><h3><span>3</span>정신 기술</h3><p>클럽 선수가 6개 영역 모두에서<br>경기 출전 선수보다 불리</p><p>경기 출전·미출전 아카데미<br>선수 간에는 차이 없음</p><div class="s">표 3</div></div><div class="pc"><h3><span>4</span>동기</h3><p>클럽 선수의 외적 조절과<br>무동기가 더 높음</p><p>내적 동기는<br>세 집단 간 차이 없음</p><div class="s">표 4</div></div><div class="pc"><h3><span>5</span>위험 의사결정</h3><p>경기 출전 선수는 지연을 피하려는<br>위험 감수 경향이 낮음</p><p>성공 가능성에 따라 위험을<br>합리적으로 조정하는 능력이 높음</p><div class="s">표 5</div></div><div class="pc"><h3><span>6</span>기타 실행 기능</h3><p>반응 시간, 작업 기억, 억제,<br>인지 유연성은 차이 없음</p><p>검사 도구의 한계일 수 있어<br>차이 부재로 해석하면 안 됨</p><div class="s">표 5, 논의</div></div></div>
+ <div class="src">출처: Norill Kvalvaag 외(2026) - 결과(Results) 표 1~5, 논의(Discussion)</div><div class="no">3 / 5</div>
+</div>
+
+<div class="pg">
+ <div class="top"><span><b>더이룸 스포츠</b> &nbsp;|&nbsp; 논문 정리</span><span>Norill Kvalvaag 외 (2026)</span></div>
+ <h1>결과에 대한 연구진의 해석</h1>
+ <div class="head"><ul><li>연구진은 이미 선발된 아카데미 안에서도 성숙도가 경기 출전 선발을 좌우한 것으로 보고, 단기 성적 중심의 선발이 늦게 성숙하는 선수를 놓칠 위험을 지적</li><li>아카데미 선수의 우수한 정신 기술은 원래 강점일 수도 있고 주 1회의 체계적 훈련 효과일 수도 있어, 선발 효과와 육성 효과를 이 자료로는 구분할 수 없다는 판단</li><li>실행 기능의 차이가 거의 없던 것은 수면·스트레스 같은 상황 요인과 축구 현장과 거리가 있는 검사 도구의 한계가 함께 작용했을 가능성이 크다는 설명</li></ul></div>
+ <div class="cols">
+  <div class="col" style="flex:0.92"><h2>연구진의 실천 제언</h2><div class="flow"><div><span class="t">U14 검사 결과</span><div class="d">장기 잠재력이 아닌 현재 발달 상태의 단면으로 해석</div></div><div><span class="t">신체 검사</span><div class="d">생물학적 성숙도를 함께 고려해 해석</div></div><div><span class="t">선발 과정</span><div class="d">유연하게 운영하고 정기적으로 재검토</div></div><div class="a"><span class="t">심리 프로필</span><div class="d">선발·탈락 근거가 아닌 개인 육성 계획에 활용</div></div></div></div>
+  <div class="col" style="flex:1.08"><h2>영역별 해석</h2><ul><li><b>성숙도</b> 아카데미 내부에서도 조기 성숙 선수가 경기 출전에 유리</li><li><b>신체 능력</b> 선발 전부터 있던 차이인지 훈련 효과인지 미확인</li><li><b>정신 기술</b> 제한된 훈련 노출로도 향상될 가능성 제시</li><li><b>동기</b> 외부 압력에 기댄 동기는 이탈·소진 위험이 큼</li><li><b>실행 기능</b> CANTAB은 운동선수 청소년 적용 연구가 부족</li><li><b>지도 방식</b> 동기와 정신 기술을 키우는 지지적 지도 권장</li></ul></div>
+ </div>
+ <div class="src">출처: Norill Kvalvaag 외(2026) - 논의(Discussion), 실천적 시사점(Practical implications)</div><div class="no">4 / 5</div>
+</div>
+
+<div class="pg">
+ <div class="top"><span><b>더이룸 스포츠</b> &nbsp;|&nbsp; 논문 정리</span><span>Norill Kvalvaag 외 (2026)</span></div>
+ <h1>시사점과 연구의 한계</h1>
+ <div class="head"><ul><li>신체 검사 점수만으로 선수를 줄 세우면 성장 차이를 재능으로 오해할 수 있어, 성숙도를 함께 보고 선발 결정을 정기적으로 다시 검토해야 한다는 것이 핵심 제언</li><li>정신 기술과 동기 같은 심리 평가를 선수 평가 체계에 포함할 가치는 확인됐지만, 그 결과는 선발보다 개인 육성 계획에 쓰는 것이 바람직하다는 결론</li><li>다만 표본이 작고 횡단 설계라 인과 관계를 말할 수 없으며, 축구 기술 검사와 사회적 요인을 측정하지 않았다는 점을 연구진이 한계로 직접 명시</li></ul></div>
+ <div class="cols">
+  <div class="col" style="flex:1.12"><h2>논의 요지</h2><table><tr><td>선행 연구와 일치</td><td>아카데미의 조기 성숙 선수 과대 대표,<br>상위 선수의 스피드·지구력 우위</td><td class="m">논의</td></tr><tr><td>새로운 발견</td><td>선발된 아카데미 내부에서도<br>성숙도가 경기 출전을 좌우</td><td class="m">논의</td></tr><tr><td>선행 연구와 다름</td><td>상위 선수의 실행 기능 우위가<br>대부분 확인되지 않음</td><td class="m">논의</td></tr><tr><td>연구의 강점</td><td>신체·성숙·심리·인지를 함께 측정한<br>다차원 접근</td><td class="m">강점</td></tr><tr><td>후속 과제</td><td>종단 연구, 대상 집단에서의<br>검사 신뢰도 확인</td><td class="m">한계</td></tr></table></div>
+  <div class="col" style="flex:0.88">
+   <div class="imp" style="margin-top:0"><h4>시사점</h4><ul><li>선수 평가에서 신체 점수를 성숙도와<br>함께 해석하는 기준의 필요성</li><li>심리 평가를 선발 근거가 아닌<br>개인 육성 계획의 자료로 활용</li><li>경기 출전 선발 과정에서 늦게 성숙하는<br>선수를 놓치지 않는 장치</li></ul></div>
+   <div class="lim"><h4>확인 범위와 한계</h4><ul><li>표본이 작아 통계적 검정력과 일반화에 한계 (연구진 명시)</li><li>횡단 설계로 선발 효과와 육성 효과 구분 불가 (연구진 명시)</li><li>축구 기술 검사와 사회적 요인은 미측정 (연구진 명시)</li></ul></div>
+  </div>
+ </div>
+ <div class="src">출처: Norill Kvalvaag 외(2026) - 논의, 강점과 한계(Strengths and limitations), 실천적 시사점</div><div class="no">5 / 5</div>
+</div>
+</body></html>

@@ -16,7 +16,7 @@ CSS = re.sub(r':root\{--club:[^}]*\}', f':root{{--club:{GRAY};--club2:#FFFFFF;--
 CSS = re.sub(r':root\{--title:[^}]*\}', f':root{{--title:{INK};--bar:{GRAY}}}', CSS)
 CSS += ('.imp{background:#f4f4f4!important;border-color:#dcdcdc!important}'
         '.cv .ttl{font-size:28pt!important;line-height:1.38!important}'
-        '.cv .meta{font-size:10.5pt!important}'
+        '.cv .meta{font-size:10.5pt!important;max-width:168mm}'
         # 가독성: 논문 정리본의 글자는 모두 검정 계열로 통일
         'body,h1,.pc h3,.card .v,.pc p,.flow .d,td,.head li{color:#1A1A1A!important}'
         '.card .k,.pc h3 span,.imp h4{color:#1A1A1A!important}'
