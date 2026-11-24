@@ -13,13 +13,12 @@ def build(d):
     n = 5
     cv = d.get('cover', 'dark')
     if cv == 'light':   # 흰 바탕 + 구단 색 면 (로고는 구단 색 면 위)
-        css += (".cv{background:#fff;color:var(--ink)}.cv .red{background:var(--club)}.cv .yel{background:var(--ink)}"
-                ".cv .lab{color:var(--ink);opacity:.7}.cv .ttl{color:var(--ink)}.cv .bar{background:var(--club)}"
-                ".cv .meta{color:var(--ink);opacity:1}.cv .co{left:auto;right:20mm}")
+        css += (".cv{background:#fff;color:var(--club)}.cv .red{background:var(--club)}.cv .yel{display:none}"
+                ".cv .lab{color:var(--club);opacity:1}.cv .ttl{color:var(--club)}.cv .bar{background:var(--club)}"
+                ".cv .meta{color:var(--club);opacity:1}.cv .co{left:auto;right:20mm}")
     elif cv == 'club':  # 구단 색 바탕 + 흰 면
-        css += (".cv{background:var(--club);color:#fff}.cv .red{background:#fff}.cv .yel{background:var(--club3)}"
-                ".cv .bar{background:#fff}")
-        css = css.replace("--ink:", f"--club3:{d['club3']};--ink:", 1)
+        css += (".cv{background:var(--club);color:#fff}.cv .red{background:#fff}.cv .yel{display:none}"
+                ".cv .bar{background:#fff}.cv .lab,.cv .meta{opacity:1}")
     P = []
     P.append(f'''<div class="pg cv">
  <div class="red"></div><div class="yel"></div>
