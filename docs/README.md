@@ -6,3 +6,4 @@
 - data.json의 `file` 값은 이 상대 경로를 그대로 사용 (예: `docs/02/20261002_ijssc_scouting-scoping-review.pdf`)
 - 오픈액세스(CC BY 등) 또는 자체 작성 브리프만 저장. 구독 저널·유료 자료는 `file`을 비우고 `url`만 등록
 - 2026.09.28 이전 자료는 구글 드라이브 링크를 유지한다
+- `docs/00/`은 00 비전과 철학 카테고리용. 구단별 정리본 기준은 `PIPELINE.md` 참조

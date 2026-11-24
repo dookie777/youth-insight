@@ -9,7 +9,7 @@
 approved.json 형식: 아래 키를 가진 객체의 배열
   cat      카테고리 (CATEGORIES 중 하나, 필수)
   sub      하부카테고리 (선택, 없으면 "")
-  type     논문 | 리포트 | 기사  또는 paper | report | news (필수)
+  type     논문 | 리포트 | 기사 | 공식 자료  또는 paper | report | news | official (필수)
   en       원제목 (필수)
   ko       번역제목 (필수)
   summary  핵심내용 (필수)
@@ -30,11 +30,13 @@ import sys
 from datetime import datetime, timedelta, timezone
 
 CATEGORIES = [
+    "00_비전과_철학",
     "01_선수_평가_체계", "02_선수_발굴_체계", "03_아카데미_운영_사례",
     "04_훈련_방법", "05_선수_교육(지도)", "06_육성_정책·제도", "07_선수_성장·발달",
 ]
 TYPE_MAP = {"논문": "paper", "리포트": "report", "기사": "news", "기사·보고서": "news",
-            "paper": "paper", "report": "report", "news": "news"}
+            "공식 자료": "official", "공식자료": "official",
+            "paper": "paper", "report": "report", "news": "news", "official": "official"}
 REQUIRED = ["cat", "type", "en", "ko", "summary", "source", "date", "url"]
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))

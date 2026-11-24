@@ -1,5 +1,5 @@
 {
- "lastUpdate": "2026.11.23",
+ "lastUpdate": "2026.11.24",
  "items": [
   {
    "cat": "01_선수_평가_체계",
@@ -2249,6 +2249,19 @@
    "date": "2026.10.31",
    "url": "https://doi.org/10.7752/jpes.2026.10180",
    "file": "docs/07/20261031_jpes_anthropometry-performance-u14-u16-soccer.pdf"
+  },
+  {
+   "cat": "00_비전과_철학",
+   "sub": "구단 비전·철학 사례",
+   "type": "official",
+   "added": "2026.11.24",
+   "en": "Manchester United Academy: Vision and Philosophy (더이룸 스포츠 구단별 정리본)",
+   "ko": "맨체스터 유나이티드 아카데미의 비전과 철학",
+   "summary": "구단 공식 홈페이지 아카데미 소개문과 구단 매체의 칼럼·팟캐스트·다큐멘터리 ‘Lifeblood’ 기사를 바탕으로 한 정리본. 소개문은 구단 가치의 이해, 삶에서의 성장과 성공, 최고 수준의 프로 축구 선수를 목표로 두고 정직·진실성·존중·겸손을 행동 가치로 제시. 철학은 팀보다 개인, 사람과 선수의 통합, 단계적 전문화, 9~23세의 끊기지 않는 경로, 데뷔 너머의 성공 정의, 전통의 계승 6개 원칙으로 정리. 1937.10.30 이후 육성 출신의 1군 명단 연속 포함 4,327경기(2025.9 기준), 최근 약 10년 1군 출전 시간의 4분의 1을 육성 출신이 소화. 2025.9 스티븐 토피 디렉터 부임 후 ‘세계 최고의 아카데미’ 지향과 1군과의 정렬, 시설 재정비, 개인 발달 코치 채용 추진. 철학 전문을 담은 단일 공식 문서와 플레이 철학의 세부 내용은 공개 자료에서 미확인",
+   "source": "Manchester United 공식 홈페이지·구단 매체 (BBC·Sky Sports·Training Ground Guru 보완)",
+   "date": "2026.11.24",
+   "url": "https://www.manutd.com/en/academy",
+   "file": "docs/00/20261124_eroom-brief_manchester-united-academy-vision-philosophy.pdf"
   }
  ]
 }
