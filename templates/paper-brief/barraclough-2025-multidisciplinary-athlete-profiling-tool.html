@@ -1,0 +1,128 @@
+<!doctype html><html lang="ko"><head><meta charset="utf-8">
+<title>유소년 아카데미 다학제 선수 프로파일링 도구 도입</title>
+<style>
+:root{--club:#1A1A1A;--club2:#FFFFFF;--ink:#1A1A1A}
+
+@page{size:297mm 210mm;margin:0}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:"Noto Sans CJK KR","Noto Sans KR",sans-serif;color:#1c2430;word-break:keep-all;-webkit-print-color-adjust:exact}
+.pg{width:297mm;height:210mm;padding:11mm 14mm 9mm;position:relative;page-break-after:always;overflow:hidden}
+.pg:last-child{page-break-after:auto}
+.top{display:flex;justify-content:space-between;font-size:8.6pt;color:#5b6675;border-bottom:1.6pt solid var(--ink);padding-bottom:2.2mm}
+.top b{color:var(--ink)}
+h1{font-size:19pt;font-weight:700;margin:5mm 0 3.5mm;color:#111a26}
+h1 small{font-size:10.5pt;font-weight:500;color:#5b6675;margin-left:3mm}
+.head{background:#f1f3f5;border:0.6pt solid #d9dee4;padding:3.2mm 4.5mm 1.6mm}.head li{font-size:10pt;line-height:1.5;margin-bottom:1.6mm;padding-left:4.2mm;white-space:nowrap;letter-spacing:-0.1pt}.head li:before{top:2.3mm;width:1.7mm;height:1.7mm;background:var(--ink)}
+.cols{display:flex;gap:8mm;margin-top:5mm}
+.col{flex:1;min-width:0}
+h2{font-size:12pt;color:var(--ink);border-bottom:0.9pt solid var(--ink);padding-bottom:1.6mm;margin-bottom:3mm}
+h2 small{font-size:8.4pt;font-weight:400;color:#6a7482;margin-left:2mm}
+ul{list-style:none}
+li{position:relative;padding-left:5mm;font-size:10.6pt;line-height:1.6;margin-bottom:3.4mm}
+li:before{content:"";position:absolute;left:0.6mm;top:2.5mm;width:2.2mm;height:2.2mm;border-radius:50%;background:var(--club)}
+li b{color:var(--ink)}
+.num{display:grid;grid-template-columns:1fr 1fr;gap:3.2mm}
+.card{border:0.7pt solid #cfd6de;padding:5mm 5mm;background:#fff}
+.card .k{font-size:20pt;font-weight:700;color:var(--club);line-height:1.15}
+.card .v{font-size:10pt;line-height:1.55;margin-top:2.2mm;color:#333d4a}
+.grid6{display:grid;grid-template-columns:repeat(3,1fr);gap:4mm;margin-top:5mm}
+.pc{border:0.7pt solid #cfd6de;border-top:2.4pt solid var(--ink);padding:5mm 5mm 4mm;min-height:52mm;display:flex;flex-direction:column}
+.pc h3{font-size:12pt;color:#111a26;margin-bottom:3mm}
+.pc h3 span{color:var(--club);margin-right:1.6mm}
+.pc p{font-size:9.7pt;line-height:1.6;margin-bottom:2.4mm;color:#2a3442}
+.pc .s{font-size:7.8pt;color:#7a8492;margin-top:auto;padding-top:2mm}
+.flow>div{border:0.7pt solid var(--ink);padding:2.8mm 4mm;margin-bottom:5.2mm;position:relative}
+.flow>div:not(:last-child):after{content:"";position:absolute;left:50%;bottom:-4.6mm;margin-left:-2.4mm;border:2.4mm solid transparent;border-top-color:#b9c2cd;border-bottom:0}
+.flow .t{font-size:10.6pt;font-weight:700;color:var(--ink)}
+.flow .d{font-size:9.6pt;line-height:1.5;margin-top:1mm;color:#2a3442}
+.flow>div.a{background:var(--ink)}.flow>div.a .t,.flow>div.a .d{color:#fff}
+table{border-collapse:collapse;width:100%}
+td{font-size:9.6pt;line-height:1.55;padding:2.3mm 2.4mm;border-bottom:0.5pt solid #d9dee4;vertical-align:top}
+td:first-child{white-space:nowrap;font-weight:700;color:var(--ink);width:21mm}
+td.m{color:#7a8492;font-size:8pt;white-space:nowrap;text-align:right;width:1%}
+.imp{background:#fcf3f2;border:0.6pt solid #f0d2cf;padding:3mm 4mm;margin-top:4mm}
+.imp h4{font-size:10pt;color:var(--club);margin-bottom:1.6mm}
+.imp li{font-size:9.6pt;margin-bottom:2mm}
+.lim{background:#f1f3f5;border:0.6pt solid #d9dee4;padding:3mm 4mm;margin-top:3mm}
+.lim h4{font-size:10pt;color:var(--ink);margin-bottom:1.6mm}
+.lim li{font-size:9.6pt;margin-bottom:2mm}.lim li:before{background:var(--ink)}
+.grid6{margin-top:6mm}.src{position:absolute;left:14mm;right:14mm;bottom:6.5mm;font-size:7.3pt;line-height:1.45;color:#7a8492;border-top:0.5pt solid #d9dee4;padding-top:1.6mm}
+.no{position:absolute;right:14mm;bottom:2.4mm;font-size:7.3pt;color:#9aa3ae}
+.cv{background:var(--ink);color:#fff;padding:0}
+.cv .red{position:absolute;inset:0;background:var(--club);clip-path:polygon(66% 0,100% 0,100% 100%,50% 100%)}
+.cv .yel{position:absolute;inset:0;background:var(--club2);clip-path:polygon(64.6% 0,66% 0,50% 100%,48.6% 100%)}
+.cv .up{position:absolute;left:24mm;top:30mm}
+.cv .lab{font-size:11pt;color:#fff;opacity:.75}
+.cv .ttl{font-size:34pt;font-weight:700;line-height:1.32;margin-top:13mm;color:#fff}
+.cv .bar{width:48mm;height:1.3mm;background:var(--club2);margin:9mm 0 8mm}
+.cv .meta{font-size:11pt;line-height:1.85;color:#fff;opacity:.92}
+.cv .co{position:absolute;left:24mm;bottom:17mm;height:12mm}
+.cv .crest{position:absolute;top:14mm;right:16mm;height:30mm}
+
+:root{--title:#1A1A1A;--bar:#1A1A1A}
+.cv{background:#fff!important}.cv .red{background:var(--club)!important;clip-path:polygon(83% 0,100% 0,100% 100%,67% 100%)!important}.cv .yel{display:none!important}.cv .lab,.cv .meta{color:#1A1A1A!important;opacity:1!important}.cv .ttl{color:var(--title)!important;font-family:"Noto Sans CJK KR Black","Noto Sans CJK KR",sans-serif!important;font-weight:900!important}.cv .bar{background:var(--bar)!important}.cv .co{left:auto!important;right:20mm!important;bottom:17mm!important;height:12mm}.cv .crest{position:absolute;top:auto!important;right:auto!important;left:24mm!important;bottom:17mm!important;height:24mm!important}
+.imp{background:#f4f4f4!important;border-color:#dcdcdc!important}.cv .ttl{font-size:28pt!important;line-height:1.38!important}.cv .meta{font-size:10.5pt!important;max-width:168mm}body,h1,.pc h3,.card .v,.pc p,.flow .d,td,.head li{color:#1A1A1A!important}.card .k,.pc h3 span,.imp h4{color:#1A1A1A!important}.top,h1 small,h2 small,.pc .s,td.m,.src,.no{color:#3A3A3A!important}</style></head><body>
+
+<div class="pg cv">
+ <div class="red"></div><div class="yel"></div>
+ <div class="up">
+  <div class="lab">논문 정리 &nbsp;|&nbsp; 01 선수 평가 체계</div>
+  <div class="ttl">유소년 아카데미의 선발·육성 난제와 해법:<br>다학제 선수 프로파일링 도구의 도입</div>
+  <div class="bar"></div>
+  <div class="meta">원제 : Challenges and solutions to talent (de)selection and development in a youth soccer academy: the implementation of a multidisciplinary athlete profiling tool<br>저자 : Sam Barraclough, Kevin Till, Adam Kerr, Stacey Emmonds<br>게재 : Frontiers in Psychology 16, 2025.11.4<br>원문 : doi.org/10.3389/fpsyg.2025.1636386 (CC BY 오픈액세스)<br>정리일 : 2026.11.24</div>
+ </div>
+ <img class="co" src="data:image/png;base64,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" alt="">
+</div>
+
+<div class="pg">
+ <div class="top"><span><b>더이룸 스포츠</b> &nbsp;|&nbsp; 논문 정리</span><span>2026. 11. 24</span></div>
+ <h1>유소년 아카데미 다학제 선수 프로파일링 도구 도입<small>Frontiers in Psychology 16</small></h1>
+ <div class="head"><ul><li>이 논문은 영국 남자 유소년 축구 아카데미 1곳에서 실제로 설계·운영한 다학제 선수 프로파일링 도구를 사례로 선발과 육성의 난제와 해법을 다룬 가설·이론 논문</li><li>선발과 육성 결정이 코치의 직관과 경험에 크게 기대며, 현재 수행과 잠재력을 구분하지 못하고 스태프 간 평가가 엇갈린다는 현장의 문제의식에서 출발한 논의</li><li>1부에서 현장 과제 3가지를 정리하고, 2부에서 해법과 도구 적용 사례를 제시하며, 3부에서 도구를 실제로 도입할 때 부딪히는 과제와 대응 방안을 차례로 서술</li></ul></div>
+ <div class="cols">
+  <div class="col"><h2>논문의 질문과 구성<small>원문 서론 기준</small></h2><ul><li><b>목적</b> 선수 선발·육성의 현장 난제와<br>해법을 실제 적용 사례로 제시</li><li><b>대상</b> 영국 남자 유소년 축구 아카데미 1곳의<br>프로파일링 도구 설계와 운영</li><li><b>1부</b> 재능 인식, 수행 평가 합의,<br>다학제 변화 추적의 3가지 과제</li><li><b>2부</b> 해법 6가지와 이를 반영한<br>Power BI 기반 프로파일링 도구</li><li><b>3부</b> 데이터 처리, 다학제 팀 참여와<br>의사결정의 실행 과제와 대응</li></ul></div>
+  <div class="col"><h2>숫자로 보는 논문<small>원문 기준</small></h2><div class="num"><div class="card"><div class="k">3부</div><div class="v">현장 과제, 해법과 사례,<br>도입 과제로 구성</div></div><div class="card"><div class="k">3가지</div><div class="v">1부에서 제시한<br>선발·육성의 현장 과제</div></div><div class="card"><div class="k">6가지</div><div class="v">도구 설계에 반영한<br>해법의 원칙</div></div><div class="card"><div class="k">1곳</div><div class="v">도구를 설계·적용한<br>영국 유소년 아카데미</div></div></div></div>
+ </div>
+ <div class="src">출처: Barraclough 외(2025), Frontiers in Psychology 16:1636386 - 초록, 서론(Introduction), 2부 적용 사례</div><div class="no">2 / 6</div>
+</div>
+
+<div class="pg">
+ <div class="top"><span><b>더이룸 스포츠</b> &nbsp;|&nbsp; 논문 정리</span><span>Barraclough 외 (2025)</span></div>
+ <h1>현장 과제와 해법의 대응<small>원문 1부·2부 기준</small></h1>
+ <div class="head"><ul><li>1부는 재능 정의가 모호해 현재 수행과 잠재력이 혼동되고, 생물학적 성숙도가 이 구분을 더 흐리게 만든다는 점을 첫 번째 현장 과제로 제기한 구조</li><li>스태프마다 중시하는 속성과 성숙·확증 편향 같은 편향이 달라 수행 평가에 합의하기 어렵고, 단일 시점의 단일 영역 자료로는 발달을 읽을 수 없다는 지적</li><li>2부는 장기 관점, 성장·성숙 고려, 다학제 접근, 공유 정신 모형, 객관·주관 자료 결합, 종단 추적의 6가지를 각 과제에 대응하는 해법으로 묶어 제시한 내용</li></ul></div>
+ <div class="grid6"><div class="pc"><h3><span>1</span>수행과 잠재력</h3><p>조기 성과가 미래 성공의<br>전제가 아니라는 인식</p><p>여러 영역의 지속적 향상을<br>잠재력의 근거로 해석</p><div class="s">1부 과제 1, 2부</div></div><div class="pc"><h3><span>2</span>성장과 성숙</h3><p>생물학적 기준 대비 비교와<br>바이오밴딩 경기 평가</p><p>성숙 단계에 맞춘 공정한<br>관찰과 훈련 계획 수립</p><div class="s">2부</div></div><div class="pc"><h3><span>3</span>다학제 접근</h3><p>신체·심리·기술·전술 등<br>여러 영역의 자료 종합</p><p>자료 수집 시 선수·보호자의<br>사전 동의 확보가 전제</p><div class="s">1부 과제 3, 2부</div></div><div class="pc"><h3><span>4</span>공유 정신 모형</h3><p>포지션별 핵심 행동을<br>조직 차원에서 명시적 정의</p><p>코치·스카우트 간 평가 편차를<br>줄이는 공통 기준</p><div class="s">1부 과제 2, 2부</div></div><div class="pc"><h3><span>5</span>사인·샘플·전문가 의견</h3><p>속성 검사, 경기 분석,<br>코치의 주관 평가를 결합</p><p>할 수 있는지, 하고 있는지,<br>영향을 주는지를 함께 판단</p><div class="s">2부</div></div><div class="pc"><h3><span>6</span>종단 추적</h3><p>단면 자료의 예측력에는<br>논란이 있다는 판단</p><p>시간에 따른 변화 추세로<br>미래 잠재력을 가늠</p><div class="s">2부</div></div></div>
+ <div class="src">출처: Barraclough 외(2025) - 1부 과제 1~3, 2부 해법(Possible solutions)</div><div class="no">3 / 6</div>
+</div>
+
+<div class="pg">
+ <div class="top"><span><b>더이룸 스포츠</b> &nbsp;|&nbsp; 논문 정리</span><span>Barraclough 외 (2025)</span></div>
+ <h1>프로파일링 도구의 구성<small>원문 2부 적용 사례·그림 1 기준</small></h1>
+ <div class="head"><ul><li>도구는 Microsoft Power BI 대시보드와 보고서로 여러 출처의 자료를 시각화하고, 아카데미가 함께 쓰는 Microsoft Teams 안에 넣어 접근성을 높인 형태</li><li>선수별 보고서는 신체·심리 프로파일, 경기 분석 통계, 코치 주관 평가를 한 화면에 모아 다학제 팀이 선수마다 논의하는 기초 자료로 쓰이는 구조</li><li>경기 지표와 코치 평가는 여러 경기의 평균으로 표시해 일회성 수행을 걸러 내고, 날짜 필터로 6주·분기·연 단위의 종단 비교가 가능하도록 설계</li></ul></div>
+ <div class="grid6"><div class="pc"><h3><span>1</span>사인: 신체</h3><p>EPPP 체력 검사 기반<br>종합 운동능력 점수(TSA)</p><p>개인 성장·성숙 단계에 따른<br>색상 등급으로 표시</p><div class="s">그림 1, 빨간 상자</div></div><div class="pc"><h3><span>2</span>사인: 심리</h3><p>사고방식과 행동 측면의<br>성격 강점 파악</p><p>심리·행동 적응력을<br>보여 주는 자료</p><div class="s">그림 1, 빨간 상자</div></div><div class="pc"><h3><span>3</span>샘플: 경기 분석</h3><p>공유 정신 모형의 행동을<br>반영한 경기 통계</p><p>선택 기간 여러 경기의<br>평균 점수로 표시</p><div class="s">그림 1, 초록 상자</div></div><div class="pc"><h3><span>4</span>코치 주관 평가</h3><p>같은 경기들에 대한<br>코치 평가의 평균 점수</p><p>선수가 경기에 주는<br>영향을 판단하는 자료</p><div class="s">그림 1, 노란 상자</div></div><div class="pc"><h3><span>5</span>기간 필터</h3><p>조정 가능한 날짜 범위로<br>평가 기간 설정</p><p>6주, 분기, 연 단위의<br>종단 평가 지원</p><div class="s">그림 1, 보라 상자</div></div><div class="pc"><h3><span>6</span>활용 방식</h3><p>선수별 보고서를 다학제 팀<br>논의의 출발점으로 사용</p><p>선발·육성 결정을<br>대체가 아닌 보조</p><div class="s">2부, 3부</div></div></div>
+ <div class="src">출처: Barraclough 외(2025) - 2부 적용 사례(An applied example), 그림 1</div><div class="no">4 / 6</div>
+</div>
+
+<div class="pg">
+ <div class="top"><span><b>더이룸 스포츠</b> &nbsp;|&nbsp; 논문 정리</span><span>Barraclough 외 (2025)</span></div>
+ <h1>도입 과정의 과제와 대응</h1>
+ <div class="head"><ul><li>첫 번째 실행 과제는 여러 출처의 대량 자료를 정확하게 수집·입력·통합하고 개인정보 규정에 맞게 보관하면서 빠른 현장 일정 속에서 처리해야 한다는 부담</li><li>연구진은 측정 매뉴얼로 수집 절차를 표준화하고 Power Apps와 Power Automate의 API 연동으로 자료를 중앙에 모으는 관계형 데이터 모형을 대응책으로 제시</li><li>두 번째 과제인 다학제 팀의 참여는 자료가 결정을 이끄는 방식이 아닌 자료를 참고하는 방식의 집단 논의와 정기적인 사후 검토로 풀어야 한다는 결론</li></ul></div>
+ <div class="cols">
+  <div class="col" style="flex:0.92"><h2>자료 처리 흐름</h2><div class="flow"><div><span class="t">수집</span><div class="d">코치 평가 앱, 경기 분석 코딩 창,<br>신체 측정 매뉴얼</div></div><div><span class="t">관리</span><div class="d">API 연동으로 여러 출처의 자료를<br>변환·중앙 저장</div></div><div><span class="t">분석</span><div class="d">자료 정제와 분석,<br>출처 간 관계 설정</div></div><div class="a"><span class="t">보고·시각화</span><div class="d"><span style="color:#fff">Power BI 보고서를<br>Teams에 넣어 현장에 공유</span></div></div></div></div>
+  <div class="col" style="flex:1.08"><h2>과제별 대응</h2><ul><li><b>수집 신뢰도</b> 타당·신뢰·민감한 측정과<br>관찰자 간 일치도 고려</li><li><b>동의와 보안</b> 선수 사전 동의, GDPR 등<br>개인정보 규정 준수</li><li><b>자료 통합</b> 외부 제공처 자료의<br>추출·변환·적재(ETL)</li><li><b>보고의 간결성</b> 복잡한 정보를 읽기 쉬운<br>형식으로 단순화</li><li><b>팀 의사결정</b> 직무별 전문성에 따른 해석을<br>모아 강점·약점 합의</li><li><b>사후 검토</b> 시즌 중·시즌 간 결정을<br>되짚어 효과성 점검</li></ul></div>
+ </div>
+ <div class="src">출처: Barraclough 외(2025) - 3부 과제 1·2, 해결 방안 1·2(Solution 1, 2), 그림 2·3</div><div class="no">5 / 6</div>
+</div>
+
+<div class="pg">
+ <div class="top"><span><b>더이룸 스포츠</b> &nbsp;|&nbsp; 논문 정리</span><span>Barraclough 외 (2025)</span></div>
+ <h1>시사점과 연구의 한계</h1>
+ <div class="head"><ul><li>선수 평가는 단일 특성이 아닌 다학제 자료를 바탕으로 하되, 객관 자료가 코치의 주관 의견을 확인하고 반박할 수 있게 결합해야 한다는 것이 핵심 제언</li><li>도구는 선발·육성 절차를 대체하지 않고 보조하는 장치로, 자료를 참고하는 집단 결정이 무의식적 편향을 일부 줄일 수 있다는 것이 연구진의 판단</li><li>다만 영국 아카데미 1곳에 맞춘 설계라 일반화에 한계가 있고, 예측 타당도와 육성 효과는 실증 검증되지 않았다는 점을 연구진이 직접 밝히는 대목</li></ul></div>
+ <div class="cols">
+  <div class="col" style="flex:1.12"><h2>논의 요지</h2><table><tr><td>평가의 출발점</td><td>수행과 잠재력의 구분,<br>성숙도를 고려한 해석</td><td class="m">1부, 2부</td></tr><tr><td>조직의 정렬</td><td>공유 정신 모형으로<br>평가 기준을 명시적 합의</td><td class="m">2부</td></tr><tr><td>자료의 결합</td><td>사인·샘플과 코치 의견을<br>함께 놓고 상호 점검</td><td class="m">2부</td></tr><tr><td>운영 원칙</td><td>자료 주도가 아닌<br>자료 참고형 의사결정</td><td class="m">3부</td></tr><tr><td>후속 과제</td><td>다른 환경 적용 평가,<br>종단 검증, 저자원형 개발</td><td class="m">한계</td></tr></table></div>
+  <div class="col" style="flex:0.88">
+   <div class="imp" style="margin-top:0"><h4>시사점</h4><ul><li>선수 평가 지표를 조직의 포지션별<br>핵심 행동과 연결하는 기준</li><li>객관 자료와 코치 평가를 한 화면에서<br>종단 비교하는 보고 체계</li><li>선발 결정을 정기적으로 되짚는<br>다학제 팀 검토 절차</li></ul></div>
+   <div class="lim"><h4>확인 범위와 한계</h4><ul><li>영국 아카데미 1곳 전용 설계로 일반화에 한계 (연구진 명시)</li><li>예측 타당도와 육성·선발 효과는 실증 미확인 (연구진 명시)</li><li>주관성과 편향은 완전히 제거 불가 (연구진 명시)</li><li>기술 기반·교육·자원 부족 환경의 도입 장벽 (연구진 명시)</li></ul></div>
+  </div>
+ </div>
+ <div class="src">출처: Barraclough 외(2025) - 3부, 한계와 향후 방향(Limitations and future directions), 결론(Conclusion)</div><div class="no">6 / 6</div>
+</div>
+</body></html>

@@ -25,7 +25,7 @@
    "source": "Science and Medicine in Football",
    "date": "2026 (DOI 기준)",
    "url": "https://www.tandfonline.com/doi/full/10.1080/24733938.2026.2643531",
-   "file": "https://drive.google.com/uc?export=download&id=1-RFkBssvUvOsrd22vyWLA0Hk_kgSAaSl"
+   "file": "docs/01/20260317_eroom-brief_hernandez-2026-sprint-percentile-biological-age.pdf"
   },
   {
    "cat": "02_선수_발굴_체계",
@@ -268,11 +268,11 @@
    "added": "2026.07.31",
    "en": "Challenges and solutions to talent (de)selection and development in a youth soccer academy: the implementation of a multidisciplinary athlete profiling tool",
    "ko": "유소년 아카데미 다학제 선수 프로파일링 툴 구축 사례(리즈 유나이티드)",
-   "summary": "리즈 유나이티드 아카데미 실무 적용 사례. 피지컬·심리·경기 분석·코치 평가를 통합한 Power BI 종단 대시보드 구축, 잠재력-수행 구분·성숙도 보정·스태프 평가 정렬 등 평가 난제와 해법 제시",
+   "summary": "영국 남자 유소년 축구 아카데미 1곳의 실무 적용 사례. 피지컬·심리 검사, 경기 분석, 코치 평가를 통합한 Power BI 종단 대시보드 구축, 잠재력-수행 구분·성숙도 고려·스태프 평가 정렬 등 선발·육성 난제와 해법 제시(예측 타당도는 미검증)",
    "source": "Frontiers in Psychology",
    "date": "2025.11.4",
    "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1636386/full",
-   "file": "https://drive.google.com/uc?export=download&id=1uVtj68tQC7nL7zdoJhh-m8ZVjCB7mRLx"
+   "file": "docs/01/20251104_eroom-brief_barraclough-2025-multidisciplinary-athlete-profiling-tool.pdf"
   },
   {
    "cat": "03_아카데미_운영_사례",
@@ -320,11 +320,11 @@
    "added": "2026.08.02",
    "en": "Perceptual-cognitive skills in talent development environments: a survey of academy football coaches in the United Kingdom",
    "ko": "인재 육성 환경의 지각-인지 기술: 영국 아카데미 축구 코치 대상 설문",
-   "summary": "영국 프로 유소년 아카데미 코치 63명(1군 51%·2군 11%·3군 38%, 평균 코칭 경력 15.7년) 설문. 전원 지각-인지기술(PCS) 중요성 동의하나 'PCS에 매우 익숙' 3%·정식 교육 이수 37%에 그쳐 확신(92%)과 실제 이해 간 간극 확인, 75%가 정기 평가하나 표준화된 평가 도구·용어 부재로 발굴·육성 실무 불일치 위험 제기",
+   "summary": "영국 프로 유소년 아카데미(Premier League 등급 Category 1 51%·2 11%·3 38%) 코치 63명(평균 코칭 경력 15.7년) 설문. 전원 지각-인지기술(PCS) 중요성 동의하나 'PCS에 매우 익숙' 3%·PCS 교육 이수 37%에 그침, 반면 92%가 발굴·평가에 보통 이상 확신, 75%가 자주 관찰·평가한다고 답해 확신과 실제 이해 간 간극 확인, 용어 불일치에 따른 평가 비일관 위험과 표준화된 접근·코치 교육 필요성 제기",
    "source": "Frontiers in Psychology",
    "date": "2026.3.10",
    "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1751602/full",
-   "file": "https://drive.google.com/file/d/1OCZJI_MvJOfHnoOrQYljZMhzQfI1bg3F/view?usp=drive_link"
+   "file": "docs/01/20260310_eroom-brief_triggs-2026-perceptual-cognitive-skills-uk-academy-coaches.pdf"
   },
   {
    "cat": "02_선수_발굴_체계",
@@ -389,7 +389,7 @@
    "source": "PLOS One",
    "date": "2025.7.8",
    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327721",
-   "file": "https://drive.google.com/file/d/1aV9GGcjb9JIToecHqUvhlLaJBCDrQjKX/view?usp=drive_link"
+   "file": "docs/01/20250708_eroom-brief_triggs-2025-perceptual-cognitive-talent-development.pdf"
   },
   {
    "cat": "07_선수_성장·발달",
@@ -571,7 +571,7 @@
    "source": "Frontiers in Psychology",
    "date": "2026.5.6",
    "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1821294/full",
-   "file": "https://drive.google.com/file/d/1ELfjakimLbTSAliZAQvRnV_nHca6T6sb/view?usp=drive_link"
+   "file": "docs/01/20260506_eroom-brief_casanova-2026-psychological-characteristics-talented-soccer.pdf"
   },
   {
    "cat": "07_선수_성장·발달",
