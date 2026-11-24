@@ -35,6 +35,8 @@
 - 표지 기재 항목: 분류(00 비전과 철학), 제목, 대상 구단과 리그, 출처, 정리일
 - 로고는 더이룸 스포츠 로고만 삽입. 구단 엠블럼은 넣지 않음
 - 맨체스터 유나이티드 확정값: 빨강 #DB1D24, 검정 #1A1A1A, 금색 #B79E59
+- 아약스 확정값: 빨강 #C2002F, 검정 #181314, 흰색 #FFFFFF (ajax.nl 화면에 실제 적용된 색)
+- PSV 에인트호번 확정값: 빨강 #E82026, 검정 #09101D, 흰색 #FFFFFF (psv.nl 스타일시트 지정값)
 
 ## 5. 헤드 메시지
 
@@ -57,7 +59,7 @@
 
 ## 7. 제작과 게시
 
-1. `templates/club-brief/<구단>.html` 작성 (`:root`의 `--club`, `--club2`, `--ink`에 구단 색 지정)
+1. `templates/club-brief/<구단>.json`에 내용과 구단 색(`club`, `club2`, `ink`)을 적고 `python scripts/gen_club_brief.py templates/club-brief/<구단>.json templates/club-brief/<구단>.html`로 HTML 생성 (예시: `ajax.json`, `psv.json`)
 2. `python scripts/check_head_length.py templates/club-brief/<구단>.html` 전 문장 통과 확인
 3. `python scripts/build_brief.py templates/club-brief/<구단>.html docs/00/<YYYYMMDD>_eroom-brief_<구단>-academy-vision-philosophy.pdf`
 4. PDF를 이미지로 변환해 전 쪽 육안 확인 (쪽 수, 줄바꿈, 넘침)
