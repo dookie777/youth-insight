@@ -11,12 +11,16 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 base = open(os.path.join(ROOT, 'templates/club-brief/manchester-united.html'), encoding='utf-8').read()
 CSS = base.split('<style>')[1].split('</style>')[0]
 LOGO = re.search(r'<img class="co" src="([^"]+)"', base).group(1)
-GRAY, INK = '#6E6E6E', '#1A1A1A'
+GRAY, INK = '#1A1A1A', '#1A1A1A'
 CSS = re.sub(r':root\{--club:[^}]*\}', f':root{{--club:{GRAY};--club2:#FFFFFF;--ink:{INK}}}', CSS)
 CSS = re.sub(r':root\{--title:[^}]*\}', f':root{{--title:{INK};--bar:{GRAY}}}', CSS)
 CSS += ('.imp{background:#f4f4f4!important;border-color:#dcdcdc!important}'
         '.cv .ttl{font-size:28pt!important;line-height:1.38!important}'
-        '.cv .meta{font-size:10.5pt!important}')
+        '.cv .meta{font-size:10.5pt!important}'
+        # 가독성: 논문 정리본의 글자는 모두 검정 계열로 통일
+        'body,h1,.pc h3,.card .v,.pc p,.flow .d,td,.head li{color:#1A1A1A!important}'
+        '.card .k,.pc h3 span,.imp h4{color:#1A1A1A!important}'
+        '.top,h1 small,h2 small,.pc .s,td.m,.src,.no{color:#3A3A3A!important}')
 TOP = '<div class="top"><span><b>더이룸 스포츠</b> &nbsp;|&nbsp; 논문 정리</span><span>{r}</span></div>'
 def head(items): return '<div class="head"><ul>' + ''.join(f'<li>{x}</li>' for x in items) + '</ul></div>'
 def ul(items): return '<ul>' + ''.join(f'<li><b>{a}</b> {b}</li>' for a, b in items) + '</ul>'
