@@ -1,6 +1,10 @@
 # -*- coding: utf-8 -*-
 import re, sys, json
-import os
+import os, base64
+MIME = {'.svg': 'image/svg+xml', '.png': 'image/png'}
+def crest_uri(path):
+    f = os.path.join(ROOT, path)
+    return f'data:{MIME[os.path.splitext(f)[1].lower()]};base64,' + base64.b64encode(open(f, 'rb').read()).decode()
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 base = open(os.path.join(ROOT, 'templates/club-brief/manchester-united.html'), encoding='utf-8').read()
 CSS = base.split('<style>')[1].split('</style>')[0]
@@ -32,6 +36,7 @@ def build(d):
   <div class="bar"></div>
   <div class="meta">대상 : {d['target']}<br>출처 : {d['cover_src']}<br>정리일 : 2026.11.24</div>
  </div>
+ <img class="crest" src="{crest_uri(d['crest'])}" alt="">
  <img class="co" src="{LOGO}" alt="">
 </div>''')
     cards = ''.join(f'<div class="card"><div class="k">{k}</div><div class="v">{v}</div></div>' for k, v in d['cards'])
