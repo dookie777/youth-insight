@@ -16,6 +16,8 @@ def build(d):
         css += (".cv{background:#fff;color:var(--club)}.cv .red{background:var(--club)}.cv .yel{display:none}"
                 ".cv .lab{color:var(--club);opacity:1}.cv .ttl{color:var(--club)}.cv .bar{background:var(--club)}"
                 ".cv .meta{color:var(--club);opacity:1}.cv .co{left:auto;right:20mm}")
+        if d['club2'].lower() not in ('#fff', '#ffffff'):
+            css += ".cv .yel{display:block;background:var(--club2)}.cv .bar{background:var(--club2)}"
     elif cv == 'club':  # 구단 색 바탕 + 흰 면
         css += (".cv{background:var(--club);color:#fff}.cv .red{background:#fff}"
                 ".cv .lab,.cv .meta{opacity:1}")
