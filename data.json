@@ -1,5 +1,5 @@
 {
- "lastUpdate": "2026.11.24",
+ "lastUpdate": "2026.11.25",
  "items": [
   {
    "cat": "01_선수_평가_체계",
@@ -2392,6 +2392,45 @@
    "date": "2020.12.9(온라인)",
    "url": "https://hull-repository.worktribe.com/output/3666023",
    "file": ""
+  },
+  {
+   "cat": "01_선수_평가_체계",
+   "sub": "",
+   "type": "paper",
+   "added": "2026.11.25",
+   "en": "Evaluating Passing Performance in Youth Football: A Systematic Review Toward an Ecological Dynamics Framework",
+   "ko": "유소년 축구 패스 수행 평가: 생태학적 역학 기반 체계적 문헌고찰",
+   "summary": "19세 이하 유소년 선수의 패스 평가 연구 36편을 PRISMA 2020 기준으로 검토한 체계적 문헌고찰. 평가 차원은 상황적 의사결정(21편)·개인 기술(12편)·팀 기여(3편) 순이며 통제된 표준화 평가에 치우치고 성별·경기 수준·생물학적 성숙·포지션 보고가 일관되지 않음. 개인-과제-환경 제약을 반영한 미시-중간-거시 다층 패스 평가 틀을 제안",
+   "source": "Journal of Sports Science and Medicine",
+   "date": "2026.12.1",
+   "url": "https://doi.org/10.52082/jssm.2026.1021",
+   "file": "docs/01/20261201_jssm_passing-performance-evaluation-youth-football-review.pdf"
+  },
+  {
+   "cat": "01_선수_평가_체계",
+   "sub": "",
+   "type": "paper",
+   "added": "2026.11.25",
+   "en": "Pre-Season Changes in Physical Performance and Early Competitive Squad Inclusion in Under-15 Male Soccer Players",
+   "ko": "U15 남자 축구 선수의 프리시즌 체력 변화와 시즌 초 경기 명단 포함",
+   "summary": "U15 유소년 프로그램 남자 필드 선수 37명을 대상으로 프리시즌 전후 점프·스프린트·방향 전환·Yo-Yo IR1을 측정하고 시즌 첫 5경기 명단 포함 여부(포함 14명, 미포함 23명)와 비교한 연구. 프리시즌 동안 SJ(+1.44cm)·CMJ(+1.36cm)·COD-20m(+0.38km/h)가 유의하게 향상됐고, 명단 포함 선수는 사후 COD-20m에서 가장 큰 차이(14.19 vs 13.40km/h, d=1.25)를 보임. 명단 포함은 변화 폭이 아니라 절대 체력 수준과 연관",
+   "source": "Journal of Functional Morphology and Kinesiology",
+   "date": "2026.7.29",
+   "url": "https://doi.org/10.3390/jfmk11030300",
+   "file": "docs/01/20260729_jfmk_pre-season-physical-performance-squad-inclusion-u15.pdf"
+  },
+  {
+   "cat": "07_선수_성장·발달",
+   "sub": "",
+   "type": "paper",
+   "added": "2026.11.25",
+   "en": "Organized and self-organized football activity and motivational regulation among boys and girls in a Norwegian youth talent pathway: A descriptive cross-sectional study",
+   "ko": "노르웨이 유소년 재능 육성 경로 남녀 선수의 조직적·자율적 축구 활동량과 동기 조절",
+   "summary": "노르웨이 국가 유소년 재능 육성 프로그램 한 지역 선발 선수 103명(여 51명, 남 52명, 평균 13.8세)의 주간 축구 활동량과 동기 조절을 기술한 횡단 연구. 주간 총 축구 시간은 남자 10.8시간, 여자 7.0시간(중앙값)으로 차이는 지도자 주도 활동(6.0 vs 4.5시간)보다 선수 자율 활동(4.0 vs 2.0시간)에서 상대적으로 큼. 같은 경로에 선발돼도 축구 노출량은 동등하지 않았으며 두 집단 모두 내적 동기는 높고 무동기는 낮은 수준",
+   "source": "International Journal of Sports Science & Coaching",
+   "date": "2026.10.22",
+   "url": "https://doi.org/10.1177/17479541261500394",
+   "file": "docs/07/20261022_ijssc_organized-self-organized-football-motivation-norwegian-talent-pathway.pdf"
   }
  ]
 }
