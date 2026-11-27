@@ -1,5 +1,5 @@
 {
- "lastUpdate": "2026.11.25",
+ "lastUpdate": "2026.11.27",
  "items": [
   {
    "cat": "01_선수_평가_체계",
@@ -2431,6 +2431,19 @@
    "date": "2026.10.22",
    "url": "https://doi.org/10.1177/17479541261500394",
    "file": "docs/07/20261022_ijssc_organized-self-organized-football-motivation-norwegian-talent-pathway.pdf"
+  },
+  {
+   "cat": "05_선수_교육(지도)",
+   "sub": "",
+   "type": "paper",
+   "added": "2026.11.27",
+   "en": "Values education and positive development in young footballers at an elite club",
+   "ko": "스페인 엘리트 구단 유소년 선수의 가치 교육과 긍정적 발달",
+   "summary": "스페인 엘리트 구단 유소년 아카데미 9개 팀(U11~U19) 남자 선수 188명을 대상으로 청소년 긍정적 발달 가치 척도(24문항)를 적용한 횡단 연구. 책임감·사회적 헌신·정직 점수가 가장 높아 개인적·사회적 가치가 개인주의적 가치보다 우세했고, 다중비교 보정 후에도 친사회성·사회적 헌신의 팀 간 차이와 친사회성의 연령 효과가 유지됨. 연령에 따른 친사회성 하락은 개인 변화가 아닌 팀·코호트 간 차이로 나타나 경쟁 강도가 높은 상위 연령 팀의 가치 교육 강화 필요성을 제시",
+   "source": "Frontiers in Psychology",
+   "date": "2026.11.11",
+   "url": "https://doi.org/10.3389/fpsyg.2026.1989883",
+   "file": "docs/05/20261111_frontiers_values-education-young-footballers-elite-club.pdf"
   }
  ]
 }
